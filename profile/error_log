@@ -1,0 +1,41 @@
+[09-Jul-2025 07:04:29 UTC] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, null given in /home/pmpframe/staymate.pmpframe.com/API/profile/get_profile.php:110
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/profile/get_profile.php(110): array_merge(NULL, Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/profile/get_profile.php on line 110
+[09-Jul-2025 07:05:02 UTC] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, null given in /home/pmpframe/staymate.pmpframe.com/API/profile/get_profile.php:110
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/profile/get_profile.php(110): array_merge(NULL, Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/profile/get_profile.php on line 110
+[10-Jul-2025 10:44:21 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[10-Jul-2025 10:44:49 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[10-Jul-2025 10:44:54 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[10-Jul-2025 10:44:55 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[10-Jul-2025 10:44:56 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[10-Jul-2025 10:44:56 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[10-Jul-2025 10:44:57 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[10-Jul-2025 10:48:13 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[10-Jul-2025 10:48:13 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[10-Jul-2025 10:48:14 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[10-Jul-2025 10:48:15 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[10-Jul-2025 10:48:15 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[10-Jul-2025 10:48:15 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[10-Jul-2025 10:48:16 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[11-Jul-2025 15:02:56 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[11-Jul-2025 15:03:02 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[11-Jul-2025 15:03:05 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[12-Jul-2025 12:01:25 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[12-Jul-2025 12:12:23 UTC] PHP Warning:  POST Content-Length of 40148446 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jul-2025 12:12:23 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[12-Jul-2025 12:13:16 UTC] PHP Warning:  POST Content-Length of 40148448 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jul-2025 12:13:16 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[12-Jul-2025 12:14:10 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[12-Jul-2025 12:17:20 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[12-Jul-2025 12:17:27 UTC] PHP Fatal error:  Cannot use Firebase\JWT\JWT as JWT because the name is already in use in /home/pmpframe/staymate.pmpframe.com/API/profile/update_profile.php on line 143
+[12-Jul-2025 12:22:52 UTC] PHP Warning:  POST Content-Length of 40148447 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jul-2025 12:23:05 UTC] PHP Warning:  POST Content-Length of 40148447 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jul-2025 12:25:38 UTC] PHP Warning:  POST Content-Length of 40148447 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jul-2025 12:32:46 UTC] PHP Warning:  POST Content-Length of 40148447 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jul-2025 12:43:01 UTC] PHP Warning:  POST Content-Length of 20074495 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Jul-2025 12:48:32 UTC] PHP Warning:  POST Content-Length of 20080349 bytes exceeds the limit of 8388608 bytes in Unknown on line 0

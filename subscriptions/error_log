@@ -1,0 +1,439 @@
+[06-Aug-2025 11:43:15 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195641838","created_at":"2025-08-06T17:12:35+05:30","customer_details":{"customer_id":"219","customer_name":"Ayush Soni","customer_email":"ayush@gmail.com","customer_phone":"9301830069","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-09-05T17:12:35+05:30","order_id":"sub_order_12_1754480554_9939","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 12","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_lQQgQ9A5O96zwaxtccdwTj6GICQr1FrAQw2mH3UjlqluhOsUkPGgEV4kpLKHWneUrO5T7RsFDC9rxUB9igPmA6zz4NbIifK-d8m1wCwzaVqZLGF3WlZ8qjx2MKuKYQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[07-Aug-2025 05:47:07 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195667446","created_at":"2025-08-07T11:16:40+05:30","customer_details":{"customer_id":"219","customer_name":"Ayush Soni","customer_email":"ayush@gmail.com","customer_phone":"9301830069","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-09-06T11:16:40+05:30","order_id":"sub_order_13_1754545600_6330","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 13","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_OMtENkiF9TzoPmRX4GGIrgvpabreDueY6f81YH4EOPY7V_o7pUXk9Yj7p0M4OUI-8WPOr06SbI-oICUuqDmNzgZ8I6UhTUMeerxn2nPkaW-zjdGUNrZURSKteDNV0wpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[08-Aug-2025 12:55:23 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195709773","created_at":"2025-08-08T18:24:48+05:30","customer_details":{"customer_id":"234","customer_name":"Prem","customer_email":"rni.premkumar890@gmail.com","customer_phone":"8919583391","customer_uid":null},"entity":"order","order_amount":2358.85,"order_currency":"INR","order_expiry_time":"2025-09-07T18:24:48+05:30","order_id":"sub_order_18_1754657688_4691","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 18","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_nD32lXyjCEdHv0riL0dDkj062oXzOdB2MpfIeH81gWeEWuKQi2-r_BSPqXIdr1NGWLlqjNZeuV-6pzh-UeCL82deZT0dkOF1mB6uVT5IzYcvKbjmfuuz9M-PIz_xYgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[08-Aug-2025 12:55:23 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195709773","created_at":"2025-08-08T18:24:48+05:30","customer_details":{"customer_id":"234","customer_name":"Prem","customer_email":"rni.premkumar890@gmail.com","customer_phone":"8919583391","customer_uid":null},"entity":"order","order_amount":2358.85,"order_currency":"INR","order_expiry_time":"2025-09-07T18:24:48+05:30","order_id":"sub_order_18_1754657688_4691","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 18","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_snVe-j1ZzfPstu50tnDLlknXtPVRqUn7AM00g-iYQII10V5mYvnl0LEBXtsZcierizFj98cR8VxkCvd6wLksq5v0VkgZgc6UwStk2C6adZlB8Ytp9XObnSqF_8bT9wpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[08-Aug-2025 12:55:23 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195709773","created_at":"2025-08-08T18:24:48+05:30","customer_details":{"customer_id":"234","customer_name":"Prem","customer_email":"rni.premkumar890@gmail.com","customer_phone":"8919583391","customer_uid":null},"entity":"order","order_amount":2358.85,"order_currency":"INR","order_expiry_time":"2025-09-07T18:24:48+05:30","order_id":"sub_order_18_1754657688_4691","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 18","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_B1Z1pk7m0m8pgtSYLhPELAcfEYFVUzveygiZNrVLNU7RYIKv6EJsUl6kZ7RZjrLy_iSb4M2x5JqJ5PnmX8-5ka6f2VaogfrXPCVSWkTMcHB18-bavRhQribtoesBLwpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[08-Aug-2025 12:55:23 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195709773","created_at":"2025-08-08T18:24:48+05:30","customer_details":{"customer_id":"234","customer_name":"Prem","customer_email":"rni.premkumar890@gmail.com","customer_phone":"8919583391","customer_uid":null},"entity":"order","order_amount":2358.85,"order_currency":"INR","order_expiry_time":"2025-09-07T18:24:48+05:30","order_id":"sub_order_18_1754657688_4691","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 18","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_qE2tyTI9_DeTJHPl_ccwuP8eyBy1A7WK_yy-Q8hdEZc1G4vv1ItS56FiZ20ci5o81PZOmHfy-huKDCnwHUuQzRSFkERw9-_lvriGLIQHvnm0b7p9t2hSzNDDywYw6gpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[08-Aug-2025 12:55:23 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195709773","created_at":"2025-08-08T18:24:48+05:30","customer_details":{"customer_id":"234","customer_name":"Prem","customer_email":"rni.premkumar890@gmail.com","customer_phone":"8919583391","customer_uid":null},"entity":"order","order_amount":2358.85,"order_currency":"INR","order_expiry_time":"2025-09-07T18:24:48+05:30","order_id":"sub_order_18_1754657688_4691","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 18","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_wdjTnMmM5f6sBZWyNsq7YbtvboDXNbdQ_douYFPyrX-G-x45O7eMV_uIYk2D-32hvRPcp6Dhxv88v1LG130BePfMgocTQaAoUCUDbah_med4yl2ThlC_vUW_nJ77TQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[08-Aug-2025 13:20:08 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195710116","created_at":"2025-08-08T18:49:36+05:30","customer_details":{"customer_id":"235","customer_name":"Sandeep","customer_email":"andesandeep81@gmail.com","customer_phone":"9441809443","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-09-07T18:49:36+05:30","order_id":"sub_order_19_1754659175_4866","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 19","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_UVqcJiv79bfgTpkIztHYlpPt77eCFXkdATyDfc8hBzhjaANFbPH-A2NE9653SD1p1eokhcOKFIxuYHss-ILQSy3GRUV-LUtgC7ljFVAq5jUkpuutECjUk1tkp0L3aApaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[11-Aug-2025 07:51:13 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195759041","created_at":"2025-08-11T13:20:54+05:30","customer_details":{"customer_id":"233","customer_name":"Ayush Soni","customer_email":"soni.ayush.2212@gmail.com","customer_phone":"6267212293","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-09-10T13:20:54+05:30","order_id":"sub_order_20_1754898654_4752","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 20","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_BmKw8PlyW_qyIjfCG4EMitERoXluGBtebqlsHH6A8ZN24MNsu6QyLiOioUKJ73EVOGqzLjeOQCEwUe7bYzkOjC0qvLzAIFO3FqFwhIuEMHDTwFGZItIMwrEQqF4y2wpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[11-Aug-2025 07:54:39 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195759107","created_at":"2025-08-11T13:23:51+05:30","customer_details":{"customer_id":"239","customer_name":"Aman","customer_email":"amanmalviya258@gmail.com","customer_phone":"8982229022","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-09-10T13:23:51+05:30","order_id":"sub_order_21_1754898830_1391","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 21","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_xP5NJdDMbdpSuISRAqr_--asNW16MHbymbe6ePMyir2n9FHl_6LwW-3Eb83tX5p-PKRtJs6w-KFRQ9HHWL-46WFkUObJrrdQnqnohnevcT-9a23Gjg5j2aNdiTjnigpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[25-Aug-2025 08:19:50 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2196209981","created_at":"2025-08-25T13:49:23+05:30","customer_details":{"customer_id":"2","customer_name":"Ayush Soni","customer_email":"Soni.ayush.2212@gmail.com","customer_phone":"6267212293","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-09-24T13:49:23+05:30","order_id":"sub_order_1_1756109962_3887","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 1","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_XM53rzY0tnMPodC9UIs9k8tpEQhtlNsa4bVIFf-xpXLIPMZW2B8iWmniKTe8C4ZXp_GNFTKQtVDWhoSYJXA7EVC3SIYfKjTJ8i0KQDFnsJ5kCT8z3nDZ9ecrxDmHuwpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[25-Aug-2025 11:04:38 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2196215944","created_at":"2025-08-25T16:34:09+05:30","customer_details":{"customer_id":"5","customer_name":"Sandeep","customer_email":"Andesandeep81@gmail.com","customer_phone":"9441809443","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-09-24T16:34:09+05:30","order_id":"sub_order_2_1756119848_5270","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 2","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_-03-dLZ5XDIpiigYGSD-P7IPdkcsPhePJ-peCwkmLYRuR9IdYS17FdrjJa0l_dCB9Ar413LB5WrAVHKhqfL4P2xy1UgIvMlJ5oYiQ9xVhP6moItAsjfCNNLy0WWRdgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[03-Sep-2025 12:24:04 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2196555516","created_at":"2025-09-03T17:52:41+05:30","customer_details":{"customer_id":"13","customer_name":"Test","customer_email":"test258@gmail.com","customer_phone":"8839042497","customer_uid":null},"entity":"order","order_amount":2358.85,"order_currency":"INR","order_expiry_time":"2025-10-03T17:52:41+05:30","order_id":"sub_order_3_1756902140_6567","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 3","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_XY4hvPSnbpLXjrCVy--uxft7fuIBzpkbjLnsZKXvyEELDK5YOYBry2YFeM4mvs2DqNI8TyGKQPrb0OT2kz8GlubadMsASNAbrY5WtCZGvNpXyPK1acPYxa3RMm9W-gpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[09-Sep-2025 07:47:18 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2196745207","created_at":"2025-09-09T13:16:38+05:30","customer_details":{"customer_id":"5","customer_name":"Sandeep","customer_email":"Andesandeep81@gmail.com","customer_phone":"9441809443","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-10-09T13:16:38+05:30","order_id":"sub_order_4_1757403997_7282","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 4","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_Nph89IgCMOxYNNcaLhHBURP6T-nLLeFsfNPGUxVCP9rDuQrTSHnTS3ke76eqwcuLdGO450LxELlq9MkY0NJ2xgREiToAc6sk2h4lIbHj596HpuaDSfx-McfOTgIkagpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[17-Sep-2025 05:52:18 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197257486","created_at":"2025-09-17T11:21:24+05:30","customer_details":{"customer_id":"22","customer_name":"Shubham","customer_email":"testveram09@gmail.com","customer_phone":"9111511819","customer_uid":null},"entity":"order","order_amount":2358.85,"order_currency":"INR","order_expiry_time":"2025-10-17T11:21:24+05:30","order_id":"sub_order_9_1758088283_2181","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 9","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_JyWQ02PhhWXvadPKHkiJG_2Twa6qBvFP5QN1h1xwTtgwqv9bEuXnr4nuA8yklTPQqHoIwhLAf5_RUe8_ybrroM946TleotBEqMZzIgPlzYZwcXyR2HDkrpR_ZZpPLgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[17-Sep-2025 05:52:18 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197257486","created_at":"2025-09-17T11:21:24+05:30","customer_details":{"customer_id":"22","customer_name":"Shubham","customer_email":"testveram09@gmail.com","customer_phone":"9111511819","customer_uid":null},"entity":"order","order_amount":2358.85,"order_currency":"INR","order_expiry_time":"2025-10-17T11:21:24+05:30","order_id":"sub_order_9_1758088283_2181","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 9","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_j6Ot9wyqe88SgJwBU6Avd0rM4g1la1KPlFKCmE0D92WOJt8yC3T7JPDaE925yjcohto-Y9YOwgp_xHoeeoSO0ZjJ9yq8asIQcFyzU6pNhUtLucMlAtpxftkvoGA44Apaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[17-Sep-2025 05:52:18 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197257486","created_at":"2025-09-17T11:21:24+05:30","customer_details":{"customer_id":"22","customer_name":"Shubham","customer_email":"testveram09@gmail.com","customer_phone":"9111511819","customer_uid":null},"entity":"order","order_amount":2358.85,"order_currency":"INR","order_expiry_time":"2025-10-17T11:21:24+05:30","order_id":"sub_order_9_1758088283_2181","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 9","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_1ZaKXEwiCZIZwySVhgpwlMW9nh99ooGYG14VG8kpvK6uUMGiAYWOk32Sj6Rlp6vhtN4OfZC_iO7Pc1wIIpMdDmGs0xZveSsN8Ls7nEZO6kqTEm3UuPO3qSKPpN19ogpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[17-Sep-2025 05:52:18 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197257486","created_at":"2025-09-17T11:21:24+05:30","customer_details":{"customer_id":"22","customer_name":"Shubham","customer_email":"testveram09@gmail.com","customer_phone":"9111511819","customer_uid":null},"entity":"order","order_amount":2358.85,"order_currency":"INR","order_expiry_time":"2025-10-17T11:21:24+05:30","order_id":"sub_order_9_1758088283_2181","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 9","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_wghmDhtn_gOYK6-_5meH79oaeXzEkO224iL8nYBiVHzRPtqpiqw_sB1RE2GbNFGZ_QOCc0oVZPu6DyGuHiMKUBqzP81bU-yvLJv_sw0SPAklKXnZln_y9oLg50smQQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[29-Sep-2025 07:16:43 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197716176","created_at":"2025-09-29T12:46:18+05:30","customer_details":{"customer_id":"56","customer_name":"Cardism","customer_email":"test@test.com","customer_phone":"7673919394","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-10-29T12:46:18+05:30","order_id":"sub_order_10_1759130177_2905","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 10","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_Xr_ssHHtkgaMWEjkZqrnM0uhoAxN-rm0TEet-Nnlt8PUl0ryGV7NSxT8ABNw-NvanmB64uPJu2KpLodLUcxtr1DVHYAEsmWXyNs_ys8O3JIqC93ciIjIwjaGeljURgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[08-Oct-2025 10:25:58 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198064879","created_at":"2025-10-08T15:55:16+05:30","customer_details":{"customer_id":"76","customer_name":"Kapil Sharma","customer_email":"kapil@gmail.com","customer_phone":"7693863103","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-11-07T15:55:16+05:30","order_id":"sub_order_14_1759919115_8975","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 14","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_kvo0rm0i14xeZHN2inik0n21-6TcZVgu5poODp9xFMV3V0fdG2azwTOMMggqYgWd6YhVlK-PU4Fl6-3j06-S0FhK8qG7WNjrap1XWlCfQk9jdG_PjjbD53LigYPUHgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[09-Oct-2025 08:11:17 UTC] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198103304","created_at":"2025-10-09T13:40:50+05:30","customer_details":{"customer_id":"77","customer_name":"Sandeep","customer_email":"andesandeep81@gmail.com","customer_phone":"9441809443","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-11-08T13:40:50+05:30","order_id":"sub_order_15_1759997449_4628","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 15","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_4SMQwsRduWlC25JJdU7wVvm96R5b3lMKUuDGvTciiGpACZycBhwXdN49hzIsPzUlOMdFK5qFXElGPKpLXyTqeiEon9e7s33xMDPdOJ0EwFw15Ltah5WG5y3DzLz_OQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[15-Nov-2025 12:40:37 Asia/Kolkata] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2200383567","created_at":"2025-11-15T12:39:52+05:30","customer_details":{"customer_id":"77","customer_name":"Sandeep","customer_email":"andesandeep81@gmail.com","customer_phone":"9441809443","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-12-15T12:39:52+05:30","order_id":"sub_order_24_1763190591_2746","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 24","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_er_fv6FnqI2GhL8LOxBICRjelujY7uj10o_IjBexxXmJopemYD_qKaCwnEpZCKh_ugWvOfyDEwZYc6O77uaO6c7UKt6Rgwmtp1wLlEAtszzLnzUhNtAMMZ-9iBMDbwpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[19-Nov-2025 17:29:15 Asia/Kolkata] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2200599959","created_at":"2025-11-19T17:28:24+05:30","customer_details":{"customer_id":"103","customer_name":"Sapacha","customer_email":"saipacha07@gmail.com","customer_phone":"7660086070","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-12-19T17:28:24+05:30","order_id":"sub_order_25_1763553503_7272","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 25","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_8Ei3j7UDVflCJNWwyqL_qXL1RJJRP0r6QqNH0NfKzrjhm5s8U-hIgLQ2-RqnOS9M5w1kWPj_rJr3KJuPYPK2KEjjYYZQAEyZ1agIekd2foyzazwbwLvWO7mwJJQUNgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[22-Nov-2025 15:31:42 Asia/Kolkata] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2200791862","created_at":"2025-11-22T15:31:07+05:30","customer_details":{"customer_id":"104","customer_name":"Divyansh","customer_email":"div@gmail.com","customer_phone":"9757055406","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-12-22T15:31:07+05:30","order_id":"sub_order_26_1763805666_1781","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 26","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_uenPtboIyA7r1n9gjZ4q325cC-jYS483xKY0XoFuhcmO2DOrfuwKNwH8phpCbdwXJgZrhkz3mjKQo-ok0WaM46ETz081zjUkAyB1yOaQc9_LPWvz8Y56ORhDsa6zTApaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[01-Dec-2025 10:19:20 Asia/Kolkata] SUBSCRIPTION_PAYMENT_CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2201187767","created_at":"2025-12-01T10:19:02+05:30","customer_details":{"customer_id":"105","customer_name":"Ravi Kumar","customer_email":"ravikumarroyal999@gmail.com","customer_phone":"6305317631","customer_uid":null},"entity":"order","order_amount":1178.85,"order_currency":"INR","order_expiry_time":"2025-12-31T10:19:02+05:30","order_id":"sub_order_28_1764564541_3807","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for subscription: 28","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_Oj4kn07eHk51XTfLop-DbaXa17ZWEVfsEPTRgxLlHGDakoaVqqPaC7Gsx6ywYbaQ7pgzEKqFvSpCGhMRVX3dYILbUou18ItD6xe3nFyyJHZDLJE7K6HnA_NTGJ9FcApaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[06-Dec-2025 11:56:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php on line 23
+[06-Dec-2025 11:56:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php on line 23
+[06-Dec-2025 11:56:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php on line 31
+[06-Dec-2025 11:56:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php on line 23
+[06-Dec-2025 11:56:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php on line 31
+[06-Dec-2025 11:57:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php on line 23
+[06-Dec-2025 11:57:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php on line 31
+[06-Dec-2025 11:57:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php on line 23
+[06-Dec-2025 11:57:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php on line 31
+[06-Dec-2025 11:57:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php on line 23
+[06-Dec-2025 11:57:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php on line 31
+[06-Dec-2025 11:57:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php on line 23
+[06-Dec-2025 11:57:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php on line 31
+[06-Dec-2025 11:58:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php on line 23
+[06-Dec-2025 11:58:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php on line 31
+[06-Dec-2025 11:59:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Firebase\JWT\JWT" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/create_owner_subscription.php on line 31
+[06-Dec-2025 12:59:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 17
+[06-Dec-2025 12:59:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 17
+[06-Dec-2025 13:01:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 17
+[06-Dec-2025 13:01:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 17
+[06-Dec-2025 13:07:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 17
+[06-Dec-2025 13:07:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 17
+[06-Dec-2025 13:08:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 17
+[06-Dec-2025 13:08:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 17
+[06-Dec-2025 13:16:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 17
+[06-Dec-2025 13:16:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 17
+[06-Dec-2025 13:17:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 17
+[06-Dec-2025 13:17:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 17
+[06-Dec-2025 13:25:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 20
+[06-Dec-2025 13:25:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 20
+[06-Dec-2025 13:26:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 20
+[06-Dec-2025 13:27:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 20
+[06-Dec-2025 13:30:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 20
+[06-Dec-2025 13:30:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 20
+[06-Dec-2025 13:33:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 20
+[06-Dec-2025 13:34:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Api::verifyWebhookSignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 23
+[06-Dec-2025 13:35:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method Razorpay\Api\Webhook::verifySignature() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 23
+[12-Dec-2025 16:44:57 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.owner_subscriptions' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:98
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(98): mysqli->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 98
+[12-Dec-2025 16:45:08 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.owner_subscriptions' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:165
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(165): mysqli->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 165
+[12-Dec-2025 16:45:08 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.owner_subscriptions' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:62
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(62): mysqli->prepare('SELECT * FROM o...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 62
+[12-Dec-2025 17:06:58 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:127
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(127): mysqli_stmt->bind_param('iidsssss', 92, 100, 1, 'renewal', 'pay_RqgaALyBPk2...', 'inv_RqgZSzGMSaU...', 'UPI', '2025-12-12 17:0...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 127
+[15-Dec-2025 15:48:34 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.PG_DETAILS' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php:73
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php(73): mysqli->prepare('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php on line 73
+[15-Dec-2025 15:48:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.PG_DETAILS' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php:73
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php(73): mysqli->prepare('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php on line 73
+[15-Dec-2025 15:48:54 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.PG_DETAILS' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php:73
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php(73): mysqli->prepare('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/owner_active.php on line 73
+[15-Dec-2025 17:34:42 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:131
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(131): mysqli_stmt->bind_param('iidsssss', 93, 152, 1, 'renewal', 'pay_RrsdghiE4Oz...', 'inv_Rrsc8k5Jh8o...', 'UPI', '2025-12-15 17:3...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 131
+[15-Dec-2025 19:00:23 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:131
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(131): mysqli_stmt->bind_param('iidsssss', 94, 153, 1, 'renewal', 'pay_Rru6fOhbmX8...', 'inv_Rru5ojwySNM...', 'UPI', '2025-12-15 18:5...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 131
+[16-Dec-2025 15:57:15 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 95, 154, 1, 'renewal', 'pay_RsFW991RjQZ...', 'inv_RsFUZw7zlQU...', 'UPI', '2025-12-16 15:5...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[16-Dec-2025 15:57:55 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[16-Dec-2025 16:08:36 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 96, 154, 1, 'renewal', 'pay_RsFhn5SEfMF...', 'inv_RsFh1trM0zu...', 'UPI', '2025-12-16 16:0...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[16-Dec-2025 16:11:07 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[16-Dec-2025 16:25:40 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 98, 154, 1, 'renewal', 'pay_RsG0ySWrIjj...', 'inv_RsG062aX9sH...', 'UPI', '2025-12-16 16:2...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[16-Dec-2025 16:26:15 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[16-Dec-2025 18:03:38 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 99, 154, 1, 'renewal', 'pay_RsHfTbAZGbZ...', 'inv_RsGgGC6BApA...', 'UPI', '2025-12-16 17:0...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[16-Dec-2025 18:05:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[16-Dec-2025 18:10:34 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 100, 154, 1, 'renewal', 'pay_RsHnzzTqiVz...', 'inv_RsHnJoi7p61...', 'UPI', '2025-12-16 18:0...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[16-Dec-2025 18:12:33 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[17-Dec-2025 14:45:23 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 102, 154, 1, 'renewal', 'pay_RscqGFcMgVv...', 'inv_RscnHHT3ZV5...', 'UPI', '2025-12-17 14:4...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[17-Dec-2025 14:49:57 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[17-Dec-2025 14:55:40 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 103, 154, 1, 'renewal', 'pay_Rsd14InbNW1...', 'inv_Rsd0PXrDDJb...', 'UPI', '2025-12-17 14:5...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[17-Dec-2025 15:01:41 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[18-Dec-2025 18:16:58 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 104, 154, 1, 'renewal', 'pay_Rt4z196fQP7...', 'inv_Rt4Wm6IkSiQ...', 'UPI', '2025-12-18 17:4...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[18-Dec-2025 18:17:32 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[18-Dec-2025 18:21:15 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 105, 154, 1, 'renewal', 'pay_Rt53ZkuRg77...', 'inv_Rt531Dol8uH...', 'UPI', '2025-12-18 18:2...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[18-Dec-2025 18:21:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[18-Dec-2025 18:25:54 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 106, 154, 1, 'renewal', 'pay_Rt58RwLtnDh...', 'inv_Rt57SGY267J...', 'UPI', '2025-12-18 18:2...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[18-Dec-2025 18:26:10 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[18-Dec-2025 18:30:47 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 108, 154, 1, 'renewal', 'pay_Rt5DMh86fw9...', 'inv_Rt5CfC3001B...', 'UPI', '2025-12-18 18:2...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[18-Dec-2025 18:31:52 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[18-Dec-2025 18:37:14 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 109, 154, 1, 'renewal', 'pay_Rt5KH8G7doy...', 'inv_Rt5JYPiv4An...', 'UPI', '2025-12-18 18:3...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[18-Dec-2025 18:38:45 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[19-Dec-2025 11:07:16 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 113, 154, 1, 'renewal', 'pay_RtMC2QCdtNP...', 'inv_RtM9L9re6kn...', 'UPI', '2025-12-19 11:0...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[19-Dec-2025 11:13:32 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[19-Dec-2025 11:18:47 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 114, 154, 1, 'renewal', 'pay_RtMNWOxpd5y...', 'inv_RtMN1QLYimv...', 'UPI', '2025-12-19 11:1...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[19-Dec-2025 11:19:23 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[19-Dec-2025 11:24:12 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 115, 154, 1, 'renewal', 'pay_RtMTaBa4O5O...', 'inv_RtMSxUtZJWR...', 'UPI', '2025-12-19 11:2...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[19-Dec-2025 11:26:31 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[19-Dec-2025 11:30:38 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 116, 154, 1, 'renewal', 'pay_RtMawrr8QPF...', 'inv_RtMaHa4P8lz...', 'UPI', '2025-12-19 11:2...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[19-Dec-2025 11:32:32 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[19-Dec-2025 11:35:44 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 117, 154, 1, 'renewal', 'pay_RtMgHb8GdFh...', 'inv_RtMfg6lm88c...', 'UPI', '2025-12-19 11:3...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[19-Dec-2025 11:37:59 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[19-Dec-2025 11:43:04 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 118, 154, 1, 'renewal', 'pay_RtMo88bhwEJ...', 'inv_RtMnWgQm1V2...', 'UPI', '2025-12-19 11:4...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[19-Dec-2025 11:43:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_prod.SUBSCRIPTION_CANCELLATION_LOG' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php:151
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php(151): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 151
+[19-Dec-2025 11:46:38 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 119, 154, 1, 'renewal', 'pay_RtMroQeBQgm...', 'inv_RtMrGZFkJnU...', 'UPI', '2025-12-19 11:4...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[19-Dec-2025 11:47:06 Asia/Kolkata] PHP Warning:  Undefined variable $cType in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/cancel_subscription.php on line 166
+[19-Dec-2025 11:50:56 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 120, 154, 1, 'renewal', 'pay_RtMvijn4dbx...', 'inv_RtMvBm8l4nU...', 'UPI', '2025-12-19 11:4...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158
+[19-Dec-2025 11:57:59 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php:158
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php(158): mysqli_stmt->bind_param('iidsssss', 121, 154, 1, 'renewal', 'pay_RtN3KRr4gQN...', 'inv_RtN1kMjGUTS...', 'UPI', '2025-12-19 11:5...', '{"entity":"even...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/subscriptions/razorpay_webhook.php on line 158

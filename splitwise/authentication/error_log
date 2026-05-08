@@ -1,0 +1,752 @@
+[10-Apr-2025 10:18:41 UTC] PHP Warning:  include(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 3
+[10-Apr-2025 10:18:41 UTC] PHP Warning:  include(): Failed opening 'dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 3
+[10-Apr-2025 10:18:53 UTC] PHP Warning:  include(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 3
+[10-Apr-2025 10:18:53 UTC] PHP Warning:  include(): Failed opening 'dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 3
+[10-Apr-2025 10:18:53 UTC] PHP Warning:  Undefined variable $conn in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 23
+[10-Apr-2025 10:18:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 23
+[10-Apr-2025 10:19:35 UTC] PHP Warning:  include(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 6
+[10-Apr-2025 10:19:35 UTC] PHP Warning:  include(): Failed opening 'dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 6
+[10-Apr-2025 10:19:35 UTC] PHP Warning:  Undefined variable $conn in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 26
+[10-Apr-2025 10:19:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 26
+[10-Apr-2025 10:20:22 UTC] PHP Warning:  include(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 8
+[10-Apr-2025 10:20:22 UTC] PHP Warning:  include(): Failed opening 'dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 8
+[10-Apr-2025 10:20:22 UTC] PHP Warning:  Undefined variable $conn in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 28
+[10-Apr-2025 10:20:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 28
+[10-Apr-2025 11:12:45 UTC] PHP Warning:  include(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 3
+[10-Apr-2025 11:12:45 UTC] PHP Warning:  include(): Failed opening 'dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 3
+[10-Apr-2025 11:12:45 UTC] PHP Warning:  Undefined variable $conn in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 20
+[10-Apr-2025 11:12:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 20
+[10-Apr-2025 11:27:54 UTC] PHP Warning:  include(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp.php on line 3
+[10-Apr-2025 11:27:54 UTC] PHP Warning:  include(): Failed opening 'dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp.php on line 3
+[10-Apr-2025 11:28:14 UTC] PHP Warning:  include(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp.php on line 3
+[10-Apr-2025 11:28:14 UTC] PHP Warning:  include(): Failed opening 'dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp.php on line 3
+[10-Apr-2025 11:28:14 UTC] PHP Warning:  Undefined variable $conn in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp.php on line 23
+[10-Apr-2025 11:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp.php on line 23
+[10-Apr-2025 13:02:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'USERS.PRIMARY' in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php:50
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php(50): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 50
+[10-Apr-2025 13:02:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'OTP_VERIFICATION.PRIMARY' in /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php:49
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php(49): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php on line 49
+[10-Apr-2025 13:03:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'OTP_VERIFICATION.PRIMARY' in /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php:49
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php(49): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php on line 49
+[10-Apr-2025 13:09:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'USERS.PRIMARY' in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php:50
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php(50): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 50
+[21-Apr-2025 05:53:31 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/pmpframe/staymate.pmpframe.com/API/authentication/add_tenant.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/add_tenant.php on line 35
+[21-Apr-2025 05:54:11 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/pmpframe/staymate.pmpframe.com/API/authentication/add_tenant.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/add_tenant.php on line 39
+[21-Apr-2025 05:55:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'full_name' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/add_tenant.php:71
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/add_tenant.php(71): mysqli->prepare('INSERT INTO USE...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/add_tenant.php on line 71
+[21-Apr-2025 05:55:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/add_tenant.php:71
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/add_tenant.php(71): mysqli->prepare('INSERT INTO USE...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/add_tenant.php on line 71
+[05-Jul-2025 11:13:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php:46
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php(46): mysqli->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 46
+[07-Jul-2025 09:36:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate`.`OTP_VERIFICATION`, CONSTRAINT `OTP_VERIFICATION_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `USERS` (`user_id`)) in /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php:50
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php(50): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php on line 50
+[07-Jul-2025 10:45:22 UTC] PHP Deprecated:  mysqli::prepare(): Passing null to parameter #1 ($query) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 27
+[07-Jul-2025 10:45:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Query was empty in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:27
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(27): mysqli->prepare('')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 27
+[07-Jul-2025 10:45:50 UTC] PHP Deprecated:  mysqli::prepare(): Passing null to parameter #1 ($query) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 27
+[07-Jul-2025 10:45:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Query was empty in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:27
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(27): mysqli->prepare('')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 27
+[07-Jul-2025 10:49:38 UTC] PHP Deprecated:  mysqli::prepare(): Passing null to parameter #1 ($query) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 27
+[07-Jul-2025 10:49:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Query was empty in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:27
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(27): mysqli->prepare('')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 27
+[08-Jul-2025 06:29:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php:60
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php(60): mysqli->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 60
+[08-Jul-2025 06:53:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php:60
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php(60): mysqli->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 60
+[08-Jul-2025 07:52:23 UTC] PHP Warning:  Undefined variable $jwt_secret in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 116
+[08-Jul-2025 07:52:23 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: key must be a string when using hmac in /home/pmpframe/staymate.pmpframe.com/API/vendor/firebase/php-jwt/src/JWT.php:249
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/vendor/firebase/php-jwt/src/JWT.php(219): Firebase\JWT\JWT::sign('eyJ0eXAiOiJKV1Q...', NULL, 'HS256')
+#1 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(116): Firebase\JWT\JWT::encode(Array, NULL, 'HS256')
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/vendor/firebase/php-jwt/src/JWT.php on line 249
+[08-Jul-2025 10:54:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php:60
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php(60): mysqli->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 60
+[08-Jul-2025 10:58:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php:87
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php(87): mysqli->prepare('SELECT user_id ...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 87
+[08-Jul-2025 11:04:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'aadhaar_card' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php:114
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php(114): mysqli->prepare('INSERT INTO USE...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 114
+[08-Jul-2025 11:04:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'aadhaar_card' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php:114
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php(114): mysqli->prepare('INSERT INTO USE...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 114
+[08-Jul-2025 11:08:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'aadhaar_card' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php:120
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php(120): mysqli->prepare('INSERT INTO USE...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/register.php on line 120
+[09-Jul-2025 06:13:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:13:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:15:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:16:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:17:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:17:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:17:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:18:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:18:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[09-Jul-2025 06:18:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'emergency_contacts' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:119
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(119): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 119
+[08-Aug-2025 06:41:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate`.`OTP_VERIFICATION`, CONSTRAINT `OTP_VERIFICATION_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `USERS` (`user_id`)) in /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php:53
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php(53): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php on line 53
+[08-Aug-2025 08:00:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'otp' cannot be null in /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php:46
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php(46): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/send_otp.php on line 46
+[08-Aug-2025 14:33:43 UTC] PHP Warning:  Undefined variable $user_id in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 52
+[08-Aug-2025 14:33:43 UTC] PHP Warning:  Undefined variable $user_name in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 54
+[08-Aug-2025 14:33:43 UTC] PHP Warning:  Undefined variable $user_email in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 55
+[08-Aug-2025 14:33:43 UTC] PHP Warning:  Undefined variable $user_type in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 56
+[11-Aug-2025 07:52:06 UTC] PHP Warning:  Undefined variable $user_id in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 52
+[11-Aug-2025 07:52:06 UTC] PHP Warning:  Undefined variable $user_name in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 54
+[11-Aug-2025 07:52:06 UTC] PHP Warning:  Undefined variable $user_email in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 55
+[11-Aug-2025 07:52:06 UTC] PHP Warning:  Undefined variable $user_type in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 56
+[11-Aug-2025 09:19:08 UTC] PHP Warning:  Undefined variable $user_id in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 52
+[11-Aug-2025 09:19:08 UTC] PHP Warning:  Undefined variable $user_name in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 54
+[11-Aug-2025 09:19:08 UTC] PHP Warning:  Undefined variable $user_email in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 55
+[11-Aug-2025 09:19:08 UTC] PHP Warning:  Undefined variable $user_type in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 56
+[11-Aug-2025 12:13:48 UTC] PHP Warning:  Undefined variable $user_id in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 52
+[11-Aug-2025 12:13:48 UTC] PHP Warning:  Undefined variable $user_name in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 54
+[11-Aug-2025 12:13:48 UTC] PHP Warning:  Undefined variable $user_email in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 55
+[11-Aug-2025 12:13:48 UTC] PHP Warning:  Undefined variable $user_type in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 56
+[19-Aug-2025 09:47:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'is_details_verified' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:181
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(181): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 181
+[19-Aug-2025 09:48:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'is_details_verified' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:181
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(181): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 181
+[20-Aug-2025 08:30:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'is_details_updated' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:181
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(181): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 181
+[20-Aug-2025 08:33:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'is_details_updated' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php:181
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php(181): mysqli->prepare('SELECT name, em...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/authentication/verify_otp_phone.php on line 181
+[19-Sep-2025 12:15:16 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 49
+[19-Sep-2025 12:21:49 UTC] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 49
+[03-Nov-2025 14:39:02 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 49
+[03-Nov-2025 14:56:50 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 49
+[04-Nov-2025 17:18:50 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 49
+[04-Nov-2025 17:19:07 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 49
+[04-Nov-2025 17:19:08 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 49
+[04-Nov-2025 17:19:43 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 49
+[04-Nov-2025 17:19:57 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/authentication/login.php on line 49
+[31-Dec-2025 07:11:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'staymate_dev'@'localhost' to database 'staymate_dev' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php:9
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php(9): mysqli->__construct('localhost', 'staymate_dev', 'M?xOMiMGy=.,Q0u...', 'staymate_dev')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/verify_otp_phone.php(3): include('/home/pmpframe/...')
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php on line 9
+[31-Dec-2025 07:11:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'staymate_dev'@'localhost' to database 'staymate_dev' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php:9
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php(9): mysqli->__construct('localhost', 'staymate_dev', 'M?xOMiMGy=.,Q0u...', 'staymate_dev')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/verify_otp_phone.php(3): include('/home/pmpframe/...')
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php on line 9
+[31-Dec-2025 07:12:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'staymate_dev'@'localhost' to database 'staymate_dev' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php:9
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php(9): mysqli->__construct('localhost', 'staymate_dev', 'M?xOMiMGy=.,Q0u...', 'staymate_dev')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/verify_otp_phone.php(3): include('/home/pmpframe/...')
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php on line 9
+[31-Dec-2025 07:12:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'staymate_dev'@'localhost' to database 'staymate_dev' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php:9
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php(9): mysqli->__construct('localhost', 'staymate_dev', 'M?xOMiMGy=.,Q0u...', 'staymate_dev')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/verify_otp_phone.php(3): include('/home/pmpframe/...')
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php on line 9
+[31-Dec-2025 07:13:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'staymate_dev'@'localhost' to database 'staymate_dev' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php:12
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php(12): mysqli->__construct('localhost', 'staymate_dev', 'M?xOMiMGy=.,Q0u...', 'staymate_dev')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/verify_otp_phone.php(3): include('/home/pmpframe/...')
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php on line 12
+[17-Feb-2026 14:54:56 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/login.php on line 49
+[18-Feb-2026 12:43:39 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[18-Feb-2026 14:52:24 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[18-Feb-2026 14:53:01 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[18-Feb-2026 16:03:50 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[18-Feb-2026 16:16:59 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[19-Feb-2026 10:24:19 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[19-Feb-2026 10:24:31 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[19-Feb-2026 10:24:34 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[19-Feb-2026 10:24:38 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[19-Feb-2026 10:33:43 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[19-Feb-2026 10:41:58 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[19-Feb-2026 11:03:55 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[19-Feb-2026 11:05:16 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[19-Feb-2026 11:32:16 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[19-Feb-2026 11:45:34 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[19-Feb-2026 18:22:19 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[19-Feb-2026 19:00:37 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 10:55:06 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 11:00:51 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 11:13:25 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 11:42:44 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 11:52:26 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 12:15:25 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 12:17:02 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 12:30:34 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 12:41:29 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 12:56:35 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 13:35:54 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 14:50:19 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 15:08:48 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 15:11:16 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 15:12:28 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 15:24:30 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Feb-2026 16:57:30 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[21-Feb-2026 10:39:07 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[21-Feb-2026 11:27:33 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[21-Feb-2026 15:45:17 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 10:42:15 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 10:48:51 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 11:05:13 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 11:12:07 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 11:49:32 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 12:17:39 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 12:22:05 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 15:20:51 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 15:53:40 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 16:46:21 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 16:55:24 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 17:04:18 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 17:04:20 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 17:04:21 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 18:08:47 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 18:09:29 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 18:40:48 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 18:40:49 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Feb-2026 18:43:23 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[24-Feb-2026 10:54:24 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[24-Feb-2026 16:01:13 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[24-Feb-2026 16:51:17 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[24-Feb-2026 16:55:53 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[25-Feb-2026 12:22:55 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[25-Feb-2026 12:32:53 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[26-Feb-2026 10:41:17 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[26-Feb-2026 10:55:34 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[27-Feb-2026 11:41:40 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[27-Feb-2026 13:04:58 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[27-Feb-2026 16:01:26 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/login.php on line 49
+[27-Feb-2026 16:02:44 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/login.php on line 49
+[28-Feb-2026 12:10:55 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[02-Mar-2026 10:59:32 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[02-Mar-2026 11:36:41 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[02-Mar-2026 11:41:06 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[02-Mar-2026 11:48:35 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[02-Mar-2026 11:54:34 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[02-Mar-2026 12:51:15 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[02-Mar-2026 12:51:16 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[02-Mar-2026 13:23:52 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[02-Mar-2026 14:25:35 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[02-Mar-2026 14:29:28 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/login.php on line 49
+[02-Mar-2026 14:31:02 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/login.php on line 49
+[02-Mar-2026 14:31:07 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/login.php on line 49
+[02-Mar-2026 14:34:19 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/login.php on line 49
+[02-Mar-2026 14:34:33 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/login.php on line 49
+[02-Mar-2026 15:09:28 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[05-Mar-2026 12:01:48 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[06-Mar-2026 14:43:30 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[06-Mar-2026 15:39:03 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[09-Mar-2026 12:42:20 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[09-Mar-2026 16:27:13 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[09-Mar-2026 16:55:36 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[09-Mar-2026 16:57:45 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[09-Mar-2026 18:45:43 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[10-Mar-2026 12:56:32 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[10-Mar-2026 14:31:45 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[10-Mar-2026 14:39:20 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[10-Mar-2026 16:56:12 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[10-Mar-2026 16:57:52 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[10-Mar-2026 16:59:38 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[11-Mar-2026 11:07:09 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[11-Mar-2026 14:33:43 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[11-Mar-2026 14:43:24 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[11-Mar-2026 17:21:27 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[11-Mar-2026 18:10:48 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[12-Mar-2026 12:20:46 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[12-Mar-2026 19:06:47 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[12-Mar-2026 19:09:42 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[13-Mar-2026 11:17:15 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[13-Mar-2026 13:55:21 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[13-Mar-2026 18:18:37 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[13-Mar-2026 18:19:23 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[18-Mar-2026 19:17:52 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[18-Mar-2026 19:18:06 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[18-Mar-2026 19:18:10 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[18-Mar-2026 19:19:15 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[18-Mar-2026 19:19:53 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[18-Mar-2026 19:19:59 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[18-Mar-2026 19:21:02 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Mar-2026 12:14:41 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Mar-2026 14:42:50 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Mar-2026 14:54:34 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Mar-2026 15:03:19 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Mar-2026 17:19:45 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Mar-2026 18:22:12 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[20-Mar-2026 18:47:04 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[21-Mar-2026 11:02:39 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Mar-2026 13:15:13 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Mar-2026 18:27:29 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[23-Mar-2026 18:38:36 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[24-Mar-2026 12:04:49 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[24-Mar-2026 14:33:10 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[24-Mar-2026 14:47:28 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[24-Mar-2026 14:47:57 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[24-Mar-2026 14:48:39 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[24-Mar-2026 14:49:24 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[25-Mar-2026 11:17:23 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[25-Mar-2026 16:13:59 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[25-Mar-2026 16:14:03 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[25-Mar-2026 16:40:44 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[25-Mar-2026 16:54:01 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[25-Mar-2026 18:17:48 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/login.php on line 49
+[25-Mar-2026 18:18:11 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/login.php on line 49
+[25-Mar-2026 18:18:41 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/login.php on line 49
+[26-Mar-2026 13:26:20 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[26-Mar-2026 13:30:59 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[26-Mar-2026 14:31:50 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[26-Mar-2026 14:31:55 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[26-Mar-2026 15:38:03 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[26-Mar-2026 15:39:49 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[26-Mar-2026 15:42:04 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[26-Mar-2026 17:25:44 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[26-Mar-2026 19:03:14 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[30-Mar-2026 10:39:10 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[30-Mar-2026 12:55:37 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[30-Mar-2026 13:13:21 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[30-Mar-2026 13:14:35 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[30-Mar-2026 15:10:53 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[30-Mar-2026 15:19:03 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[30-Mar-2026 17:12:06 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[31-Mar-2026 12:21:22 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[31-Mar-2026 13:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[31-Mar-2026 13:18:44 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[31-Mar-2026 17:51:32 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[31-Mar-2026 18:24:53 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[31-Mar-2026 18:52:03 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[31-Mar-2026 18:53:14 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[01-Apr-2026 11:00:43 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[01-Apr-2026 12:30:07 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[01-Apr-2026 12:30:28 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[01-Apr-2026 12:40:24 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[01-Apr-2026 12:58:55 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[01-Apr-2026 15:16:19 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[01-Apr-2026 17:22:25 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[01-Apr-2026 18:25:54 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[01-Apr-2026 18:33:36 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[01-Apr-2026 18:59:35 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[02-Apr-2026 12:11:44 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[02-Apr-2026 18:01:25 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[02-Apr-2026 18:01:25 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[04-Apr-2026 22:13:14 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[05-Apr-2026 14:20:24 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[05-Apr-2026 22:52:28 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[05-Apr-2026 23:17:12 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[06-Apr-2026 22:12:19 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[06-Apr-2026 22:12:29 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[06-Apr-2026 22:15:25 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[06-Apr-2026 22:19:08 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[06-Apr-2026 22:46:37 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[07-Apr-2026 20:58:01 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[07-Apr-2026 20:59:54 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[07-Apr-2026 21:57:29 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[07-Apr-2026 22:26:27 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[08-Apr-2026 23:04:39 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[08-Apr-2026 23:06:07 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[09-Apr-2026 22:38:21 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[09-Apr-2026 22:39:26 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[09-Apr-2026 22:53:33 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[09-Apr-2026 22:57:57 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[09-Apr-2026 23:24:50 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[10-Apr-2026 12:00:22 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[10-Apr-2026 12:01:03 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[10-Apr-2026 12:03:22 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[10-Apr-2026 13:08:43 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[10-Apr-2026 14:55:07 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[10-Apr-2026 15:01:16 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[12-Apr-2026 15:08:23 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[12-Apr-2026 15:15:18 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[12-Apr-2026 15:54:36 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[12-Apr-2026 18:25:30 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[13-Apr-2026 21:25:34 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[13-Apr-2026 21:33:16 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[13-Apr-2026 22:56:12 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[13-Apr-2026 23:06:25 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[13-Apr-2026 23:09:44 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[14-Apr-2026 13:10:55 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/login.php on line 49
+[14-Apr-2026 13:10:59 Asia/Kolkata] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/login.php on line 49
+[14-Apr-2026 15:36:08 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[14-Apr-2026 17:28:25 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[14-Apr-2026 17:29:15 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[14-Apr-2026 17:32:07 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[14-Apr-2026 17:34:12 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[14-Apr-2026 18:18:10 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[14-Apr-2026 18:27:19 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[14-Apr-2026 18:28:14 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[14-Apr-2026 18:40:29 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[15-Apr-2026 15:19:46 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[15-Apr-2026 15:19:46 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[15-Apr-2026 16:11:19 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[15-Apr-2026 17:21:20 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[15-Apr-2026 18:06:00 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[16-Apr-2026 09:52:58 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[16-Apr-2026 09:53:01 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[16-Apr-2026 09:53:02 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[16-Apr-2026 09:53:33 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116
+[16-Apr-2026 09:54:15 Asia/Kolkata] PHP Warning:  Undefined variable $curl_error in /home/pmpframe/staymate.pmpframe.com/NEWAPI/authentication/signup_signin.php on line 116

@@ -1,0 +1,15 @@
+[27-May-2025 08:54:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.service_request' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/request/raise_request.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/request/raise_request.php(52): mysqli->prepare('INSERT INTO ser...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/request/raise_request.php on line 52
+[27-May-2025 08:54:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.service_request' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/request/raise_request.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/request/raise_request.php(52): mysqli->prepare('INSERT INTO ser...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/request/raise_request.php on line 52
+[27-May-2025 08:55:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.service_request' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/request/raise_request.php:56
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/request/raise_request.php(56): mysqli->prepare('INSERT INTO ser...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/request/raise_request.php on line 56

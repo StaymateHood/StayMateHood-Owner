@@ -1,0 +1,10 @@
+[10-May-2025 11:00:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/support/view_support.php:9
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/support/view_support.php(9): mysqli->query('SELECT id, cont...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/support/view_support.php on line 9
+[10-May-2025 11:02:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/support/view_support.php:13
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/support/view_support.php(13): mysqli->query('SELECT id, cont...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/support/view_support.php on line 13

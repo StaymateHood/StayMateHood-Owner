@@ -1,0 +1,5 @@
+[12-May-2025 07:22:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'SUMMER100' for key 'PROMOCODES.unique_code' in /home/pmpframe/staymate.pmpframe.com/API/promocodes/create_promocode.php:55
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/promocodes/create_promocode.php(55): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/promocodes/create_promocode.php on line 55

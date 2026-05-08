@@ -1,0 +1,509 @@
+[28-May-2025 07:15:27 UTC] PHP Warning:  include(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php on line 2
+[28-May-2025 07:15:27 UTC] PHP Warning:  include(): Failed opening 'dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php on line 2
+[28-May-2025 07:15:27 UTC] PHP Warning:  Undefined variable $conn in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php on line 9
+[28-May-2025 07:15:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php on line 9
+[28-May-2025 07:15:43 UTC] PHP Warning:  include(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php on line 2
+[28-May-2025 07:15:43 UTC] PHP Warning:  include(): Failed opening 'dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php on line 2
+[28-May-2025 07:15:43 UTC] PHP Warning:  Undefined array key "phone" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php on line 7
+[28-May-2025 07:15:43 UTC] PHP Warning:  Undefined variable $conn in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php on line 9
+[28-May-2025 07:15:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php on line 9
+[28-May-2025 07:15:53 UTC] PHP Warning:  include(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php on line 2
+[28-May-2025 07:15:53 UTC] PHP Warning:  include(): Failed opening 'dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php on line 2
+[28-May-2025 07:15:53 UTC] PHP Warning:  Undefined variable $conn in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php on line 9
+[28-May-2025 07:15:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_mate.php on line 9
+[28-May-2025 07:22:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate`.`split_expenses`, CONSTRAINT `split_expenses_ibfk_1` FOREIGN KEY (`admin_id`) REFERENCES `split_mates` (`id`)) in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_room_expenses.php:14
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_room_expenses.php(14): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_room_expenses.php on line 14
+[28-May-2025 07:23:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate`.`split_expenses`, CONSTRAINT `split_expenses_ibfk_1` FOREIGN KEY (`admin_id`) REFERENCES `split_mates` (`id`)) in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_room_expenses.php:19
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_room_expenses.php(19): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_room_expenses.php on line 19
+[28-May-2025 07:23:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate`.`split_expenses`, CONSTRAINT `split_expenses_ibfk_1` FOREIGN KEY (`admin_id`) REFERENCES `split_mates` (`id`)) in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_room_expenses.php:19
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_room_expenses.php(19): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_room_expenses.php on line 19
+[28-May-2025 07:27:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate`.`split_expenses`, CONSTRAINT `split_expenses_ibfk_1` FOREIGN KEY (`admin_id`) REFERENCES `split_mates` (`id`)) in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_room_expenses.php:19
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_room_expenses.php(19): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_room_expenses.php on line 19
+[28-May-2025 07:33:59 UTC] PHP Warning:  Undefined array key "description" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_expenses.php on line 7
+[28-May-2025 07:33:59 UTC] PHP Warning:  Undefined array key "amount" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_expenses.php on line 8
+[28-May-2025 07:33:59 UTC] PHP Warning:  Undefined array key "date" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_expenses.php on line 9
+[28-May-2025 10:50:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '7993922096' for key 'split_mates.phone' in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_mate.php:12
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_mate.php(12): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_mate.php on line 12
+[28-May-2025 10:51:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '7993922096' for key 'split_mates.phone' in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_mate.php:12
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_mate.php(12): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_mate.php on line 12
+[28-May-2025 10:51:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '7993922096' for key 'split_mates.phone' in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_mate.php:17
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_mate.php(17): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_mate.php on line 17
+[28-May-2025 10:59:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '7993922098' for key 'split_mates.phone' in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_mate.php:17
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_mate.php(17): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/add_mate.php on line 17
+[28-May-2025 11:00:11 UTC] PHP Warning:  Undefined array key "description" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_expenses.php on line 7
+[28-May-2025 11:00:11 UTC] PHP Warning:  Undefined array key "amount" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_expenses.php on line 8
+[28-May-2025 11:00:11 UTC] PHP Warning:  Undefined array key "date" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_expenses.php on line 9
+[31-May-2025 12:15:32 UTC] PHP Warning:  Undefined array key "description" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_expenses.php on line 7
+[31-May-2025 12:15:32 UTC] PHP Warning:  Undefined array key "amount" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_expenses.php on line 8
+[31-May-2025 12:15:32 UTC] PHP Warning:  Undefined array key "date" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/update_expenses.php on line 9
+[16-Jun-2025 16:37:33 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[16-Jun-2025 16:37:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[23-Jun-2025 11:24:57 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[23-Jun-2025 11:24:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[23-Jun-2025 22:33:51 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[23-Jun-2025 22:33:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[27-Jun-2025 01:26:20 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[27-Jun-2025 01:26:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[27-Jun-2025 01:34:21 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[27-Jun-2025 01:34:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[27-Jun-2025 01:39:04 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[27-Jun-2025 01:39:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[27-Jun-2025 01:41:40 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[27-Jun-2025 01:41:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[02-Jul-2025 01:36:42 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[02-Jul-2025 01:36:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[02-Jul-2025 02:03:19 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[02-Jul-2025 02:03:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[02-Jul-2025 02:22:11 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[02-Jul-2025 02:22:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[30-Jul-2025 00:18:20 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[30-Jul-2025 00:18:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[30-Jul-2025 09:58:09 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[30-Jul-2025 09:58:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[13-Aug-2025 19:31:57 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[13-Aug-2025 19:31:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[13-Aug-2025 21:33:50 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[13-Aug-2025 21:33:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[14-Aug-2025 15:29:38 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[14-Aug-2025 15:29:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[14-Aug-2025 15:30:28 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[14-Aug-2025 15:30:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[26-Aug-2025 10:44:37 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[26-Aug-2025 10:44:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[26-Aug-2025 10:47:55 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[26-Aug-2025 10:47:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[02-Sep-2025 02:26:41 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[02-Sep-2025 02:26:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[06-Sep-2025 03:25:36 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[06-Sep-2025 03:25:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[06-Sep-2025 03:34:55 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[06-Sep-2025 03:34:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[09-Sep-2025 22:23:38 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[09-Sep-2025 22:23:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[09-Sep-2025 23:33:34 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[09-Sep-2025 23:33:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[16-Sep-2025 21:17:30 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[16-Sep-2025 21:17:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[16-Sep-2025 21:17:35 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[16-Sep-2025 21:17:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[27-Sep-2025 06:41:36 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[27-Sep-2025 06:41:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[03-Oct-2025 12:15:57 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[03-Oct-2025 12:15:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[03-Oct-2025 12:16:41 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[03-Oct-2025 12:16:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[04-Oct-2025 06:18:11 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[04-Oct-2025 06:18:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[04-Oct-2025 18:07:27 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[04-Oct-2025 18:07:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[24-Oct-2025 09:35:34 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[24-Oct-2025 09:35:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[25-Oct-2025 22:34:56 UTC] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[25-Oct-2025 22:34:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[01-Nov-2025 00:32:30 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[01-Nov-2025 00:32:30 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[01-Nov-2025 03:20:54 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[01-Nov-2025 03:20:54 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[03-Nov-2025 04:18:12 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[03-Nov-2025 04:18:12 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[03-Nov-2025 05:40:59 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[03-Nov-2025 05:40:59 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[05-Nov-2025 19:36:11 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 5
+[05-Nov-2025 19:36:11 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/splitwise/view_split_share.php on line 8
+[18-Nov-2025 08:04:50 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[18-Nov-2025 08:04:50 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[09-Dec-2025 00:19:30 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[09-Dec-2025 00:19:30 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[09-Dec-2025 00:20:23 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[09-Dec-2025 00:20:23 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[09-Dec-2025 11:21:36 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[09-Dec-2025 11:21:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[09-Dec-2025 17:32:35 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[09-Dec-2025 17:32:35 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[11-Dec-2025 15:17:36 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[11-Dec-2025 15:17:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[12-Dec-2025 02:27:13 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[12-Dec-2025 02:27:13 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[17-Dec-2025 15:52:06 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[17-Dec-2025 15:52:06 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[17-Dec-2025 15:53:18 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[17-Dec-2025 15:53:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[18-Dec-2025 19:18:39 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[18-Dec-2025 19:18:39 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[19-Dec-2025 11:14:51 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[19-Dec-2025 11:14:51 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[18-Jan-2026 15:55:48 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[18-Jan-2026 15:55:48 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[18-Jan-2026 15:58:18 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[18-Jan-2026 15:58:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[21-Jan-2026 15:35:13 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[21-Jan-2026 15:35:13 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[21-Jan-2026 15:37:53 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[21-Jan-2026 15:37:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[23-Jan-2026 03:53:46 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[23-Jan-2026 03:53:46 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[27-Jan-2026 15:33:05 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[27-Jan-2026 15:33:05 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[27-Jan-2026 15:34:05 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[27-Jan-2026 15:34:05 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[31-Jan-2026 00:10:21 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[31-Jan-2026 00:10:21 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[02-Feb-2026 10:19:51 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[02-Feb-2026 10:19:51 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[18-Feb-2026 10:36:43 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[18-Feb-2026 10:36:43 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[20-Feb-2026 20:17:31 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[20-Feb-2026 20:17:31 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[24-Feb-2026 19:08:46 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[24-Feb-2026 19:08:46 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[25-Feb-2026 11:44:14 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[25-Feb-2026 11:44:14 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[10-Mar-2026 04:48:38 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[10-Mar-2026 04:48:38 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[10-Mar-2026 16:09:32 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[10-Mar-2026 16:09:32 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[13-Mar-2026 19:51:25 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[13-Mar-2026 19:51:25 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[28-Mar-2026 03:05:20 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[28-Mar-2026 03:05:20 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[28-Mar-2026 03:07:05 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[28-Mar-2026 03:07:05 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[29-Mar-2026 15:19:17 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[29-Mar-2026 15:19:17 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[29-Mar-2026 17:30:02 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[29-Mar-2026 17:30:02 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[11-Apr-2026 23:48:40 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[11-Apr-2026 23:48:40 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[11-Apr-2026 23:48:44 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[11-Apr-2026 23:48:44 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[12-Apr-2026 00:57:27 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[12-Apr-2026 00:57:27 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[13-Apr-2026 14:24:28 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[13-Apr-2026 14:24:28 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8
+[13-Apr-2026 17:47:56 Asia/Kolkata] PHP Warning:  Undefined array key "admin_id" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 5
+[13-Apr-2026 17:47:56 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php:8
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php(8): mysqli->query('SELECT SUM(amou...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/splitwise/view_split_share.php on line 8

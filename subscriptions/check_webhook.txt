@@ -1,0 +1,152 @@
+Hit: 2025-12-06 13:40:45
+Hit: 2025-12-06 13:40:45
+Hit: 2025-12-06 13:50:13
+Hit: 2025-12-06 13:50:13
+Hit: 2025-12-06 23:50:10
+Hit: 2025-12-06 23:50:11
+Hit: 2025-12-06 23:50:45
+Hit: 2025-12-06 23:50:45
+Hit: 2025-12-06 23:52:49
+Hit: 2025-12-06 23:52:49
+Hit: 2025-12-06 23:53:02
+Hit: 2025-12-06 23:53:02
+Hit: 2025-12-07 00:13:38
+Hit: 2025-12-07 00:13:39
+Hit: 2025-12-07 00:14:05
+Hit: 2025-12-07 00:14:05
+Hit: 2025-12-07 00:20:39
+Hit: 2025-12-07 00:20:39
+Hit: 2025-12-07 00:21:19
+Hit: 2025-12-07 00:21:19
+Hit: 2025-12-07 00:24:20
+Hit: 2025-12-07 00:24:20
+Hit: 2025-12-08 12:32:14
+Hit: 2025-12-08 12:32:14
+Hit: 2025-12-08 13:25:08
+Hit: 2025-12-08 13:25:08
+Hit: 2025-12-08 14:16:32
+Hit: 2025-12-08 14:16:32
+Hit: 2025-12-08 14:24:11
+Hit: 2025-12-08 14:24:12
+Event Hit: invoice.paid - 2025-12-12 16:44:57
+Event Hit: subscription.charged - 2025-12-12 16:45:08
+Event Hit: subscription.authenticated - 2025-12-12 16:45:08
+Event Hit: subscription.activated - 2025-12-12 16:45:08
+Event Hit: invoice.paid - 2025-12-12 17:06:58
+Event Hit: subscription.activated - 2025-12-12 17:08:09
+Event Hit: subscription.charged - 2025-12-12 17:08:22
+Event Hit: subscription.authenticated - 2025-12-12 17:08:24
+Event Hit: invoice.paid - 2025-12-15 17:34:42
+Event Hit: subscription.charged - 2025-12-15 17:34:49
+Event Hit: subscription.activated - 2025-12-15 17:34:49
+Event Hit: subscription.authenticated - 2025-12-15 17:34:49
+Event Hit: invoice.paid - 2025-12-15 19:00:23
+Event Hit: subscription.charged - 2025-12-15 19:00:33
+Event Hit: subscription.activated - 2025-12-15 19:00:34
+Event Hit: subscription.authenticated - 2025-12-15 19:00:35
+Event Hit: subscription.cancelled - 2025-12-16 13:20:22
+Event Hit: invoice.paid - 2025-12-16 15:57:15
+Event Hit: subscription.charged - 2025-12-16 15:57:22
+Event Hit: subscription.activated - 2025-12-16 15:57:22
+Event Hit: subscription.authenticated - 2025-12-16 15:57:23
+Event Hit: subscription.cancelled - 2025-12-16 15:58:00
+Event Hit: invoice.paid - 2025-12-16 16:08:36
+Event Hit: subscription.charged - 2025-12-16 16:08:44
+Event Hit: subscription.activated - 2025-12-16 16:08:44
+Event Hit: subscription.authenticated - 2025-12-16 16:08:45
+Event Hit: subscription.cancelled - 2025-12-16 16:11:06
+Event Hit: invoice.paid - 2025-12-16 16:25:40
+Event Hit: subscription.activated - 2025-12-16 16:25:47
+Event Hit: subscription.charged - 2025-12-16 16:25:47
+Event Hit: subscription.authenticated - 2025-12-16 16:25:47
+Event Hit: subscription.cancelled - 2025-12-16 16:26:15
+Event Hit: invoice.paid - 2025-12-16 18:03:38
+Event Hit: subscription.authenticated - 2025-12-16 18:03:47
+Event Hit: subscription.activated - 2025-12-16 18:03:47
+Event Hit: subscription.charged - 2025-12-16 18:03:47
+Event Hit: subscription.cancelled - 2025-12-16 18:05:21
+Event Hit: invoice.paid - 2025-12-16 18:10:34
+Event Hit: subscription.authenticated - 2025-12-16 18:10:48
+Event Hit: subscription.charged - 2025-12-16 18:10:49
+Event Hit: subscription.activated - 2025-12-16 18:10:50
+Event Hit: subscription.cancelled - 2025-12-16 18:12:37
+Event Hit: invoice.paid - 2025-12-17 14:45:23
+Event Hit: subscription.charged - 2025-12-17 14:45:32
+Event Hit: subscription.authenticated - 2025-12-17 14:45:32
+Event Hit: subscription.activated - 2025-12-17 14:45:33
+Event Hit: subscription.cancelled - 2025-12-17 14:49:58
+Event Hit: invoice.paid - 2025-12-17 14:55:40
+Event Hit: subscription.activated - 2025-12-17 14:55:50
+Event Hit: subscription.authenticated - 2025-12-17 14:55:50
+Event Hit: subscription.charged - 2025-12-17 14:55:50
+Event Hit: subscription.cancelled - 2025-12-17 15:01:42
+Event Hit: invoice.paid - 2025-12-18 18:16:58
+Event Hit: subscription.charged - 2025-12-18 18:17:07
+Event Hit: subscription.authenticated - 2025-12-18 18:17:07
+Event Hit: subscription.activated - 2025-12-18 18:17:07
+Event Hit: subscription.cancelled - 2025-12-18 18:17:34
+Event Hit: invoice.paid - 2025-12-18 18:21:15
+Event Hit: subscription.activated - 2025-12-18 18:21:27
+Event Hit: subscription.authenticated - 2025-12-18 18:21:27
+Event Hit: subscription.charged - 2025-12-18 18:21:28
+Event Hit: subscription.cancelled - 2025-12-18 18:21:36
+Event Hit: invoice.paid - 2025-12-18 18:25:54
+Event Hit: subscription.activated - 2025-12-18 18:26:01
+Event Hit: subscription.charged - 2025-12-18 18:26:08
+Event Hit: subscription.authenticated - 2025-12-18 18:26:09
+Event Hit: subscription.cancelled - 2025-12-18 18:26:10
+Event Hit: invoice.paid - 2025-12-18 18:30:47
+Event Hit: subscription.activated - 2025-12-18 18:30:55
+Event Hit: subscription.authenticated - 2025-12-18 18:30:55
+Event Hit: subscription.charged - 2025-12-18 18:30:55
+Event Hit: subscription.cancelled - 2025-12-18 18:31:53
+Event Hit: invoice.paid - 2025-12-18 18:37:14
+Event Hit: subscription.authenticated - 2025-12-18 18:37:22
+Event Hit: subscription.charged - 2025-12-18 18:37:23
+Event Hit: subscription.activated - 2025-12-18 18:37:23
+Event Hit: subscription.cancelled - 2025-12-18 18:38:47
+Event Hit: invoice.paid - 2025-12-19 11:07:16
+Event Hit: subscription.authenticated - 2025-12-19 11:07:23
+Event Hit: subscription.activated - 2025-12-19 11:07:23
+Event Hit: subscription.charged - 2025-12-19 11:07:23
+Event Hit: subscription.cancelled - 2025-12-19 11:13:32
+Event Hit: invoice.paid - 2025-12-19 11:18:47
+Event Hit: subscription.charged - 2025-12-19 11:18:54
+Event Hit: subscription.activated - 2025-12-19 11:18:54
+Event Hit: subscription.authenticated - 2025-12-19 11:18:54
+Event Hit: subscription.cancelled - 2025-12-19 11:19:26
+Event Hit: invoice.paid - 2025-12-19 11:24:12
+Event Hit: subscription.authenticated - 2025-12-19 11:24:19
+Event Hit: subscription.charged - 2025-12-19 11:24:19
+Event Hit: subscription.activated - 2025-12-19 11:24:20
+Event Hit: subscription.cancelled - 2025-12-19 11:26:31
+Event Hit: invoice.paid - 2025-12-19 11:30:38
+Event Hit: subscription.charged - 2025-12-19 11:30:45
+Event Hit: subscription.authenticated - 2025-12-19 11:30:45
+Event Hit: subscription.activated - 2025-12-19 11:30:45
+Event Hit: subscription.cancelled - 2025-12-19 11:32:32
+Event Hit: invoice.paid - 2025-12-19 11:35:44
+Event Hit: subscription.authenticated - 2025-12-19 11:35:51
+Event Hit: subscription.activated - 2025-12-19 11:35:52
+Event Hit: subscription.charged - 2025-12-19 11:35:52
+Event Hit: subscription.cancelled - 2025-12-19 11:38:01
+Event Hit: invoice.paid - 2025-12-19 11:43:04
+Event Hit: subscription.authenticated - 2025-12-19 11:43:11
+Event Hit: subscription.charged - 2025-12-19 11:43:11
+Event Hit: subscription.activated - 2025-12-19 11:43:12
+Event Hit: subscription.cancelled - 2025-12-19 11:43:35
+Event Hit: invoice.paid - 2025-12-19 11:46:38
+Event Hit: subscription.charged - 2025-12-19 11:46:48
+Event Hit: subscription.authenticated - 2025-12-19 11:46:48
+Event Hit: subscription.activated - 2025-12-19 11:46:48
+Event Hit: subscription.cancelled - 2025-12-19 11:47:05
+Event Hit: invoice.paid - 2025-12-19 11:50:56
+Event Hit: subscription.authenticated - 2025-12-19 11:51:05
+Event Hit: subscription.charged - 2025-12-19 11:51:05
+Event Hit: subscription.activated - 2025-12-19 11:51:06
+Event Hit: subscription.cancelled - 2025-12-19 11:51:31
+Event Hit: invoice.paid - 2025-12-19 11:57:59
+Event Hit: subscription.authenticated - 2025-12-19 11:58:09
+Event Hit: subscription.activated - 2025-12-19 11:58:09
+Event Hit: subscription.charged - 2025-12-19 11:58:09
+Event Hit: subscription.cancelled - 2025-12-19 11:58:45

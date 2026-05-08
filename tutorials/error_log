@@ -1,0 +1,21 @@
+[07-May-2025 07:19:37 UTC] PHP Warning:  require_once(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php on line 3
+[07-May-2025 07:19:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dbconn.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php on line 3
+[07-May-2025 07:20:14 UTC] PHP Warning:  require_once(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php on line 7
+[07-May-2025 07:20:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dbconn.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php on line 7
+[09-May-2025 11:04:55 UTC] PHP Warning:  Undefined variable $video_ext in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php on line 42
+[09-May-2025 11:04:55 UTC] PHP Warning:  Undefined variable $video in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php on line 45
+[09-May-2025 11:04:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php on line 45
+[09-May-2025 11:04:55 UTC] PHP Deprecated:  move_uploaded_file(): Passing null to parameter #1 ($from) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php on line 45
+[09-May-2025 11:05:11 UTC] PHP Warning:  Undefined variable $video in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php on line 45
+[09-May-2025 11:05:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php on line 45
+[09-May-2025 11:05:11 UTC] PHP Deprecated:  move_uploaded_file(): Passing null to parameter #1 ($from) of type string is deprecated in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php on line 45
+[09-May-2025 11:06:02 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 cannot be passed by reference in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tutorials/add_tutorial.php on line 62

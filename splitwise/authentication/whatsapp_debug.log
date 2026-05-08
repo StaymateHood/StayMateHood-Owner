@@ -1,0 +1,855 @@
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":[341410],"buttons":[{"type":"button","sub_type":"url","text":341410}]}
+Response: {"type":"Unauthorized","message":"Unauthorized access. Please provide valid api key."}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":[939632],"buttons":[{"type":"button","sub_type":"url","text":939632}]}
+Response: {"type":"Unauthorized","message":"Unauthorized access. Please provide valid api key."}
+CurlError: 
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["496336"],"buttons":[{"type":"button","sub_type":"url","text":"496336"}]}
+Response: {"type":"Unauthorized","message":"Unauthorized access. Please provide valid api key."}
+CurlError: 
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["571913"],"buttons":[{"type":"button","sub_type":"url","text":"571913"}]}
+Response: {"type":"Unauthorized","message":"Unauthorized access. Please provide valid api key."}
+CurlError: 
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["394447"],"buttons":[{"type":"button","sub_type":"url","text":"394447"}]}
+Response: {"type":"Unauthorized","message":"Unauthorized access. Please provide valid api key."}
+CurlError: 
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["161812"],"buttons":[{"type":"button","sub_type":"url","text":"161812"}]}
+Response: {"id":"wamid.HBgMOTE4OTgyMjI5MDIyFQIAERgSREEzNDBBRjZGQUE3MDVBNDcwAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["351457"],"buttons":[{"type":"button","sub_type":"url","text":"351457"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSM0IwRUFCNTI1QTIyRTI4N0QwAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["699044"],"buttons":[{"type":"button","sub_type":"url","text":"699044"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSOEFFODIyMzNFMEE5RURDQkNGAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["682909"],"buttons":[{"type":"button","sub_type":"url","text":"682909"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSRkY1MDhENTEzNEFEMzc3Qzc2AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["484362"],"buttons":[{"type":"button","sub_type":"url","text":"484362"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSQTMzNDkzNkNFNzRGOTQwMTY0AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["575177"],"buttons":[{"type":"button","sub_type":"url","text":"575177"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSMUYzRTk4MjIxQURCOEEyRkY3AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["466020"],"buttons":[{"type":"button","sub_type":"url","text":"466020"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSQzExNENERUIwRjA2NEE4NkY5AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["609218"],"buttons":[{"type":"button","sub_type":"url","text":"609218"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSMjgzRjBBMUZEQUZBQTQ3MDgwAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["644010"],"buttons":[{"type":"button","sub_type":"url","text":"644010"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSRTVFRTBEQUZERUU1RkRFQkU1AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["790569"],"buttons":[{"type":"button","sub_type":"url","text":"790569"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSNkYzMEEyMDFBMDdFQkE4MjBDAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["278012"],"buttons":[{"type":"button","sub_type":"url","text":"278012"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSRTI4N0Y0QUE2QjcwNDI4Qjg0AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["159024"],"buttons":[{"type":"button","sub_type":"url","text":"159024"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSMkRFNEE2QzA4NTUyMzE3MkQ5AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["522573"],"buttons":[{"type":"button","sub_type":"url","text":"522573"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSODQyRkE2RjBDM0Q1OTI1NUYwAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"8919583391","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["471304"],"buttons":[{"type":"button","sub_type":"url","text":"471304"}]}
+Response: {"id":"wamid.HBgMOTE4OTE5NTgzMzkxFQIAERgSRUE4OEVCMDBENTJEODNEMjA5AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"8919583391","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["953105"],"buttons":[{"type":"button","sub_type":"url","text":"953105"}]}
+Response: {"id":"wamid.HBgMOTE4OTE5NTgzMzkxFQIAERgSNzk4NkEzNzBCRDQzMERGMTM3AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"8919583391","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["977294"],"buttons":[{"type":"button","sub_type":"url","text":"977294"}]}
+Response: {"id":"wamid.HBgMOTE4OTE5NTgzMzkxFQIAERgSQkY2MzNCNzI4NkIzOTI2MDcxAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["987910"],"buttons":[{"type":"button","sub_type":"url","text":"987910"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSNTY5MDQ0RDNBRjRGMzgxNjhCAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"9441809443","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["394073"],"buttons":[{"type":"button","sub_type":"url","text":"394073"}]}
+Response: {"id":"wamid.HBgMOTE5NDQxODA5NDQzFQIAERgSRkZBNjdCNkEyQjA3NENBREQ2AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"9441809443","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["865716"],"buttons":[{"type":"button","sub_type":"url","text":"865716"}]}
+Response: {"id":"wamid.HBgMOTE5NDQxODA5NDQzFQIAERgSNDc0RDU4MUM2NTAwMUM3QzVEAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"9441809443","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["377045"],"buttons":[{"type":"button","sub_type":"url","text":"377045"}]}
+Response: {"id":"wamid.HBgMOTE5NDQxODA5NDQzFQIAERgSMzYzM0RDQTFFNjQ1OUU4REREAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"8897320658","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["712464"],"buttons":[{"type":"button","sub_type":"url","text":"712464"}]}
+Response: {"id":"wamid.HBgMOTE4ODk3MzIwNjU4FQIAERgSNjM5OTkzOTlDNTczMzJBM0VEAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"8897320658","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["190390"],"buttons":[{"type":"button","sub_type":"url","text":"190390"}]}
+Response: {"id":"wamid.HBgMOTE4ODk3MzIwNjU4FQIAERgSQUZCMTBDOUZEQUI4MEJENzI1AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"8897320658","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["597149"],"buttons":[{"type":"button","sub_type":"url","text":"597149"}]}
+Response: {"id":"wamid.HBgMOTE4ODk3MzIwNjU4FQIAERgSOTVGQTk3RDJEQTdGODRDQzQ3AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"7893506774","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["368602"],"buttons":[{"type":"button","sub_type":"url","text":"368602"}]}
+Response: {"id":"wamid.HBgMOTE3ODkzNTA2Nzc0FQIAERgSMDZERkZCRjQ2RDdEQzQ0ODBEAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"7893506774","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["193165"],"buttons":[{"type":"button","sub_type":"url","text":"193165"}]}
+Response: {"id":"wamid.HBgMOTE3ODkzNTA2Nzc0FQIAERgSNUQ3MzdGNkVDNDJFOTc0M0NFAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["269387"],"buttons":[{"type":"button","sub_type":"url","text":"269387"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["710140"],"buttons":[{"type":"button","sub_type":"url","text":"710140"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["167836"],"buttons":[{"type":"button","sub_type":"url","text":"167836"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["466058"],"buttons":[{"type":"button","sub_type":"url","text":"466058"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["622416"],"buttons":[{"type":"button","sub_type":"url","text":"622416"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["462874"],"buttons":[{"type":"button","sub_type":"url","text":"462874"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["142211"],"buttons":[{"type":"button","sub_type":"url","text":"142211"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["554974"],"buttons":[{"type":"button","sub_type":"url","text":"554974"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["842952"],"buttons":[{"type":"button","sub_type":"url","text":"842952"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["776609"],"buttons":[{"type":"button","sub_type":"url","text":"776609"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["836487"],"buttons":[{"type":"button","sub_type":"url","text":"836487"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["926955"],"buttons":[{"type":"button","sub_type":"url","text":"926955"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["242307"],"buttons":[{"type":"button","sub_type":"url","text":"242307"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["116738"],"buttons":[{"type":"button","sub_type":"url","text":"116738"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["685989"],"buttons":[{"type":"button","sub_type":"url","text":"685989"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["496992"],"buttons":[{"type":"button","sub_type":"url","text":"496992"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["649489"],"buttons":[{"type":"button","sub_type":"url","text":"649489"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["207083"],"buttons":[{"type":"button","sub_type":"url","text":"207083"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["566662"],"buttons":[{"type":"button","sub_type":"url","text":"566662"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["170308"],"buttons":[{"type":"button","sub_type":"url","text":"170308"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["407521"],"buttons":[{"type":"button","sub_type":"url","text":"407521"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["345556"],"buttons":[{"type":"button","sub_type":"url","text":"345556"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["794478"],"buttons":[{"type":"button","sub_type":"url","text":"794478"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["993210"],"buttons":[{"type":"button","sub_type":"url","text":"993210"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["510632"],"buttons":[{"type":"button","sub_type":"url","text":"510632"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["517105"],"buttons":[{"type":"button","sub_type":"url","text":"517105"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"0000000000","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["891387"],"buttons":[{"type":"button","sub_type":"url","text":"891387"}]}
+Response: {"message":"(#100) Invalid parameter","type":"OAuthException"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["266457"],"buttons":[{"type":"button","sub_type":"url","text":"266457"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSNThGMDhGMjZGQUIxQTlENTg1AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["412656"],"buttons":[{"type":"button","sub_type":"url","text":"412656"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSNDVENzVBNzQwRTRFQTA0OEE1AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["673534"],"buttons":[{"type":"button","sub_type":"url","text":"673534"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSNUI2MjJBRjMwQzIzOUQ3MDZDAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["607751"],"buttons":[{"type":"button","sub_type":"url","text":"607751"}]}
+Response: {"id":"wamid.HBgMOTE4OTgyMjI5MDIyFQIAERgSQzM3ODUwRjhFMThFRDkyNEExAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["474124"],"buttons":[{"type":"button","sub_type":"url","text":"474124"}]}
+Response: {"id":"wamid.HBgMOTE4OTgyMjI5MDIyFQIAERgSRkRFNkI2NzQ2RDdERjlBRDNCAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"9301856651","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["381094"],"buttons":[{"type":"button","sub_type":"url","text":"381094"}]}
+Response: {"id":"wamid.HBgMOTE5MzAxODU2NjUxFQIAERgSMjVFRDY2OEMxNDU4Njk2RDRGAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"9301856651","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["816826"],"buttons":[{"type":"button","sub_type":"url","text":"816826"}]}
+Response: {"id":"wamid.HBgMOTE5MzAxODU2NjUxFQIAERgSMEZCNzUzN0JFQzE4MzJFNkVBAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"9108768764","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["560198"],"buttons":[{"type":"button","sub_type":"url","text":"560198"}]}
+Response: {"id":"wamid.HBgMOTE5MTA4NzY4NzY0FQIAERgSM0NFMEJEQ0NDNTNGMTI2Mzc2AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"9108768764","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["434273"],"buttons":[{"type":"button","sub_type":"url","text":"434273"}]}
+Response: {"id":"wamid.HBgMOTE5MTA4NzY4NzY0FQIAERgSOTc1RDYzRTBFODcyMDQ1QTM5AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["328080"],"buttons":[{"type":"button","sub_type":"url","text":"328080"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSRUUxNkZGRTU1NjdBMzFGMzZEAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"8827550722","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["699461"],"buttons":[{"type":"button","sub_type":"url","text":"699461"}]}
+Response: {"id":"wamid.HBgMOTE4ODI3NTUwNzIyFQIAERgSNzQ5OTM4RjY0MjkxNjMxQTlEAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"8827550722","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["336266"],"buttons":[{"type":"button","sub_type":"url","text":"336266"}]}
+Response: {"id":"wamid.HBgMOTE4ODI3NTUwNzIyFQIAERgSNzgyNjhBOTdFMDkyQUQ3MTBBAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"8827550722","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["591867"],"buttons":[{"type":"button","sub_type":"url","text":"591867"}]}
+Response: {"id":"wamid.HBgMOTE4ODI3NTUwNzIyFQIAERgSQkFFQkFFNkVGRDFCRThBRDc5AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"8827550722","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["859276"],"buttons":[{"type":"button","sub_type":"url","text":"859276"}]}
+Response: {"id":"wamid.HBgMOTE4ODI3NTUwNzIyFQIAERgSNEEwRUUwQkI4RTI5MzEwQTlBAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["820617"],"buttons":[{"type":"button","sub_type":"url","text":"820617"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSMDZCRkY5NDlFRjVFQzcwOUY4AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["304046"],"buttons":[{"type":"button","sub_type":"url","text":"304046"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSRjBFRjdFMzI2NkFBREVDOEM5AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"8827550722","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["278858"],"buttons":[{"type":"button","sub_type":"url","text":"278858"}]}
+Response: {"id":"wamid.HBgMOTE4ODI3NTUwNzIyFQIAERgSQ0UzNTEwMDNFQUJCNjZCNkE0AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["935799"],"buttons":[{"type":"button","sub_type":"url","text":"935799"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSN0M0NjE3REZFQkQzOEE2MjA5AA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"9441809443","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["253316"],"buttons":[{"type":"button","sub_type":"url","text":"253316"}]}
+Response: {"id":"wamid.HBgMOTE5NDQxODA5NDQzFQIAERgSQkM3QjhDODMyN0FEMzM5MDZBAA==","message_status":"accepted"}
+CurlError: 
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["186389"],"buttons":[{"type":"button","sub_type":"url","text":"186389"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSQkY5Nzk4QjJEMDBBMEQ5NjQxAA==","message_status":"accepted"}
+CurlError: 
+Timestamp: 2025-08-12T06:39:16+00:00
+Timings(ms): {"user_lookup_ms":3,"after_insert_ms":26,"curl_exec_ms":4723,"total_route_ms":4750}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":648,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":4.7232810000000000627551344223320484161376953125,"namelookup_time":0.01073200000000000021993518117824351065792143344879150390625,"connect_time":2.695891000000000037317704482120461761951446533203125,"pretransfer_time":2.88665400000000005320544005371630191802978515625,"size_upload":193,"size_download":99,"speed_download":20,"speed_upload":40,"download_content_length":99,"upload_content_length":193,"starttransfer_time":4.72321399999999957941554384888149797916412353515625,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":37320,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":2886491,"connect_time_us":2695891,"namelookup_time_us":10732,"pretransfer_time_us":2886654,"redirect_time_us":0,"starttransfer_time_us":4723214,"total_time_us":4723281}
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["702538"],"buttons":[{"type":"button","sub_type":"url","text":"702538"}]}
+Response: {"id":"wamid.HBgMOTE4OTgyMjI5MDIyFQIAERgSOUZDMDNENTc0NDc1OEFBNjhGAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T06:46:40+00:00
+Timings(ms): {"user_lookup_ms":3,"after_insert_ms":17,"curl_exec_ms":5015,"total_route_ms":5033}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":0,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":5.01521799999999995378630046616308391094207763671875,"namelookup_time":0,"connect_time":0,"pretransfer_time":0,"size_upload":0,"size_download":0,"speed_download":0,"speed_upload":0,"download_content_length":-1,"upload_content_length":-1,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"","certinfo":[],"primary_port":0,"local_ip":"","local_port":0,"http_version":0,"protocol":0,"ssl_verifyresult":0,"scheme":"","appconnect_time_us":0,"connect_time_us":0,"namelookup_time_us":0,"pretransfer_time_us":0,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":5015218}
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["469522"],"buttons":[{"type":"button","sub_type":"url","text":"469522"}]}
+Response: 
+CurlError: Resolving timed out after 5000 milliseconds
+
+Timestamp: 2025-08-12T06:47:14+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":11,"curl_exec_ms":2236,"total_route_ms":2247}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.23576800000000019963408703915774822235107421875,"namelookup_time":0.0095149999999999991528998322110055596567690372467041015625,"connect_time":0.10946799999999999586375309945651679299771785736083984375,"pretransfer_time":0.233304000000000011372236485840403474867343902587890625,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.235675000000000078870243669371120631694793701171875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":41656,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":233130,"connect_time_us":109468,"namelookup_time_us":9515,"pretransfer_time_us":233304,"redirect_time_us":0,"starttransfer_time_us":2235675,"total_time_us":2235768}
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["868056"],"buttons":[{"type":"button","sub_type":"url","text":"868056"}]}
+Response: {"id":"wamid.HBgMOTE4OTgyMjI5MDIyFQIAERgSNTIwNUQ5OUFGN0NGN0U2MDcxAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T06:47:35+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":10,"curl_exec_ms":10024,"total_route_ms":10034}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":0,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":10.02379799999999931969796307384967803955078125,"namelookup_time":0,"connect_time":0,"pretransfer_time":0,"size_upload":0,"size_download":0,"speed_download":0,"speed_upload":0,"download_content_length":-1,"upload_content_length":-1,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"","certinfo":[],"primary_port":0,"local_ip":"","local_port":0,"http_version":0,"protocol":0,"ssl_verifyresult":0,"scheme":"","appconnect_time_us":0,"connect_time_us":0,"namelookup_time_us":0,"pretransfer_time_us":0,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":10023798}
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["852998"],"buttons":[{"type":"button","sub_type":"url","text":"852998"}]}
+Response: 
+CurlError: Resolving timed out after 5000 milliseconds
+
+Timestamp: 2025-08-12T06:48:45+00:00
+Timings(ms): {"user_lookup_ms":6,"after_insert_ms":15,"curl_exec_ms":10022,"total_route_ms":10038}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":0,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":10.0223840000000006256186679820530116558074951171875,"namelookup_time":0,"connect_time":0,"pretransfer_time":0,"size_upload":0,"size_download":0,"speed_download":0,"speed_upload":0,"download_content_length":-1,"upload_content_length":-1,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"","certinfo":[],"primary_port":0,"local_ip":"","local_port":0,"http_version":0,"protocol":0,"ssl_verifyresult":0,"scheme":"","appconnect_time_us":0,"connect_time_us":0,"namelookup_time_us":0,"pretransfer_time_us":0,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":10022384}
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["605300"],"buttons":[{"type":"button","sub_type":"url","text":"605300"}]}
+Response: 
+CurlError: Resolving timed out after 5000 milliseconds
+
+Timestamp: 2025-08-12T06:49:23+00:00
+Timings(ms): {"user_lookup_ms":3,"after_insert_ms":15,"curl_exec_ms":2227,"total_route_ms":2243}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":642,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.226987999999999967570829539909027516841888427734375,"namelookup_time":0.0052420000000000001316724507205435656942427158355712890625,"connect_time":0.10466899999999999815170070860403939150273799896240234375,"pretransfer_time":0.225044999999999995043964418073301203548908233642578125,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.226923999999999903565139902639202773571014404296875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":41150,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":224884,"connect_time_us":104669,"namelookup_time_us":5242,"pretransfer_time_us":225045,"redirect_time_us":0,"starttransfer_time_us":2226924,"total_time_us":2226988}
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["221412"],"buttons":[{"type":"button","sub_type":"url","text":"221412"}]}
+Response: {"id":"wamid.HBgMOTE4OTgyMjI5MDIyFQIAERgSODA3Mzg1NEJBRTQ1OEQzNDU1AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T06:51:17+00:00
+Timings(ms): {"user_lookup_ms":3,"after_insert_ms":17,"curl_exec_ms":5012,"total_route_ms":5030}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":0,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":5.01215800000000033520564102218486368656158447265625,"namelookup_time":0,"connect_time":0,"pretransfer_time":0,"size_upload":0,"size_download":0,"speed_download":0,"speed_upload":0,"download_content_length":-1,"upload_content_length":-1,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"","certinfo":[],"primary_port":0,"local_ip":"","local_port":0,"http_version":0,"protocol":0,"ssl_verifyresult":0,"scheme":"","appconnect_time_us":0,"connect_time_us":0,"namelookup_time_us":0,"pretransfer_time_us":0,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":5012158}
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["155727"],"buttons":[{"type":"button","sub_type":"url","text":"155727"}]}
+Response: 
+CurlError: Resolving timed out after 5000 milliseconds
+
+Timestamp: 2025-08-12T06:51:22+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":9,"curl_exec_ms":4002,"total_route_ms":4012}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":4.00230399999999963966956784133799374103546142578125,"namelookup_time":0.0177929999999999997883914915064451633952558040618896484375,"connect_time":2.617071999999999842856368559296242892742156982421875,"pretransfer_time":2.74612500000000014921397450962103903293609619140625,"size_upload":193,"size_download":99,"speed_download":24,"speed_upload":48,"download_content_length":99,"upload_content_length":193,"starttransfer_time":4.00220399999999987272758517065085470676422119140625,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":44874,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":2745997,"connect_time_us":2617072,"namelookup_time_us":17793,"pretransfer_time_us":2746125,"redirect_time_us":0,"starttransfer_time_us":4002204,"total_time_us":4002304}
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["654617"],"buttons":[{"type":"button","sub_type":"url","text":"654617"}]}
+Response: {"id":"wamid.HBgMOTE4OTgyMjI5MDIyFQIAERgSRTgxRkExQzVBQ0FDODQ0QTMwAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T06:52:23+00:00
+Timings(ms): {"user_lookup_ms":3,"after_insert_ms":13,"curl_exec_ms":10015,"total_route_ms":10029}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":0,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":10.015482999999999691453922423534095287322998046875,"namelookup_time":0,"connect_time":0,"pretransfer_time":0,"size_upload":0,"size_download":0,"speed_download":0,"speed_upload":0,"download_content_length":-1,"upload_content_length":-1,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"","certinfo":[],"primary_port":0,"local_ip":"","local_port":0,"http_version":0,"protocol":0,"ssl_verifyresult":0,"scheme":"","appconnect_time_us":0,"connect_time_us":0,"namelookup_time_us":0,"pretransfer_time_us":0,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":10015483}
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["654650"],"buttons":[{"type":"button","sub_type":"url","text":"654650"}]}
+Response: 
+CurlError: Resolving timed out after 5000 milliseconds
+
+Timestamp: 2025-08-12T06:53:38+00:00
+Timings(ms): {"user_lookup_ms":3,"after_insert_ms":15,"curl_exec_ms":2298,"total_route_ms":2313}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":648,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.297711000000000058918203649227507412433624267578125,"namelookup_time":0.00530599999999999995259347684850581572391092777252197265625,"connect_time":0.161235999999999990439647490347851999104022979736328125,"pretransfer_time":0.29528399999999999092636926434352062642574310302734375,"size_upload":193,"size_download":99,"speed_download":43,"speed_upload":84,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.297648000000000134690480990684591233730316162109375,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":34218,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":295147,"connect_time_us":161236,"namelookup_time_us":5306,"pretransfer_time_us":295284,"redirect_time_us":0,"starttransfer_time_us":2297648,"total_time_us":2297711}
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["956804"],"buttons":[{"type":"button","sub_type":"url","text":"956804"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSMkU3QzVFQjVGMzA2NUU3MEZDAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T06:54:59+00:00
+Timings(ms): {"user_lookup_ms":3,"after_insert_ms":14,"curl_exec_ms":8336,"total_route_ms":8350}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":638,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":8.335725000000000051159076974727213382720947265625,"namelookup_time":0.005271999999999999776678638596649761893786489963531494140625,"connect_time":6.1099920000000000896989149623550474643707275390625,"pretransfer_time":6.23580799999999957350382828735746443271636962890625,"size_upload":193,"size_download":99,"speed_download":11,"speed_upload":23,"download_content_length":99,"upload_content_length":193,"starttransfer_time":8.3356259999999995358166415826417505741119384765625,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":60270,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":6235672,"connect_time_us":6109992,"namelookup_time_us":5272,"pretransfer_time_us":6235808,"redirect_time_us":0,"starttransfer_time_us":8335626,"total_time_us":8335725}
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["323461"],"buttons":[{"type":"button","sub_type":"url","text":"323461"}]}
+Response: {"id":"wamid.HBgMOTE4OTgyMjI5MDIyFQIAERgSNkY2MDg5NjIwQkQzMEZEM0E0AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T07:21:54+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":14,"curl_exec_ms":2352,"total_route_ms":2366}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.351621000000000183405290954397059977054595947265625,"namelookup_time":0.0168570000000000004558575739110892754979431629180908203125,"connect_time":0.1540999999999999869881861513931653462350368499755859375,"pretransfer_time":0.349019000000000023664625814490136690437793731689453125,"size_upload":193,"size_download":99,"speed_download":42,"speed_upload":82,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.3514949999999998908606357872486114501953125,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":58642,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":348890,"connect_time_us":154100,"namelookup_time_us":16857,"pretransfer_time_us":349019,"redirect_time_us":0,"starttransfer_time_us":2351495,"total_time_us":2351621}
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["792329"],"buttons":[{"type":"button","sub_type":"url","text":"792329"}]}
+Response: {"id":"wamid.HBgMOTE4OTgyMjI5MDIyFQIAERgSMTA0MzM5QTcxMjlBREI1NjE5AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T07:24:57+00:00
+Timings(ms): {"user_lookup_ms":3,"after_insert_ms":14,"curl_exec_ms":2243,"total_route_ms":2257}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":642,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.24259800000000009134737410931847989559173583984375,"namelookup_time":0.01393299999999999920496929206592540140263736248016357421875,"connect_time":0.11593199999999999338928802217196789570152759552001953125,"pretransfer_time":0.239937000000000011379341913198004476726055145263671875,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.242518000000000011340262062731198966503143310546875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":56760,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":239838,"connect_time_us":115932,"namelookup_time_us":13933,"pretransfer_time_us":239937,"redirect_time_us":0,"starttransfer_time_us":2242518,"total_time_us":2242598}
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["420678"],"buttons":[{"type":"button","sub_type":"url","text":"420678"}]}
+Response: {"id":"wamid.HBgMOTE4OTgyMjI5MDIyFQIAERgSRDUyNzE4RkUzMUQyQTkxQTIwAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T07:25:27+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":11,"curl_exec_ms":2346,"total_route_ms":2357}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.3461759999999998171915649436414241790771484375,"namelookup_time":0.0244039999999999986102228177742290426976978778839111328125,"connect_time":0.16383700000000001040234565152786672115325927734375,"pretransfer_time":0.343957000000000012729373111142194829881191253662109375,"size_upload":193,"size_download":99,"speed_download":42,"speed_upload":82,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.346061999999999869714883971028029918670654296875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":51980,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":343864,"connect_time_us":163837,"namelookup_time_us":24404,"pretransfer_time_us":343957,"redirect_time_us":0,"starttransfer_time_us":2346062,"total_time_us":2346176}
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["477840"],"buttons":[{"type":"button","sub_type":"url","text":"477840"}]}
+Response: {"id":"wamid.HBgMOTE4OTgyMjI5MDIyFQIAERgSQ0EyNjQ5NTIwQUFEMUVENDVDAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T10:02:42+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":12,"curl_exec_ms":12002,"total_route_ms":12016}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":12.0015260000000001383568815072067081928253173828125,"namelookup_time":10.2717410000000004544062903732992708683013916015625,"connect_time":11.2386479999999995271764419157989323139190673828125,"pretransfer_time":11.3715829999999993304982126574032008647918701171875,"size_upload":193,"size_download":0,"speed_download":0,"speed_upload":16,"download_content_length":-1,"upload_content_length":193,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":59740,"http_version":0,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":11371441,"connect_time_us":11238648,"namelookup_time_us":10271741,"pretransfer_time_us":11371583,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":12001526}
+Payload: {"to":"8827550722","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["819628"],"buttons":[{"type":"button","sub_type":"url","text":"819628"}]}
+Response: 
+CurlError: Operation timed out after 12001 milliseconds with 0 bytes received
+
+Timestamp: 2025-08-12T10:02:57+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":17,"curl_exec_ms":8250,"total_route_ms":8267}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":646,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":8.2500459999999993243591234204359352588653564453125,"namelookup_time":0.01855199999999999904698455566176562570035457611083984375,"connect_time":6.1183750000000003410605131648480892181396484375,"pretransfer_time":6.24751399999999978973619363387115299701690673828125,"size_upload":193,"size_download":99,"speed_download":12,"speed_upload":23,"download_content_length":99,"upload_content_length":193,"starttransfer_time":8.249888999999999583678800263442099094390869140625,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":52884,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":6247364,"connect_time_us":6118375,"namelookup_time_us":18552,"pretransfer_time_us":6247514,"redirect_time_us":0,"starttransfer_time_us":8249889,"total_time_us":8250046}
+Payload: {"to":"8827550722","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["659945"],"buttons":[{"type":"button","sub_type":"url","text":"659945"}]}
+Response: {"id":"wamid.HBgMOTE4ODI3NTUwNzIyFQIAERgSOTI3MjkwNDAwNTFEMDE5MUNBAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T10:03:13+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":11,"curl_exec_ms":10400,"total_route_ms":10411}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":10.399955999999999534111339016817510128021240234375,"namelookup_time":5.06901400000000013079670679871924221515655517578125,"connect_time":8.7234610000000003537934389896690845489501953125,"pretransfer_time":8.931321000000000509544406668283045291900634765625,"size_upload":193,"size_download":99,"speed_download":9,"speed_upload":18,"download_content_length":99,"upload_content_length":193,"starttransfer_time":10.399867000000000416548573412001132965087890625,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":35946,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":8931189,"connect_time_us":8723461,"namelookup_time_us":5069014,"pretransfer_time_us":8931321,"redirect_time_us":0,"starttransfer_time_us":10399867,"total_time_us":10399956}
+Payload: {"to":"8827550722","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["343133"],"buttons":[{"type":"button","sub_type":"url","text":"343133"}]}
+Response: {"id":"wamid.HBgMOTE4ODI3NTUwNzIyFQIAERgSMjc5NjUyQzdFMUQ3MjY0RDc2AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T10:10:13+00:00
+Timings(ms): {"user_lookup_ms":4,"after_insert_ms":32,"curl_exec_ms":12001,"total_route_ms":12035}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":12.000856999999999885631041252054274082183837890625,"namelookup_time":10.286334000000000088448359747417271137237548828125,"connect_time":11.2651129999999994879544829018414020538330078125,"pretransfer_time":11.4269680000000004582716428558342158794403076171875,"size_upload":193,"size_download":0,"speed_download":0,"speed_upload":16,"download_content_length":-1,"upload_content_length":193,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":33278,"http_version":0,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":11426878,"connect_time_us":11265113,"namelookup_time_us":10286334,"pretransfer_time_us":11426968,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":12000857}
+Payload: {"to":"8827550722","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["345652"],"buttons":[{"type":"button","sub_type":"url","text":"345652"}]}
+Response: 
+CurlError: Operation timed out after 12000 milliseconds with 0 bytes received
+
+Timestamp: 2025-08-12T10:12:16+00:00
+Timings(ms): {"user_lookup_ms":4,"after_insert_ms":16,"curl_exec_ms":2271,"total_route_ms":2287}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":648,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.270655000000000089954710347228683531284332275390625,"namelookup_time":0.031726999999999998258726208177904481999576091766357421875,"connect_time":0.139075000000000004174438572590588591992855072021484375,"pretransfer_time":0.26814700000000002422240186206181533634662628173828125,"size_upload":193,"size_download":99,"speed_download":43,"speed_upload":85,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.27057999999999982065901349415071308612823486328125,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":55152,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":268005,"connect_time_us":139075,"namelookup_time_us":31727,"pretransfer_time_us":268147,"redirect_time_us":0,"starttransfer_time_us":2270580,"total_time_us":2270655}
+Payload: {"to":"8827550722","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["699355"],"buttons":[{"type":"button","sub_type":"url","text":"699355"}]}
+Response: {"id":"wamid.HBgMOTE4ODI3NTUwNzIyFQIAERgSNzBCQ0FCMDNBQkVDQjUyQzNFAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T10:16:41+00:00
+Timings(ms): {"user_lookup_ms":3,"after_insert_ms":20,"curl_exec_ms":8260,"total_route_ms":8280}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":8.259890999999999650071913492865860462188720703125,"namelookup_time":0.00860499999999999980182519010440955753438174724578857421875,"connect_time":6.130221999999999837882569408975541591644287109375,"pretransfer_time":6.2569739999999995916368789039552211761474609375,"size_upload":193,"size_download":99,"speed_download":11,"speed_upload":23,"download_content_length":99,"upload_content_length":193,"starttransfer_time":8.25977999999999923375071375630795955657958984375,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":38840,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":6256797,"connect_time_us":6130222,"namelookup_time_us":8605,"pretransfer_time_us":6256974,"redirect_time_us":0,"starttransfer_time_us":8259780,"total_time_us":8259891}
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["825685"],"buttons":[{"type":"button","sub_type":"url","text":"825685"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSRjQxMEEzOUVBRThCRkEzN0Q2AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T11:40:41+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":15,"curl_exec_ms":2507,"total_route_ms":2522}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.50722999999999984765963745303452014923095703125,"namelookup_time":0.2571339999999999736957079221610911190509796142578125,"connect_time":0.367317999999999977855935640036477707326412200927734375,"pretransfer_time":0.50461100000000003173994400640367530286312103271484375,"size_upload":193,"size_download":99,"speed_download":39,"speed_upload":76,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.507004999999999927950966593925841152667999267578125,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":40528,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":504469,"connect_time_us":367318,"namelookup_time_us":257134,"pretransfer_time_us":504611,"redirect_time_us":0,"starttransfer_time_us":2507005,"total_time_us":2507230}
+Payload: {"to":"8827550722","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["184072"],"buttons":[{"type":"button","sub_type":"url","text":"184072"}]}
+Response: {"id":"wamid.HBgMOTE4ODI3NTUwNzIyFQIAERgSRURFMUYxQzY0MEJBQkFEQkNFAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T12:29:54+00:00
+Timings(ms): {"user_lookup_ms":3,"after_insert_ms":17,"curl_exec_ms":12001,"total_route_ms":12021}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":12.0008280000000002729620973696000874042510986328125,"namelookup_time":10.0710210000000000007958078640513122081756591796875,"connect_time":11.1381379999999996499582266551442444324493408203125,"pretransfer_time":11.2666540000000008348024493898265063762664794921875,"size_upload":193,"size_download":0,"speed_download":0,"speed_upload":16,"download_content_length":-1,"upload_content_length":193,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":56220,"http_version":0,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":11266475,"connect_time_us":11138138,"namelookup_time_us":10071021,"pretransfer_time_us":11266654,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":12000828}
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["689941"],"buttons":[{"type":"button","sub_type":"url","text":"689941"}]}
+Response: 
+CurlError: Operation timed out after 12000 milliseconds with 0 bytes received
+
+Timestamp: 2025-08-12T12:33:47+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":14,"curl_exec_ms":10323,"total_route_ms":10338}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":10.32276399999999938472683425061404705047607421875,"namelookup_time":5.07093199999999999505462255910970270633697509765625,"connect_time":8.63655800000000084537532529793679714202880859375,"pretransfer_time":8.7580720000000003011564331245608627796173095703125,"size_upload":193,"size_download":99,"speed_download":9,"speed_upload":18,"download_content_length":99,"upload_content_length":193,"starttransfer_time":10.32267900000000082627593656070530414581298828125,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":43820,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":8757895,"connect_time_us":8636558,"namelookup_time_us":5070932,"pretransfer_time_us":8758072,"redirect_time_us":0,"starttransfer_time_us":10322679,"total_time_us":10322764}
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["182940"],"buttons":[{"type":"button","sub_type":"url","text":"182940"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSOUY4RjI0QkZEMDIxNjg1NTFDAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T12:36:36+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":9,"curl_exec_ms":12000,"total_route_ms":12011}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":12.00009000000000014551915228366851806640625,"namelookup_time":10.0730389999999996319957062951289117336273193359375,"connect_time":11.1392609999999994130348568432964384555816650390625,"pretransfer_time":11.2681290000000000617319528828375041484832763671875,"size_upload":193,"size_download":0,"speed_download":0,"speed_upload":16,"download_content_length":-1,"upload_content_length":193,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":56880,"http_version":0,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":11268022,"connect_time_us":11139261,"namelookup_time_us":10073039,"pretransfer_time_us":11268129,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":12000090}
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["496544"],"buttons":[{"type":"button","sub_type":"url","text":"496544"}]}
+Response: 
+CurlError: Operation timed out after 12000 milliseconds with 0 bytes received
+
+Timestamp: 2025-08-12T12:40:13+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":29,"curl_exec_ms":11991,"total_route_ms":12020}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":648,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":11.991212000000000870159055921249091625213623046875,"namelookup_time":10.15263900000000063528204918839037418365478515625,"connect_time":10.2640750000000000596855898038484156131744384765625,"pretransfer_time":10.3965720000000008127472028718329966068267822265625,"size_upload":193,"size_download":99,"speed_download":8,"speed_upload":16,"download_content_length":99,"upload_content_length":193,"starttransfer_time":11.9910329999999998307202986325137317180633544921875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":41026,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":10396367,"connect_time_us":10264075,"namelookup_time_us":10152639,"pretransfer_time_us":10396572,"redirect_time_us":0,"starttransfer_time_us":11991033,"total_time_us":11991212}
+Payload: {"to":"8827550722","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["331569"],"buttons":[{"type":"button","sub_type":"url","text":"331569"}]}
+Response: {"id":"wamid.HBgMOTE4ODI3NTUwNzIyFQIAERgSNzFBRDBGRkIyMUVFRjZENEVEAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T12:45:39+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":9,"curl_exec_ms":8309,"total_route_ms":8319}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":658,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":8.3089239999999993102619555429555475711822509765625,"namelookup_time":0.1038280000000000036219915955371106974780559539794921875,"connect_time":6.15987200000000001409716787748038768768310546875,"pretransfer_time":6.30620600000000042228975871694274246692657470703125,"size_upload":193,"size_download":99,"speed_download":11,"speed_upload":23,"download_content_length":99,"upload_content_length":193,"starttransfer_time":8.3087099999999995958432918996550142765045166015625,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":38006,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":6306082,"connect_time_us":6159872,"namelookup_time_us":103828,"pretransfer_time_us":6306206,"redirect_time_us":0,"starttransfer_time_us":8308710,"total_time_us":8308924}
+Payload: {"to":"8827550722","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["565570"],"buttons":[{"type":"button","sub_type":"url","text":"565570"}]}
+Response: {"id":"wamid.HBgMOTE4ODI3NTUwNzIyFQIAERgSMjE3MUVGQTQ0N0QzQkY3MTcwAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T12:46:47+00:00
+Timings(ms): {"user_lookup_ms":3,"after_insert_ms":41,"curl_exec_ms":12002,"total_route_ms":12046}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":12.001884000000000440877556684426963329315185546875,"namelookup_time":10.07696299999999922647475614212453365325927734375,"connect_time":10.1846160000000001133457772084511816501617431640625,"pretransfer_time":10.315937999999999163946995395235717296600341796875,"size_upload":193,"size_download":0,"speed_download":0,"speed_upload":16,"download_content_length":-1,"upload_content_length":193,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":56648,"http_version":0,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":10315760,"connect_time_us":10184616,"namelookup_time_us":10076963,"pretransfer_time_us":10315938,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":12001884}
+Payload: {"to":"9441809443","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["189898"],"buttons":[{"type":"button","sub_type":"url","text":"189898"}]}
+Response: 
+CurlError: Operation timed out after 12001 milliseconds with 0 bytes received
+
+Timestamp: 2025-08-12T12:47:14+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":9,"curl_exec_ms":36780,"total_route_ms":36790}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":0,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":36.78012700000000023692336981184780597686767578125,"namelookup_time":0,"connect_time":0,"pretransfer_time":0,"size_upload":0,"size_download":0,"speed_download":0,"speed_upload":0,"download_content_length":-1,"upload_content_length":-1,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"","certinfo":[],"primary_port":0,"local_ip":"","local_port":0,"http_version":0,"protocol":0,"ssl_verifyresult":0,"scheme":"","appconnect_time_us":0,"connect_time_us":0,"namelookup_time_us":0,"pretransfer_time_us":0,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":36780127}
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["783850"],"buttons":[{"type":"button","sub_type":"url","text":"783850"}]}
+Response: 
+CurlError: Resolving timed out after 12000 milliseconds
+
+Timestamp: 2025-08-12T12:48:23+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":17,"curl_exec_ms":7302,"total_route_ms":7320}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":646,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":7.30244400000000037920244722045026719570159912109375,"namelookup_time":5.0669909999999998007069734740070998668670654296875,"connect_time":5.17206399999999977268316797562874853610992431640625,"pretransfer_time":5.2998560000000001224407242261804640293121337890625,"size_upload":193,"size_download":99,"speed_download":13,"speed_upload":26,"download_content_length":99,"upload_content_length":193,"starttransfer_time":7.30231899999999978234654918196611106395721435546875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":33672,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":5299608,"connect_time_us":5172064,"namelookup_time_us":5066991,"pretransfer_time_us":5299856,"redirect_time_us":0,"starttransfer_time_us":7302319,"total_time_us":7302444}
+Payload: {"to":"6267212293","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["611686"],"buttons":[{"type":"button","sub_type":"url","text":"611686"}]}
+Response: {"id":"wamid.HBgMOTE2MjY3MjEyMjkzFQIAERgSM0YzRjdDMDI1ODk5RTdBNkJDAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-08-12T14:14:35+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":9,"curl_exec_ms":8245,"total_route_ms":8255}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":644,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":8.2452889999999996462065610103309154510498046875,"namelookup_time":0.01394699999999999932842609240424280869774520397186279296875,"connect_time":6.1080220000000000624140739091672003269195556640625,"pretransfer_time":6.24333100000000040807890400174073874950408935546875,"size_upload":193,"size_download":99,"speed_download":12,"speed_upload":23,"download_content_length":99,"upload_content_length":193,"starttransfer_time":8.245217000000000240333974943496286869049072265625,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":53354,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":6243210,"connect_time_us":6108022,"namelookup_time_us":13947,"pretransfer_time_us":6243331,"redirect_time_us":0,"starttransfer_time_us":8245217,"total_time_us":8245289}
+Payload: {"to":"9704871743","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["340016"],"buttons":[{"type":"button","sub_type":"url","text":"340016"}]}
+Response: {"id":"wamid.HBgMOTE5NzA0ODcxNzQzFQIAERgSQ0VCOTk2Njc0OTYzMjA3MUQ0AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-09-03T12:32:25+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":11,"curl_exec_ms":35457,"total_route_ms":35468}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":0,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":35.45687000000000210775397135876119136810302734375,"namelookup_time":0,"connect_time":0,"pretransfer_time":0,"size_upload":0,"size_download":0,"speed_download":0,"speed_upload":0,"download_content_length":-1,"upload_content_length":-1,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"","certinfo":[],"primary_port":0,"local_ip":"","local_port":0,"http_version":0,"protocol":0,"ssl_verifyresult":0,"scheme":"","appconnect_time_us":0,"connect_time_us":0,"namelookup_time_us":0,"pretransfer_time_us":0,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":35456870}
+Payload: {"to":"8982229022","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["677277"],"buttons":[{"type":"button","sub_type":"url","text":"677277"}]}
+Response: 
+CurlError: Resolving timed out after 12000 milliseconds
+
+Timestamp: 2025-09-04T08:46:36+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":13,"curl_exec_ms":12001,"total_route_ms":12016}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":12.001205999999999818328433320857584476470947265625,"namelookup_time":0.01380900000000000009403589018575075897388160228729248046875,"connect_time":6.11339200000000015933210306684486567974090576171875,"pretransfer_time":6.23992099999999982884446581010706722736358642578125,"size_upload":193,"size_download":0,"speed_download":0,"speed_upload":16,"download_content_length":-1,"upload_content_length":193,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":47608,"http_version":0,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":6239806,"connect_time_us":6113392,"namelookup_time_us":13809,"pretransfer_time_us":6239921,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":12001206}
+Payload: {"to":"8555919704","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["400379"],"buttons":[{"type":"button","sub_type":"url","text":"400379"}]}
+Response: 
+CurlError: Operation timed out after 12001 milliseconds with 0 bytes received
+
+Timestamp: 2025-09-04T08:46:39+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":8,"curl_exec_ms":12001,"total_route_ms":12010}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":12.00108900000000033969627111218869686126708984375,"namelookup_time":0.00838299999999999982669418585601306403987109661102294921875,"connect_time":0.1393040000000000111501918809153721667826175689697265625,"pretransfer_time":0.273293999999999981387333036764175631105899810791015625,"size_upload":193,"size_download":0,"speed_download":0,"speed_upload":16,"download_content_length":-1,"upload_content_length":193,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":47604,"http_version":0,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":273152,"connect_time_us":139304,"namelookup_time_us":8383,"pretransfer_time_us":273294,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":12001089}
+Payload: {"to":"8555919704","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["194886"],"buttons":[{"type":"button","sub_type":"url","text":"194886"}]}
+Response: 
+CurlError: Operation timed out after 12001 milliseconds with 0 bytes received
+
+Timestamp: 2025-09-07T06:26:35+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":16,"curl_exec_ms":2830,"total_route_ms":2847}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.83031699999999997174882082617841660976409912109375,"namelookup_time":0.0137900000000000001743050148661495768465101718902587890625,"connect_time":0.1046269999999999977813303075890871696174144744873046875,"pretransfer_time":0.2225540000000000018243184740640572272241115570068359375,"size_upload":193,"size_download":99,"speed_download":34,"speed_upload":68,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.83025299999999990774313118890859186649322509765625,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":58160,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":222434,"connect_time_us":104627,"namelookup_time_us":13790,"pretransfer_time_us":222554,"redirect_time_us":0,"starttransfer_time_us":2830253,"total_time_us":2830317}
+Payload: {"to":"9998128773","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["961080"],"buttons":[{"type":"button","sub_type":"url","text":"961080"}]}
+Response: {"id":"wamid.HBgMOTE5OTk4MTI4NzczFQIAERgSNUJGMTAyNDU1RUE3QzkxQzIzAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-09-19T12:18:45+00:00
+Timings(ms): {"user_lookup_ms":3,"after_insert_ms":14,"curl_exec_ms":2240,"total_route_ms":2254}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.239792000000000005144329406903125345706939697265625,"namelookup_time":0.007533999999999999898359082095566918724216520786285400390625,"connect_time":0.1054400000000000059419136277938378043472766876220703125,"pretransfer_time":0.2376850000000000073807626677080406807363033294677734375,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.239678000000000057667648434289731085300445556640625,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":43240,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":237620,"connect_time_us":105440,"namelookup_time_us":7534,"pretransfer_time_us":237685,"redirect_time_us":0,"starttransfer_time_us":2239678,"total_time_us":2239792}
+Payload: {"to":"9098367576","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["111065"],"buttons":[{"type":"button","sub_type":"url","text":"111065"}]}
+Response: {"id":"wamid.HBgMOTE5MDk4MzY3NTc2FQIAERgSREM1MTE1MDcxMzEwNUU0QjQwAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-09-20T06:56:29+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":13,"curl_exec_ms":2832,"total_route_ms":2845}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.831818999999999864058963794377632439136505126953125,"namelookup_time":0.01050700000000000071398442713643817114643752574920654296875,"connect_time":0.1082899999999999973709918776876293122768402099609375,"pretransfer_time":0.2243840000000000001190159082398167811334133148193359375,"size_upload":193,"size_download":99,"speed_download":34,"speed_upload":68,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.83174800000000015387513485620729625225067138671875,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":43300,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":224322,"connect_time_us":108290,"namelookup_time_us":10507,"pretransfer_time_us":224384,"redirect_time_us":0,"starttransfer_time_us":2831748,"total_time_us":2831819}
+Payload: {"to":"9111511818","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["191546"],"buttons":[{"type":"button","sub_type":"url","text":"191546"}]}
+Response: {"id":"wamid.HBgMOTE5MTExNTExODE4FQIAERgSOUNERjBDMTY1NzZBQzUyRUQyAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-09-20T06:58:35+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":10,"curl_exec_ms":2491,"total_route_ms":2501}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":648,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.490749999999999797495320308371447026729583740234375,"namelookup_time":0.2530580000000000051585402616183273494243621826171875,"connect_time":0.358360999999999985110576972147100605070590972900390625,"pretransfer_time":0.487924000000000024357404981856234371662139892578125,"size_upload":193,"size_download":99,"speed_download":39,"speed_upload":77,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.490396000000000054086513046058826148509979248046875,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":54506,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":487775,"connect_time_us":358361,"namelookup_time_us":253058,"pretransfer_time_us":487924,"redirect_time_us":0,"starttransfer_time_us":2490396,"total_time_us":2490750}
+Payload: {"to":"9111511818","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["107893"],"buttons":[{"type":"button","sub_type":"url","text":"107893"}]}
+Response: {"id":"wamid.HBgMOTE5MTExNTExODE4FQIAERgSNzY0NUQ0ODZBNzA1RjY3NjNDAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-09-20T06:58:39+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":9,"curl_exec_ms":2239,"total_route_ms":2249}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":648,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.239263999999999921186599749489687383174896240234375,"namelookup_time":0.006310999999999999769684233541511275689117610454559326171875,"connect_time":0.1114779999999999937632111368657206185162067413330078125,"pretransfer_time":0.23700799999999999645439174855710007250308990478515625,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.2392099999999999226929503493010997772216796875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":53384,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":236886,"connect_time_us":111478,"namelookup_time_us":6311,"pretransfer_time_us":237008,"redirect_time_us":0,"starttransfer_time_us":2239210,"total_time_us":2239264}
+Payload: {"to":"9111511818","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["530916"],"buttons":[{"type":"button","sub_type":"url","text":"530916"}]}
+Response: {"id":"wamid.HBgMOTE5MTExNTExODE4FQIAERgSMDlDRDI3ODQ5MDdBRTAxRUMwAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-09-20T06:58:49+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":8,"curl_exec_ms":7281,"total_route_ms":7289}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":646,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":7.28132499999999982520648700301535427570343017578125,"namelookup_time":5.06225699999999978473397277412004768848419189453125,"connect_time":5.160137999999999891542756813578307628631591796875,"pretransfer_time":5.27886100000000002552269506850279867649078369140625,"size_upload":193,"size_download":99,"speed_download":13,"speed_upload":26,"download_content_length":99,"upload_content_length":193,"starttransfer_time":7.28122799999999958941998556838370859622955322265625,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":40692,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":5278765,"connect_time_us":5160138,"namelookup_time_us":5062257,"pretransfer_time_us":5278861,"redirect_time_us":0,"starttransfer_time_us":7281228,"total_time_us":7281325}
+Payload: {"to":"9111511818","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["913156"],"buttons":[{"type":"button","sub_type":"url","text":"913156"}]}
+Response: {"id":"wamid.HBgMOTE5MTExNTExODE4FQIAERgSM0QwQTM0MjMxM0YxNUI5NzM5AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-09-20T13:51:19+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":7,"curl_exec_ms":2390,"total_route_ms":2397}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":656,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.38991899999999990455989973270334303379058837890625,"namelookup_time":0.01265400000000000031719071813540722359903156757354736328125,"connect_time":0.110960000000000003073097332162433303892612457275390625,"pretransfer_time":0.2223100000000000076028072726330719888210296630859375,"size_upload":193,"size_download":95,"speed_download":39,"speed_upload":80,"download_content_length":95,"upload_content_length":193,"starttransfer_time":2.38986199999999993082155924639664590358734130859375,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":54770,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":222258,"connect_time_us":110960,"namelookup_time_us":12654,"pretransfer_time_us":222310,"redirect_time_us":0,"starttransfer_time_us":2389862,"total_time_us":2389919}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["211505"],"buttons":[{"type":"button","sub_type":"url","text":"211505"}]}
+Response: {"id":"wamid.HBgKNjUwNDk5MjgwNBUCABEYEkZDNDZEQ0VBNTkzNzRGODA4NgA=","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-09-20T13:53:11+00:00
+Timings(ms): {"user_lookup_ms":0,"after_insert_ms":6,"curl_exec_ms":2241,"total_route_ms":2247}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":644,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.2414100000000001244870873051695525646209716796875,"namelookup_time":0.01047200000000000040534242629064465290866792201995849609375,"connect_time":0.11565599999999999492050761773498379625380039215087890625,"pretransfer_time":0.239063999999999998724575789310620166361331939697265625,"size_upload":193,"size_download":95,"speed_download":42,"speed_upload":86,"download_content_length":95,"upload_content_length":193,"starttransfer_time":2.24136399999999991194954418460838496685028076171875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":36532,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":238994,"connect_time_us":115656,"namelookup_time_us":10472,"pretransfer_time_us":239064,"redirect_time_us":0,"starttransfer_time_us":2241364,"total_time_us":2241410}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["889126"],"buttons":[{"type":"button","sub_type":"url","text":"889126"}]}
+Response: {"id":"wamid.HBgKNjUwNDk5MjgwNBUCABEYEjk3OTgyNjlBNDZBN0M5RTk4NwA=","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-09-20T13:53:16+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":6,"curl_exec_ms":12001,"total_route_ms":12008}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":12.0011320000000001328999132965691387653350830078125,"namelookup_time":10.06944299999999969941200106404721736907958984375,"connect_time":10.167270999999999503415892831981182098388671875,"pretransfer_time":10.283238000000000766931407270021736621856689453125,"size_upload":193,"size_download":0,"speed_download":0,"speed_upload":16,"download_content_length":-1,"upload_content_length":193,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":34676,"http_version":0,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":10283169,"connect_time_us":10167271,"namelookup_time_us":10069443,"pretransfer_time_us":10283238,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":12001132}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["161772"],"buttons":[{"type":"button","sub_type":"url","text":"161772"}]}
+Response: 
+CurlError: Operation timed out after 12001 milliseconds with 0 bytes received
+
+Timestamp: 2025-09-23T09:36:39+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":11,"curl_exec_ms":2232,"total_route_ms":2243}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.232321000000000221774598685442470014095306396484375,"namelookup_time":0.01060299999999999957800422833997799898497760295867919921875,"connect_time":0.1081519999999999981366016754691372625529766082763671875,"pretransfer_time":0.2297780000000000100168762173780123703181743621826171875,"size_upload":193,"size_download":95,"speed_download":42,"speed_upload":86,"download_content_length":95,"upload_content_length":193,"starttransfer_time":2.232203999999999854964016776648350059986114501953125,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":44700,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":229691,"connect_time_us":108152,"namelookup_time_us":10603,"pretransfer_time_us":229778,"redirect_time_us":0,"starttransfer_time_us":2232204,"total_time_us":2232321}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["676660"],"buttons":[{"type":"button","sub_type":"url","text":"676660"}]}
+Response: {"id":"wamid.HBgKNjUwNDk5MjgwNBUCABEYEjE3NzgwQjU0QzE1RTA0NTkwRQA=","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-09-23T09:38:26+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":11,"curl_exec_ms":2229,"total_route_ms":2240}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.2291910000000001446096575818955898284912109375,"namelookup_time":0.0063379999999999998838706716242086258716881275177001953125,"connect_time":0.10409699999999999509014969589770771563053131103515625,"pretransfer_time":0.22682700000000000084554585555451922118663787841796875,"size_upload":193,"size_download":95,"speed_download":42,"speed_upload":86,"download_content_length":95,"upload_content_length":193,"starttransfer_time":2.22914499999999993207211446133442223072052001953125,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":44432,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":226750,"connect_time_us":104097,"namelookup_time_us":6338,"pretransfer_time_us":226827,"redirect_time_us":0,"starttransfer_time_us":2229145,"total_time_us":2229191}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["489221"],"buttons":[{"type":"button","sub_type":"url","text":"489221"}]}
+Response: {"id":"wamid.HBgKNjUwNDk5MjgwNBUCABEYEkI2M0U5NkU1MUE4NDZBNjUxMQA=","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-09-23T09:38:32+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":13,"curl_exec_ms":2245,"total_route_ms":2258}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":654,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.244698000000000082110318544437177479267120361328125,"namelookup_time":0.0095429999999999993998134328876403742469847202301025390625,"connect_time":0.11462899999999999478550449794056476093828678131103515625,"pretransfer_time":0.242136999999999991128873944035149179399013519287109375,"size_upload":193,"size_download":95,"speed_download":42,"speed_upload":86,"download_content_length":95,"upload_content_length":193,"starttransfer_time":2.244615000000000026858515411731787025928497314453125,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":34980,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":242073,"connect_time_us":114629,"namelookup_time_us":9543,"pretransfer_time_us":242137,"redirect_time_us":0,"starttransfer_time_us":2244615,"total_time_us":2244698}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["530607"],"buttons":[{"type":"button","sub_type":"url","text":"530607"}]}
+Response: {"id":"wamid.HBgKNjUwNDk5MjgwNBUCABEYEkU5M0ZCNDAwQ0ExOEJERkY4NQA=","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-09-27T12:48:11+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":12,"curl_exec_ms":7405,"total_route_ms":7417}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":644,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":7.40548900000000021037749320385046303272247314453125,"namelookup_time":5.0659890000000000753743734094314277172088623046875,"connect_time":5.16399899999999956179408400203101336956024169921875,"pretransfer_time":5.27927700000000044155967771075665950775146484375,"size_upload":193,"size_download":95,"speed_download":12,"speed_upload":26,"download_content_length":95,"upload_content_length":193,"starttransfer_time":7.40543499999999976779463395359925925731658935546875,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":35018,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":5279212,"connect_time_us":5163999,"namelookup_time_us":5065989,"pretransfer_time_us":5279277,"redirect_time_us":0,"starttransfer_time_us":7405435,"total_time_us":7405489}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["576787"],"buttons":[{"type":"button","sub_type":"url","text":"576787"}]}
+Response: {"id":"wamid.HBgKNjUwNDk5MjgwNBUCABEYEjdBODM5OTNERDEwQTk5MzU4MgA=","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-09-27T12:48:42+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":12,"curl_exec_ms":12002,"total_route_ms":12015}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":12.001580000000000580939740757457911968231201171875,"namelookup_time":10.068329999999999557758201262913644313812255859375,"connect_time":10.1664189999999994284962667734362185001373291015625,"pretransfer_time":10.279678000000000537283995072357356548309326171875,"size_upload":193,"size_download":0,"speed_download":0,"speed_upload":16,"download_content_length":-1,"upload_content_length":193,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":44060,"http_version":0,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":10279601,"connect_time_us":10166419,"namelookup_time_us":10068330,"pretransfer_time_us":10279678,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":12001580}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["687995"],"buttons":[{"type":"button","sub_type":"url","text":"687995"}]}
+Response: 
+CurlError: Operation timed out after 12001 milliseconds with 0 bytes received
+
+Timestamp: 2025-09-27T12:48:49+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":7,"curl_exec_ms":15021,"total_route_ms":15029}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":0,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":15.0212710000000004839648681809194386005401611328125,"namelookup_time":0,"connect_time":0,"pretransfer_time":0,"size_upload":0,"size_download":0,"speed_download":0,"speed_upload":0,"download_content_length":-1,"upload_content_length":-1,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"","certinfo":[],"primary_port":0,"local_ip":"","local_port":0,"http_version":0,"protocol":0,"ssl_verifyresult":0,"scheme":"","appconnect_time_us":0,"connect_time_us":0,"namelookup_time_us":0,"pretransfer_time_us":0,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":15021271}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["524452"],"buttons":[{"type":"button","sub_type":"url","text":"524452"}]}
+Response: 
+CurlError: Resolving timed out after 12001 milliseconds
+
+Timestamp: 2025-09-30T08:24:41+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":10,"curl_exec_ms":2475,"total_route_ms":2485}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.474885000000000001563194018672220408916473388671875,"namelookup_time":0.254489000000000020751400597873725928366184234619140625,"connect_time":0.352499999999999980015985556747182272374629974365234375,"pretransfer_time":0.4719969999999999998863131622783839702606201171875,"size_upload":193,"size_download":95,"speed_download":38,"speed_upload":78,"download_content_length":95,"upload_content_length":193,"starttransfer_time":2.47482500000000005258016244624741375446319580078125,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.231","local_port":35092,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":471901,"connect_time_us":352500,"namelookup_time_us":254489,"pretransfer_time_us":471997,"redirect_time_us":0,"starttransfer_time_us":2474825,"total_time_us":2474885}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["727788"],"buttons":[{"type":"button","sub_type":"url","text":"727788"}]}
+Response: {"id":"wamid.HBgKNjUwNDk5MjgwNBUCABEYEjlEQjA2QkQ1RDkyNEVFODFBMgA=","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-06T07:09:54+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":9,"curl_exec_ms":2346,"total_route_ms":2355}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":646,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.345927000000000095525365395587868988513946533203125,"namelookup_time":0.0038709999999999998750166430028230024618096649646759033203125,"connect_time":0.1123200000000000031707969583294470794498920440673828125,"pretransfer_time":0.23910500000000001197264509755768813192844390869140625,"size_upload":193,"size_download":95,"speed_download":40,"speed_upload":82,"download_content_length":95,"upload_content_length":193,"starttransfer_time":2.345870000000000121787024909281171858310699462890625,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":43440,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":238992,"connect_time_us":112320,"namelookup_time_us":3871,"pretransfer_time_us":239105,"redirect_time_us":0,"starttransfer_time_us":2345870,"total_time_us":2345927}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["639675"],"buttons":[{"type":"button","sub_type":"url","text":"639675"}]}
+Response: {"id":"wamid.HBgKNjUwNDk5MjgwNBUCABEYEkRGMDEyRDM1MjYxMTE3N0Y2NAA=","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-06T07:10:05+00:00
+Timings(ms): {"user_lookup_ms":34,"after_insert_ms":106,"curl_exec_ms":2261,"total_route_ms":2367}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":642,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.261010999999999881993062444962561130523681640625,"namelookup_time":0.017073999999999998899991027201394899748265743255615234375,"connect_time":0.1268080000000000040483172369931708090007305145263671875,"pretransfer_time":0.259089999999999986979304367196164093911647796630859375,"size_upload":193,"size_download":95,"speed_download":42,"speed_upload":85,"download_content_length":95,"upload_content_length":193,"starttransfer_time":2.260949999999999793232063893810845911502838134765625,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":49806,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":259016,"connect_time_us":126808,"namelookup_time_us":17074,"pretransfer_time_us":259090,"redirect_time_us":0,"starttransfer_time_us":2260950,"total_time_us":2261011}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["727872"],"buttons":[{"type":"button","sub_type":"url","text":"727872"}]}
+Response: {"id":"wamid.HBgKNjUwNDk5MjgwNBUCABEYEjFFQzQwREZCQUNCNjVBRjM4RAA=","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-06T07:10:41+00:00
+Timings(ms): {"user_lookup_ms":5,"after_insert_ms":15,"curl_exec_ms":2377,"total_route_ms":2393}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":644,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.3772570000000001755324774421751499176025390625,"namelookup_time":0.004832999999999999622690705081140549737028777599334716796875,"connect_time":0.180738000000000009759304475664976052939891815185546875,"pretransfer_time":0.374919999999999975504039184670546092092990875244140625,"size_upload":193,"size_download":95,"speed_download":39,"speed_upload":81,"download_content_length":95,"upload_content_length":193,"starttransfer_time":2.377200999999999897482894084532745182514190673828125,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":51084,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":374839,"connect_time_us":180738,"namelookup_time_us":4833,"pretransfer_time_us":374920,"redirect_time_us":0,"starttransfer_time_us":2377201,"total_time_us":2377257}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["461730"],"buttons":[{"type":"button","sub_type":"url","text":"461730"}]}
+Response: {"id":"wamid.HBgKNjUwNDk5MjgwNBUCABEYEkM3NkQ4NUFCMjNGNDYzQzU5MgA=","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-06T07:10:44+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":10,"curl_exec_ms":2222,"total_route_ms":2232}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.2218140000000001776925273588858544826507568359375,"namelookup_time":0.00447000000000000001498801083243961329571902751922607421875,"connect_time":0.102748000000000005993427976136445067822933197021484375,"pretransfer_time":0.2193489999999999884305879049861687235534191131591796875,"size_upload":193,"size_download":95,"speed_download":42,"speed_upload":86,"download_content_length":95,"upload_content_length":193,"starttransfer_time":2.221744999999999858886212678044103085994720458984375,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":51098,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":219283,"connect_time_us":102748,"namelookup_time_us":4470,"pretransfer_time_us":219349,"redirect_time_us":0,"starttransfer_time_us":2221745,"total_time_us":2221814}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["551098"],"buttons":[{"type":"button","sub_type":"url","text":"551098"}]}
+Response: {"id":"wamid.HBgKNjUwNDk5MjgwNBUCABEYEjE4QjVERkMwNTU4NDVGNDlDQgA=","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-06T07:11:31+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":11,"curl_exec_ms":2467,"total_route_ms":2478}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.466636999999999968480324241681955754756927490234375,"namelookup_time":0.004735999999999999758582003295259710284881293773651123046875,"connect_time":0.175545000000000006590283874174929223954677581787109375,"pretransfer_time":0.365371999999999974573228200824814848601818084716796875,"size_upload":193,"size_download":95,"speed_download":38,"speed_upload":78,"download_content_length":95,"upload_content_length":193,"starttransfer_time":2.46654399999999984771648087189532816410064697265625,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":48800,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":365292,"connect_time_us":175545,"namelookup_time_us":4736,"pretransfer_time_us":365372,"redirect_time_us":0,"starttransfer_time_us":2466544,"total_time_us":2466637}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["958092"],"buttons":[{"type":"button","sub_type":"url","text":"958092"}]}
+Response: {"id":"wamid.HBgKNjUwNDk5MjgwNBUCABEYEkEwNEY3RTlGNTA3RjA0OTgyRgA=","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-06T07:11:50+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":6,"curl_exec_ms":2368,"total_route_ms":2375}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.36821299999999990149035511421971023082733154296875,"namelookup_time":0.0038249999999999998410993296005244701518677175045013427734375,"connect_time":0.17356599999999999806021833137492649257183074951171875,"pretransfer_time":0.3658230000000000092796881290269084274768829345703125,"size_upload":193,"size_download":95,"speed_download":40,"speed_upload":81,"download_content_length":95,"upload_content_length":193,"starttransfer_time":2.3681549999999997879740476491861045360565185546875,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":34960,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":365745,"connect_time_us":173566,"namelookup_time_us":3825,"pretransfer_time_us":365823,"redirect_time_us":0,"starttransfer_time_us":2368155,"total_time_us":2368213}
+Payload: {"to":"6504992804","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["846550"],"buttons":[{"type":"button","sub_type":"url","text":"846550"}]}
+Response: {"id":"wamid.HBgKNjUwNDk5MjgwNBUCABEYEjkxRDAwMzM0NDg5OTRFNjUyMgA=","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-09T12:54:01+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":8,"curl_exec_ms":2350,"total_route_ms":2358}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":648,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.35030900000000020355628294055350124835968017578125,"namelookup_time":0.004516000000000000048905324234738145605660974979400634765625,"connect_time":0.120974999999999999200639422269887290894985198974609375,"pretransfer_time":0.257992999999999972349229437895701266825199127197265625,"size_upload":193,"size_download":99,"speed_download":42,"speed_upload":82,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.350201999999999902257741268840618431568145751953125,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":48792,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":257913,"connect_time_us":120975,"namelookup_time_us":4516,"pretransfer_time_us":257993,"redirect_time_us":0,"starttransfer_time_us":2350202,"total_time_us":2350309}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["200615"],"buttons":[{"type":"button","sub_type":"url","text":"200615"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSQTFBNTI5QURDMzEyMUU4QzJGAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-09T12:55:58+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":10,"curl_exec_ms":2270,"total_route_ms":2280}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":654,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.26950200000000013034195944783277809619903564453125,"namelookup_time":0.004235000000000000049127368839663176913745701313018798828125,"connect_time":0.10172599999999999698108155143927433528006076812744140625,"pretransfer_time":0.2197810000000000041353587221237830817699432373046875,"size_upload":193,"size_download":99,"speed_download":43,"speed_upload":85,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.269448000000000131848310047644190490245819091796875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":41514,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":219697,"connect_time_us":101726,"namelookup_time_us":4235,"pretransfer_time_us":219781,"redirect_time_us":0,"starttransfer_time_us":2269448,"total_time_us":2269502}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["888504"],"buttons":[{"type":"button","sub_type":"url","text":"888504"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSRkFDOEI4ODZEOTM4QTIxMDAxAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-09T12:56:12+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":7,"curl_exec_ms":2283,"total_route_ms":2290}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":654,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.282589000000000201140437638969160616397857666015625,"namelookup_time":0.005049999999999999801547634348253268399275839328765869140625,"connect_time":0.10274199999999999999289457264239899814128875732421875,"pretransfer_time":0.2150430000000000119175780355362803675234317779541015625,"size_upload":193,"size_download":99,"speed_download":43,"speed_upload":84,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.282515000000000071622707764618098735809326171875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":39868,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":214966,"connect_time_us":102742,"namelookup_time_us":5050,"pretransfer_time_us":215043,"redirect_time_us":0,"starttransfer_time_us":2282515,"total_time_us":2282589}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["965704"],"buttons":[{"type":"button","sub_type":"url","text":"965704"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSN0VERDBBQ0I3MUM0ODVGMDlEAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-09T12:56:28+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":7,"curl_exec_ms":2254,"total_route_ms":2262}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.25396000000000018559376258053816854953765869140625,"namelookup_time":0.004423999999999999981070697430141080985777080059051513671875,"connect_time":0.109659000000000006469491609095712192356586456298828125,"pretransfer_time":0.2316999999999999892974500426134909503161907196044921875,"size_upload":193,"size_download":99,"speed_download":43,"speed_upload":85,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.253906000000000187100113180349580943584442138671875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":38452,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":231637,"connect_time_us":109659,"namelookup_time_us":4424,"pretransfer_time_us":231700,"redirect_time_us":0,"starttransfer_time_us":2253906,"total_time_us":2253960}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["460433"],"buttons":[{"type":"button","sub_type":"url","text":"460433"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSNEMyNEFGM0I1MzVBM0VBNTI2AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-09T12:56:40+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":8,"curl_exec_ms":2237,"total_route_ms":2245}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.237467000000000094672714112675748765468597412109375,"namelookup_time":0.0049160000000000002307043445171075291000306606292724609375,"connect_time":0.11061100000000000098676622428683913312852382659912109375,"pretransfer_time":0.2350069999999999936779460085745085962116718292236328125,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.237385000000000179198877958697266876697540283203125,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":37728,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":234923,"connect_time_us":110611,"namelookup_time_us":4916,"pretransfer_time_us":235007,"redirect_time_us":0,"starttransfer_time_us":2237385,"total_time_us":2237467}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["708464"],"buttons":[{"type":"button","sub_type":"url","text":"708464"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSNUUzMjM4RDBBNjAzN0FFMDBFAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-09T12:57:40+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":6,"curl_exec_ms":2227,"total_route_ms":2234}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.227190999999999920788695817464031279087066650390625,"namelookup_time":0.005189000000000000036026737149086329736746847629547119140625,"connect_time":0.102771000000000001239897073901374824345111846923828125,"pretransfer_time":0.224968000000000001303845920119783841073513031005859375,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.22712500000000002131628207280300557613372802734375,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":50094,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":224900,"connect_time_us":102771,"namelookup_time_us":5189,"pretransfer_time_us":224968,"redirect_time_us":0,"starttransfer_time_us":2227125,"total_time_us":2227191}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["272314"],"buttons":[{"type":"button","sub_type":"url","text":"272314"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSREREQUVDMTE3REEwN0EyRDQ5AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-09T13:00:02+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":14,"curl_exec_ms":3079,"total_route_ms":3094}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":646,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":3.07937700000000003086597644141875207424163818359375,"namelookup_time":0.0085929999999999999438227149539670790545642375946044921875,"connect_time":0.1136459999999999970210495803257799707353115081787109375,"pretransfer_time":0.2390390000000000014779288903810083866119384765625,"size_upload":193,"size_download":99,"speed_download":32,"speed_upload":62,"download_content_length":99,"upload_content_length":193,"starttransfer_time":3.079308999999999851837628739303909242153167724609375,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":41124,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":238959,"connect_time_us":113646,"namelookup_time_us":8593,"pretransfer_time_us":239039,"redirect_time_us":0,"starttransfer_time_us":3079309,"total_time_us":3079377}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["254965"],"buttons":[{"type":"button","sub_type":"url","text":"254965"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSNDI0RTZFNjAwNjU0MzQ4MDdDAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-09T13:00:04+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":158,"curl_exec_ms":2342,"total_route_ms":2500}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":646,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.34204200000000017922729966812767088413238525390625,"namelookup_time":0.07988399999999999667732453190183150582015514373779296875,"connect_time":0.191861000000000003762323785849730484187602996826171875,"pretransfer_time":0.33310899999999998843946968918316997587680816650390625,"size_upload":193,"size_download":99,"speed_download":42,"speed_upload":82,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.341972999999999860420984987285919487476348876953125,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":41128,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":333014,"connect_time_us":191861,"namelookup_time_us":79884,"pretransfer_time_us":333109,"redirect_time_us":0,"starttransfer_time_us":2341973,"total_time_us":2342042}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["390201"],"buttons":[{"type":"button","sub_type":"url","text":"390201"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSQzAwOTFBMzhERDg3MDhGN0M5AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-09T13:00:20+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":7,"curl_exec_ms":2507,"total_route_ms":2514}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":656,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.506966999999999945458739603054709732532501220703125,"namelookup_time":0.004695999999999999653665927468182417214848101139068603515625,"connect_time":0.109677999999999997715605104531277902424335479736328125,"pretransfer_time":0.229820999999999997509547711160848848521709442138671875,"size_upload":193,"size_download":99,"speed_download":39,"speed_upload":77,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.506816000000000155267798618297092616558074951171875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":54176,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":229749,"connect_time_us":109678,"namelookup_time_us":4696,"pretransfer_time_us":229821,"redirect_time_us":0,"starttransfer_time_us":2506816,"total_time_us":2506967}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["493458"],"buttons":[{"type":"button","sub_type":"url","text":"493458"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSRTcyNUJCNEZBMTJCOEJBRTkxAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-09T13:00:40+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":8,"curl_exec_ms":2243,"total_route_ms":2251}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.242948999999999859511490285512991249561309814453125,"namelookup_time":0.004929000000000000221433982261487471987493336200714111328125,"connect_time":0.11363700000000000189803728289916762150824069976806640625,"pretransfer_time":0.24143999999999998795630062886630184948444366455078125,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.2428960000000000007958078640513122081756591796875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":39644,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":241370,"connect_time_us":113637,"namelookup_time_us":4929,"pretransfer_time_us":241440,"redirect_time_us":0,"starttransfer_time_us":2242896,"total_time_us":2242949}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["114840"],"buttons":[{"type":"button","sub_type":"url","text":"114840"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSNkZFRjFFRDlEM0FENzY2NTREAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-21T00:26:46+00:00
+Timings(ms): {"user_lookup_ms":19,"after_insert_ms":33,"curl_exec_ms":5170,"total_route_ms":5203}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":654,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":5.16970200000000001949729266925714910030364990234375,"namelookup_time":0.129450000000000009503509090791339986026287078857421875,"connect_time":0.238628000000000006775024985472555272281169891357421875,"pretransfer_time":0.377157000000000020012436152683221735060214996337890625,"size_upload":193,"size_download":99,"speed_download":19,"speed_upload":37,"download_content_length":99,"upload_content_length":193,"starttransfer_time":5.16961199999999987397814038558863103389739990234375,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":57320,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":377050,"connect_time_us":238628,"namelookup_time_us":129450,"pretransfer_time_us":377157,"redirect_time_us":0,"starttransfer_time_us":5169612,"total_time_us":5169702}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["953156"],"buttons":[{"type":"button","sub_type":"url","text":"953156"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSNTZCNTg1OTcxMzc5NjcyNEEyAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-21T00:26:49+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":9,"curl_exec_ms":2255,"total_route_ms":2264}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.25470799999999993445953805348835885524749755859375,"namelookup_time":0.0034859999999999999494015856527084906701929867267608642578125,"connect_time":0.10144899999999999751221224641994922421872615814208984375,"pretransfer_time":0.2172429999999999916671100663734250701963901519775390625,"size_upload":193,"size_download":99,"speed_download":43,"speed_upload":85,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.25463699999999978018649926525540649890899658203125,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":50580,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":217180,"connect_time_us":101449,"namelookup_time_us":3486,"pretransfer_time_us":217243,"redirect_time_us":0,"starttransfer_time_us":2254637,"total_time_us":2254708}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["885388"],"buttons":[{"type":"button","sub_type":"url","text":"885388"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSOEE2N0QyNTE0QTg3NDlBQjdCAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-24T14:52:54+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":8,"curl_exec_ms":2245,"total_route_ms":2254}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":644,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.245013000000000147338141687214374542236328125,"namelookup_time":0.00449800000000000026190161150907442788593471050262451171875,"connect_time":0.113877000000000005996980689815245568752288818359375,"pretransfer_time":0.2426180000000000003268496584496460855007171630859375,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":85,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.244958000000000009066525308298878371715545654296875,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":54036,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":242537,"connect_time_us":113877,"namelookup_time_us":4498,"pretransfer_time_us":242618,"redirect_time_us":0,"starttransfer_time_us":2244958,"total_time_us":2245013}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["189887"],"buttons":[{"type":"button","sub_type":"url","text":"189887"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSRjdDNzg5NTAzMkVEQkM5OEExAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-24T14:53:50+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":7,"curl_exec_ms":2220,"total_route_ms":2228}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.22031299999999998107114151935093104839324951171875,"namelookup_time":0.003340000000000000086874951676918499288149178028106689453125,"connect_time":0.10167099999999999748734325066834571771323680877685546875,"pretransfer_time":0.2180779999999999940740735837607644498348236083984375,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.220183000000000017593038137420080602169036865234375,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":41616,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":217995,"connect_time_us":101671,"namelookup_time_us":3340,"pretransfer_time_us":218078,"redirect_time_us":0,"starttransfer_time_us":2220183,"total_time_us":2220313}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["370463"],"buttons":[{"type":"button","sub_type":"url","text":"370463"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSQjcwOTZDMjEzMDkzQ0ZEMkI1AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-24T14:54:06+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":9,"curl_exec_ms":2221,"total_route_ms":2230}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":644,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.2205180000000002138449417543597519397735595703125,"namelookup_time":0.00394599999999999985489385068149204016663134098052978515625,"connect_time":0.10234400000000000441335856748992227949202060699462890625,"pretransfer_time":0.218245999999999995555555187820573337376117706298828125,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.220455999999999985305976224481128156185150146484375,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":59150,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":218174,"connect_time_us":102344,"namelookup_time_us":3946,"pretransfer_time_us":218246,"redirect_time_us":0,"starttransfer_time_us":2220456,"total_time_us":2220518}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["131429"],"buttons":[{"type":"button","sub_type":"url","text":"131429"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSMjEyODhGQ0QyQ0U2RTY5NDEzAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-24T14:57:26+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":8,"curl_exec_ms":2227,"total_route_ms":2235}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.2271429999999998727844285895116627216339111328125,"namelookup_time":0.007536000000000000163813407283441847539506852626800537109375,"connect_time":0.10611299999999999899014113680095761083066463470458984375,"pretransfer_time":0.225480999999999986993515221911366097629070281982421875,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.22708700000000003882405508193187415599822998046875,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":49642,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":225395,"connect_time_us":106113,"namelookup_time_us":7536,"pretransfer_time_us":225481,"redirect_time_us":0,"starttransfer_time_us":2227087,"total_time_us":2227143}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["302825"],"buttons":[{"type":"button","sub_type":"url","text":"302825"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSRTg5ODkxMjU2NUY5NTdGRjg4AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-24T14:58:32+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":8,"curl_exec_ms":2237,"total_route_ms":2245}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.236600999999999839218389752204529941082000732421875,"namelookup_time":0.003970999999999999703625963576314461533911526203155517578125,"connect_time":0.1094050000000000022470914018413168378174304962158203125,"pretransfer_time":0.2342220000000000135198519046753062866628170013427734375,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.2365539999999999309920895029790699481964111328125,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":49254,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":234159,"connect_time_us":109405,"namelookup_time_us":3971,"pretransfer_time_us":234222,"redirect_time_us":0,"starttransfer_time_us":2236554,"total_time_us":2236601}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["267609"],"buttons":[{"type":"button","sub_type":"url","text":"267609"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSOEM4RjRFNzg2MzUyQTgzMDMwAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-24T14:59:00+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":8,"curl_exec_ms":2229,"total_route_ms":2238}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.229334000000000148844492287025786936283111572265625,"namelookup_time":0.00484500000000000034805491821998657542280852794647216796875,"connect_time":0.103385000000000004671818487622658722102642059326171875,"pretransfer_time":0.2277019999999999877449141649776720441877841949462890625,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.22928499999999996106225808034650981426239013671875,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":59300,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":227605,"connect_time_us":103385,"namelookup_time_us":4845,"pretransfer_time_us":227702,"redirect_time_us":0,"starttransfer_time_us":2229285,"total_time_us":2229334}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["200273"],"buttons":[{"type":"button","sub_type":"url","text":"200273"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSODk1N0E4Nzc4RjkzREQ0MjUxAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-24T14:59:13+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":7,"curl_exec_ms":2563,"total_route_ms":2569}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":648,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.562599000000000071253225542022846639156341552734375,"namelookup_time":0.00408799999999999962019270327573394752107560634613037109375,"connect_time":0.1208059999999999967190689176277373917400836944580078125,"pretransfer_time":0.265124999999999999555910790149937383830547332763671875,"size_upload":193,"size_download":99,"speed_download":38,"speed_upload":75,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.56254600000000021253754312056116759777069091796875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":35850,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":265059,"connect_time_us":120806,"namelookup_time_us":4088,"pretransfer_time_us":265125,"redirect_time_us":0,"starttransfer_time_us":2562546,"total_time_us":2562599}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["872594"],"buttons":[{"type":"button","sub_type":"url","text":"872594"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSMThBNDg0MUYyNTlERTQyNkMwAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-25T06:44:18+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":7,"curl_exec_ms":2663,"total_route_ms":2670}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.662608999999999781493897899053990840911865234375,"namelookup_time":0.004020000000000000135724764760425387066788971424102783203125,"connect_time":0.10959499999999999797495320308371447026729583740234375,"pretransfer_time":0.2331149999999999888888879695514333434402942657470703125,"size_upload":193,"size_download":99,"speed_download":37,"speed_upload":72,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.6624379999999998602788764401338994503021240234375,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":34890,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":233057,"connect_time_us":109595,"namelookup_time_us":4020,"pretransfer_time_us":233115,"redirect_time_us":0,"starttransfer_time_us":2662438,"total_time_us":2662609}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["884973"],"buttons":[{"type":"button","sub_type":"url","text":"884973"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSQzVDMUI3M0MzMTk3MkIwMUUyAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-25T06:47:50+00:00
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":10,"curl_exec_ms":2219,"total_route_ms":2229}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.218957000000000068240524342400021851062774658203125,"namelookup_time":0.0044229999999999998483435348362036165781319141387939453125,"connect_time":0.10293099999999999472066747330245561897754669189453125,"pretransfer_time":0.2164339999999999875068823484980384819209575653076171875,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":87,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.21886299999999980769871399388648569583892822265625,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":49774,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":216336,"connect_time_us":102931,"namelookup_time_us":4423,"pretransfer_time_us":216434,"redirect_time_us":0,"starttransfer_time_us":2218863,"total_time_us":2218957}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["907987"],"buttons":[{"type":"button","sub_type":"url","text":"907987"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSNUY3NjAxMDQxNTJGRkI1RkFGAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-27T10:29:19+00:00
+Timings(ms): {"user_lookup_ms":0,"after_insert_ms":7,"curl_exec_ms":2375,"total_route_ms":2383}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":644,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.37541199999999985692511472734622657299041748046875,"namelookup_time":0.0076559999999999996111998967762701795436441898345947265625,"connect_time":0.11636000000000000509370323698021820746362209320068359375,"pretransfer_time":0.2440469999999999861639565779114491306245326995849609375,"size_upload":193,"size_download":99,"speed_download":41,"speed_upload":81,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.375302000000000024471091819577850401401519775390625,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":59780,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":243917,"connect_time_us":116360,"namelookup_time_us":7656,"pretransfer_time_us":244047,"redirect_time_us":0,"starttransfer_time_us":2375302,"total_time_us":2375412}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["288324"],"buttons":[{"type":"button","sub_type":"url","text":"288324"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSMzgzNUVBMkI3QTI5MkRGOUZEAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-27T10:31:48+00:00
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":12,"curl_exec_ms":2226,"total_route_ms":2238}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":652,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.22617300000000017945467334357090294361114501953125,"namelookup_time":0.006202000000000000047573056605187957757152616977691650390625,"connect_time":0.10434300000000000518962650630783173255622386932373046875,"pretransfer_time":0.2246889999999999998347988139357767067849636077880859375,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.22606400000000004268940756446681916713714599609375,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":44508,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":224576,"connect_time_us":104343,"namelookup_time_us":6202,"pretransfer_time_us":224689,"redirect_time_us":0,"starttransfer_time_us":2226064,"total_time_us":2226173}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["270897"],"buttons":[{"type":"button","sub_type":"url","text":"270897"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSQ0UyQzc1Njg2Q0RFQjlBQTQwAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-10-29T02:14:01+00:00
+Timings(ms): {"user_lookup_ms":6,"after_insert_ms":16,"curl_exec_ms":4347,"total_route_ms":4364}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":4.34695599999999959806018523522652685642242431640625,"namelookup_time":0.1237790000000000001367794766338192857801914215087890625,"connect_time":0.221496999999999999442223952428321354091167449951171875,"pretransfer_time":0.342913999999999996592947582030319608747959136962890625,"size_upload":193,"size_download":99,"speed_download":22,"speed_upload":44,"download_content_length":99,"upload_content_length":193,"starttransfer_time":4.346849999999999880628820392303168773651123046875,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":41892,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":342833,"connect_time_us":221497,"namelookup_time_us":123779,"pretransfer_time_us":342914,"redirect_time_us":0,"starttransfer_time_us":4346850,"total_time_us":4346956}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["838565"],"buttons":[{"type":"button","sub_type":"url","text":"838565"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSMTNFQjY4MEIyODVCREQ1NDdCAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-12-24T12:02:37+05:30
+Timings(ms): {"user_lookup_ms":9,"after_insert_ms":13,"curl_exec_ms":2791,"total_route_ms":2804}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":654,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.790757999999999849904952498036436736583709716796875,"namelookup_time":0.00807700000000000084554585555451922118663787841796875,"connect_time":0.1129219999999999946016515650626388378441333770751953125,"pretransfer_time":0.2372140000000000081836759591169538907706737518310546875,"size_upload":193,"size_download":99,"speed_download":35,"speed_upload":69,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.790702000000000015944578990456648170948028564453125,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":34302,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":237103,"connect_time_us":112922,"namelookup_time_us":8077,"pretransfer_time_us":237214,"redirect_time_us":0,"starttransfer_time_us":2790702,"total_time_us":2790758}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["102295"],"buttons":[{"type":"button","sub_type":"url","text":"102295"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSREM5QTQ3QzBEMEIxNTU2RjY0AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-12-24T12:04:18+05:30
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":4,"curl_exec_ms":2240,"total_route_ms":2244}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":658,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.2396370000000000999307303573004901409149169921875,"namelookup_time":0.004490000000000000067446048745978259830735623836517333984375,"connect_time":0.113088999999999995083044268540106713771820068359375,"pretransfer_time":0.23819000000000001282529638046980835497379302978515625,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.2395920000000000271711542154662311077117919921875,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":49132,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":238121,"connect_time_us":113089,"namelookup_time_us":4490,"pretransfer_time_us":238190,"redirect_time_us":0,"starttransfer_time_us":2239592,"total_time_us":2239637}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["227984"],"buttons":[{"type":"button","sub_type":"url","text":"227984"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSQUFGMUUzRkI4MEFCMUY1MEMwAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-12-30T17:52:28+05:30
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":6,"curl_exec_ms":2236,"total_route_ms":2242}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":654,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.236095000000000165840674526407383382320404052734375,"namelookup_time":0.004904999999999999638067293972198967821896076202392578125,"connect_time":0.10980499999999999982680520815847557969391345977783203125,"pretransfer_time":0.233692000000000010828671292983926832675933837890625,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.235997999999999930054173091775737702846527099609375,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":39398,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":233623,"connect_time_us":109805,"namelookup_time_us":4905,"pretransfer_time_us":233692,"redirect_time_us":0,"starttransfer_time_us":2235998,"total_time_us":2236095}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["615430"],"buttons":[{"type":"button","sub_type":"url","text":"615430"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSRjkyMTQxMjM4MkY0RUE5NkM2AA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-12-30T17:56:16+05:30
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":4,"curl_exec_ms":2230,"total_route_ms":2234}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"application\/json; charset=utf-8","http_code":200,"header_size":650,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":2.229782999999999848483867026516236364841461181640625,"namelookup_time":0.00370000000000000016375789613221058971248567104339599609375,"connect_time":0.108603000000000005087485988042317330837249755859375,"pretransfer_time":0.2281600000000000016964207816272391937673091888427734375,"size_upload":193,"size_download":99,"speed_download":44,"speed_upload":86,"download_content_length":99,"upload_content_length":193,"starttransfer_time":2.229699000000000097543306765146553516387939453125,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":40390,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":228075,"connect_time_us":108603,"namelookup_time_us":3700,"pretransfer_time_us":228160,"redirect_time_us":0,"starttransfer_time_us":2229699,"total_time_us":2229783}
+Payload: {"to":"7777777777","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["539557"],"buttons":[{"type":"button","sub_type":"url","text":"539557"}]}
+Response: {"id":"wamid.HBgMOTE3Nzc3Nzc3Nzc3FQIAERgSQTVEMkE5OTY2RTZFMTAwMjRGAA==","message_status":"accepted"}
+CurlError: 
+
+Timestamp: 2025-12-31T13:01:55+05:30
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":6,"curl_exec_ms":12002,"total_route_ms":12009}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":12.0018200000000003768718670471571385860443115234375,"namelookup_time":0.00551800000000000033517633113433475955389440059661865234375,"connect_time":0.10308900000000000007904787935331114567816257476806640625,"pretransfer_time":0.2169439999999999979518605641715112142264842987060546875,"size_upload":193,"size_download":0,"speed_download":0,"speed_upload":16,"download_content_length":-1,"upload_content_length":193,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":37560,"http_version":0,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":216858,"connect_time_us":103089,"namelookup_time_us":5518,"pretransfer_time_us":216944,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":12001820}
+Payload: {"to":"7693863103","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["680035"],"buttons":[{"type":"button","sub_type":"url","text":"680035"}]}
+Response: 
+CurlError: Operation timed out after 12001 milliseconds with 0 bytes received
+
+Timestamp: 2025-12-31T13:01:57+05:30
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":4,"curl_exec_ms":12005,"total_route_ms":12010}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":12.004647999999999541387296631000936031341552734375,"namelookup_time":0.004067000000000000302369240756661383784376084804534912109375,"connect_time":0.11254999999999999726885135942211491055786609649658203125,"pretransfer_time":0.235337999999999991640464713782421313226222991943359375,"size_upload":193,"size_download":0,"speed_download":0,"speed_upload":16,"download_content_length":-1,"upload_content_length":193,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":37568,"http_version":0,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":235270,"connect_time_us":112550,"namelookup_time_us":4067,"pretransfer_time_us":235338,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":12004648}
+Payload: {"to":"7693863103","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["570097"],"buttons":[{"type":"button","sub_type":"url","text":"570097"}]}
+Response: 
+CurlError: Operation timed out after 12004 milliseconds with 0 bytes received
+
+Timestamp: 2025-12-31T13:02:02+05:30
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":4,"curl_exec_ms":415,"total_route_ms":420}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"text\/plain; charset=utf-8","http_code":404,"header_size":586,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.415241000000000026748381287688971497118473052978515625,"namelookup_time":0.0041939999999999998114841304186484194360673427581787109375,"connect_time":0.10166699999999999348698764833898167125880718231201171875,"pretransfer_time":0.21705900000000000193978166862507350742816925048828125,"size_upload":193,"size_download":19,"speed_download":45,"speed_upload":465,"download_content_length":19,"upload_content_length":193,"starttransfer_time":0.4151759999999999894981783654657192528247833251953125,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":39154,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":216995,"connect_time_us":101667,"namelookup_time_us":4194,"pretransfer_time_us":217059,"redirect_time_us":0,"starttransfer_time_us":415176,"total_time_us":415241}
+Payload: {"to":"7693863103","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["949217"],"buttons":[{"type":"button","sub_type":"url","text":"949217"}]}
+Response: 404 page not found
+
+CurlError: 
+
+Timestamp: 2025-12-31T13:02:17+05:30
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":4,"curl_exec_ms":419,"total_route_ms":423}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"text\/plain; charset=UTF-8","http_code":502,"header_size":428,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.418864999999999987334575735076214186847209930419921875,"namelookup_time":0.0038470000000000001590116927019380455021746456623077392578125,"connect_time":0.10112200000000000355004914354140055365860462188720703125,"pretransfer_time":0.2160140000000000115587539539774297736585140228271484375,"size_upload":193,"size_download":15,"speed_download":35,"speed_upload":461,"download_content_length":15,"upload_content_length":193,"starttransfer_time":0.41879699999999997483968172673485241830348968505859375,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":50538,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":215919,"connect_time_us":101122,"namelookup_time_us":3847,"pretransfer_time_us":216014,"redirect_time_us":0,"starttransfer_time_us":418797,"total_time_us":418865}
+Payload: {"to":"7693863103","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["186760"],"buttons":[{"type":"button","sub_type":"url","text":"186760"}]}
+Response: error code: 502
+CurlError: 
+
+Timestamp: 2025-12-31T13:04:28+05:30
+Timings(ms): {"user_lookup_ms":2,"after_insert_ms":6,"curl_exec_ms":462,"total_route_ms":469}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":"text\/plain; charset=UTF-8","http_code":502,"header_size":428,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.462355000000000015969447986208251677453517913818359375,"namelookup_time":0.0077050000000000000432986979603811050765216350555419921875,"connect_time":0.11633300000000000584687853688592440448701381683349609375,"pretransfer_time":0.25185000000000001829647544582257978618144989013671875,"size_upload":193,"size_download":15,"speed_download":32,"speed_upload":417,"download_content_length":15,"upload_content_length":193,"starttransfer_time":0.4622749999999999914734871708787977695465087890625,"redirect_time":0,"redirect_url":"","primary_ip":"172.67.163.83","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":57066,"http_version":2,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":251735,"connect_time_us":116333,"namelookup_time_us":7705,"pretransfer_time_us":251850,"redirect_time_us":0,"starttransfer_time_us":462275,"total_time_us":462355}
+Payload: {"to":"7693863103","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["829130"],"buttons":[{"type":"button","sub_type":"url","text":"829130"}]}
+Response: error code: 502
+CurlError: 
+
+Timestamp: 2025-12-31T13:04:57+05:30
+Timings(ms): {"user_lookup_ms":1,"after_insert_ms":5,"curl_exec_ms":12001,"total_route_ms":12008}
+cURL info: {"url":"https:\/\/app.veblika.com\/api\/v2\/whatsapp-business\/messages","content_type":null,"http_code":0,"header_size":0,"request_size":510,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":12.0011250000000000426325641456060111522674560546875,"namelookup_time":0.004343999999999999771238545775986494845710694789886474609375,"connect_time":0.1169530000000000014015455462867976166307926177978515625,"pretransfer_time":0.248458000000000012175149777249316684901714324951171875,"size_upload":193,"size_download":0,"speed_download":0,"speed_upload":16,"download_content_length":-1,"upload_content_length":193,"starttransfer_time":0,"redirect_time":0,"redirect_url":"","primary_ip":"104.21.15.172","certinfo":[],"primary_port":443,"local_ip":"103.211.202.237","local_port":48624,"http_version":0,"protocol":2,"ssl_verifyresult":0,"scheme":"HTTPS","appconnect_time_us":248364,"connect_time_us":116953,"namelookup_time_us":4344,"pretransfer_time_us":248458,"redirect_time_us":0,"starttransfer_time_us":0,"total_time_us":12001125}
+Payload: {"to":"7693863103","phoneNoId":"775402075647549","type":"template","name":"staymatehood1","language":"en","bodyParams":["738455"],"buttons":[{"type":"button","sub_type":"url","text":"738455"}]}
+Response: 
+CurlError: Operation timed out after 12001 milliseconds with 0 bytes received
+
