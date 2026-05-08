@@ -1,0 +1,362 @@
+[30-Apr-2025 07:27:54 UTC] PHP Warning:  require(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php on line 3
+[30-Apr-2025 07:27:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'dbconn.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php on line 3
+[30-Apr-2025 07:28:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.relationship,
+            U.food_preference,
+            U.occupation,
+        ' at line 8 in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php:36
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php(36): mysqli->prepare('\n        SELECT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php on line 36
+[09-May-2025 05:21:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FULL JOIN TICKETS T ON T.room_id = R.room_id AND T.user_id = U.user_id
+        W' at line 22 in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php:35
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php(35): mysqli->prepare('\n        SELECT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php on line 35
+[09-May-2025 05:22:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN TICKETS T ON T.room_id = R.room_id AND T.user_id = U.user_id
+        ' at line 22 in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php:35
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php(35): mysqli->prepare('\n        SELECT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php on line 35
+[09-May-2025 05:40:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'property_id' in where clause is ambiguous in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php:38
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php(38): mysqli->prepare('\n        SELECT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php on line 38
+[09-May-2025 05:40:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'property_id' in where clause is ambiguous in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php:38
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php(38): mysqli->prepare('\n        SELECT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php on line 38
+[09-May-2025 05:41:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'property_id' in where clause is ambiguous in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php:36
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php(36): mysqli->prepare('\n        SELECT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php on line 36
+[09-May-2025 05:41:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'property_id' in where clause is ambiguous in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php:40
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php(40): mysqli->prepare('\n        SELECT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php on line 40
+[21-May-2025 06:20:28 UTC] PHP Warning:  include(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 2
+[21-May-2025 06:20:28 UTC] PHP Warning:  include(): Failed opening 'dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 2
+[21-May-2025 06:20:28 UTC] PHP Warning:  Undefined variable $conn in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 34
+[21-May-2025 06:20:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 34
+[21-May-2025 06:20:39 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:61
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(61): mysqli_stmt->bind_param('iiiddsssss', 50, 14, 47, 2835.0, 2000.0, 'Confirmed', 4835.0, '2025-05-21 06:2...', '2025-05-21 06:2...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 61
+[21-May-2025 06:21:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:65
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(65): mysqli_stmt->bind_param('iiiddsssss', 51, 14, 47, 2835.0, 2000.0, 'Confirmed', 4835.0, '2025-05-21 06:2...', '2025-05-21 06:2...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 65
+[31-Jul-2025 06:44:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9638527410' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[31-Jul-2025 06:50:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9893448577' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[31-Jul-2025 07:16:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9893448577' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[31-Jul-2025 12:45:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9441809443' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[01-Aug-2025 08:12:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9893448577' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[01-Aug-2025 12:38:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9638527410' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[01-Aug-2025 12:41:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9893448577' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[04-Aug-2025 16:11:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9441809443' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[05-Aug-2025 12:45:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9638527410' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[05-Aug-2025 12:47:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9441809443' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[05-Aug-2025 12:55:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9638527410' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[06-Aug-2025 05:36:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9638527410' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[07-Aug-2025 07:16:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9638527410' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[07-Aug-2025 07:44:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9638527410' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 52
+[07-Aug-2025 07:55:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9638527410' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:51
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 51
+[07-Aug-2025 09:08:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9638527410' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:51
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 51
+[07-Aug-2025 09:12:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '7993922095' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:51
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 51
+[26-Sep-2025 08:41:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9098367576' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:51
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 51
+[27-Sep-2025 09:02:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1111111111' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:51
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 51
+[27-Sep-2025 09:04:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1111111111' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:51
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 51
+[27-Sep-2025 09:13:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '9111511819' for key 'USERS.unique_phone' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:61
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(61): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 61
+[06-Oct-2025 13:08:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:113
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(113): mysqli->prepare('INSERT INTO BOO...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 113
+[08-Oct-2025 09:25:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'P.property_name' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php:300
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php(300): mysqli->prepare('SELECT P.proper...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/add_tenant.php on line 300
+[29-Oct-2025 11:35:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=> ?
+          AND B.booking_status IN ('Confirmed', 'Completed', 'Approved') G' at line 45 in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php:93
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php(93): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/tenants/get_tenants.php on line 93
+[14-Nov-2025 15:25:04 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'B.count_cycles' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php:93
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php(93): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php on line 93
+[14-Nov-2025 15:25:10 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'B.count_cycles' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php:93
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php(93): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php on line 93
+[14-Nov-2025 15:25:33 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'B.count_cycles' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php:93
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php(93): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php on line 93
+[14-Nov-2025 15:26:14 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'B.count_cycles' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php:93
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php(93): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php on line 93
+[14-Nov-2025 15:26:28 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'B.count_cycles' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php:93
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php(93): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php on line 93
+[14-Nov-2025 15:27:19 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'B.count_cycles' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php:93
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php(93): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/get_tenants.php on line 93
+[06-Dec-2025 15:05:17 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'security_deposit_paid' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/add_tenant.php:114
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/add_tenant.php(114): mysqli->prepare('INSERT INTO BOO...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/add_tenant.php on line 114
+[06-Dec-2025 15:07:37 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'security_deposit_paid' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/add_tenant.php:114
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/add_tenant.php(114): mysqli->prepare('INSERT INTO BOO...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/add_tenant.php on line 114
+[06-Dec-2025 15:35:05 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'security_deposit_paid' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/add_tenant.php:114
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/add_tenant.php(114): mysqli->prepare('INSERT INTO BOO...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/add_tenant.php on line 114
+[06-Dec-2025 15:35:31 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'security_deposit_paid' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/add_tenant.php:114
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/add_tenant.php(114): mysqli->prepare('INSERT INTO BOO...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/add_tenant.php on line 114
+[26-Feb-2026 16:37:55 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:28
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(28): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 28
+[26-Feb-2026 16:38:19 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:28
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(28): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 28
+[26-Feb-2026 16:38:56 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:28
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(28): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 28
+[26-Feb-2026 16:38:57 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:28
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(28): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 28
+[26-Feb-2026 16:39:22 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:28
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(28): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 28
+[26-Feb-2026 16:40:01 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:31
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(31): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 31
+[26-Feb-2026 16:40:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:31
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(31): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 31
+[26-Feb-2026 16:40:49 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:31
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(31): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 31
+[26-Feb-2026 16:40:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:31
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(31): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 31
+[26-Feb-2026 16:40:56 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:31
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(31): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 31
+[26-Feb-2026 16:41:19 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:27
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(27): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 27
+[26-Feb-2026 16:41:20 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:27
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(27): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 27
+[26-Feb-2026 16:42:24 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:27
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(27): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 27
+[26-Feb-2026 16:47:22 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:27
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(27): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 27
+[26-Feb-2026 16:47:23 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'R.bed_number' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:27
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(27): mysqli->prepare('\r\n        SELEC...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 27
+[27-Feb-2026 12:27:03 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND B.end_date > NOW()
+    ORDER BY B.end_date ASC' at line 21 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:34
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(34): mysqli->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 34
+[27-Feb-2026 12:27:06 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND B.end_date > NOW()
+    ORDER BY B.end_date ASC' at line 21 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:34
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(34): mysqli->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 34
+[27-Feb-2026 12:27:09 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND B.end_date > NOW()
+    ORDER BY B.end_date ASC' at line 21 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:34
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(34): mysqli->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 34
+[27-Feb-2026 12:27:20 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND B.end_date > NOW()
+    ORDER BY B.end_date ASC' at line 21 in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:34
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(34): mysqli->prepare('\r\n    SELECT \r\n...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 34
+[24-Mar-2026 12:53:22 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.PROPERTIES' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:41
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(41): mysqli->prepare('SELECT property...')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(61): getPropertyName(Object(mysqli), 131)
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 41
+[24-Mar-2026 12:54:40 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.PROPERTIES' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:41
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(41): mysqli->prepare('SELECT property...')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(61): getPropertyName(Object(mysqli), 131)
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 41
+[24-Mar-2026 12:54:50 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.PROPERTIES' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:41
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(41): mysqli->prepare('SELECT property...')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(61): getPropertyName(Object(mysqli), 131)
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 41
+[24-Mar-2026 12:55:20 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.PROPERTIES' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:41
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(41): mysqli->prepare('SELECT property...')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(61): getPropertyName(Object(mysqli), 131)
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 41
+[24-Mar-2026 12:57:58 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.PROPERTIES' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php:41
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(41): mysqli->prepare('SELECT property...')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php(61): getPropertyName(Object(mysqli), 131)
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/tenants/user_active_bookings.php on line 41
