@@ -1,0 +1,24 @@
+[23-Feb-2026 11:41:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php:9
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php(9): mysqli->__construct('localhost', 'staymate_dev', 'M?xOMiMGy=.,Q0u...', 'staymate_dev')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/enquiry_and_visit/get_visits_equiry_count.php(7): include('/home/pmpframe/...')
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php on line 9
+[23-Feb-2026 11:41:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php:9
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php(9): mysqli->__construct('localhost', 'staymate_dev', 'M?xOMiMGy=.,Q0u...', 'staymate_dev')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/enquiry_and_visit/get_visits_equiry_count.php(7): include('/home/pmpframe/...')
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php on line 9
+[23-Feb-2026 11:41:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php:9
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php(9): mysqli->__construct('localhost', 'staymate_dev', 'M?xOMiMGy=.,Q0u...', 'staymate_dev')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/enquiry_and_visit/get_visits_equiry_count.php(7): include('/home/pmpframe/...')
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php on line 9
+[23-Feb-2026 11:41:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php:9
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php(9): mysqli->__construct('localhost', 'staymate_dev', 'M?xOMiMGy=.,Q0u...', 'staymate_dev')
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/enquiry_and_visit/get_visits_equiry_count.php(7): include('/home/pmpframe/...')
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/dbconn.php on line 9
