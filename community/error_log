@@ -1,0 +1,22 @@
+[03-May-2025 12:03:35 UTC] PHP Warning:  include(dbconn.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_get.php on line 2
+[03-May-2025 12:03:35 UTC] PHP Warning:  include(): Failed opening 'dbconn.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_get.php on line 2
+[03-May-2025 12:03:35 UTC] PHP Warning:  Undefined variable $conn in /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_get.php on line 36
+[03-May-2025 12:03:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_get.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_get.php on line 36
+[03-May-2025 12:19:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.community_chat' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_send.php:13
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_send.php(13): mysqli->prepare('INSERT INTO com...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_send.php on line 13
+[03-May-2025 12:20:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.community_chat' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_send.php:13
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_send.php(13): mysqli->prepare('INSERT INTO com...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_send.php on line 13
+[03-May-2025 12:20:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.community_chat' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_send.php:17
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_send.php(17): mysqli->prepare('INSERT INTO com...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/community/community_chat_send.php on line 17

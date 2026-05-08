@@ -1,0 +1,42 @@
+[30-Apr-2025 08:06:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.user_id' in 'on clause' in /home/pmpframe/staymate.pmpframe.com/API/contacts/schedule_visit.php:17
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/contacts/schedule_visit.php(17): mysqli->prepare('SELECT * FROM V...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/contacts/schedule_visit.php on line 17
+[30-Apr-2025 08:07:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.user_id' in 'on clause' in /home/pmpframe/staymate.pmpframe.com/API/contacts/schedule_visit.php:21
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/contacts/schedule_visit.php(21): mysqli->prepare('SELECT * FROM V...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/contacts/schedule_visit.php on line 21
+[02-May-2025 05:55:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate`.`VISITS`, CONSTRAINT `VISITS_ibfk_2` FOREIGN KEY (`property_id`) REFERENCES `PROPERTY` (`property_id`)) in /home/pmpframe/staymate.pmpframe.com/API/contacts/schedule_visit.php:39
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/contacts/schedule_visit.php(39): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/contacts/schedule_visit.php on line 39
+[12-May-2025 06:38:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.contacts' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/contacts/add_contact.php:19
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/contacts/add_contact.php(19): mysqli->prepare('INSERT INTO con...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/contacts/add_contact.php on line 19
+[12-May-2025 06:38:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.contacts' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/contacts/add_contact.php:23
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/contacts/add_contact.php(23): mysqli->prepare('INSERT INTO con...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/contacts/add_contact.php on line 23
+[12-May-2025 06:43:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.contacts' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/contacts/get_contacts.php:14
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/contacts/get_contacts.php(14): mysqli->prepare('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/contacts/get_contacts.php on line 14
+[04-Nov-2025 11:42:51 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function sendPushNotification(), 3 passed in /home/pmpframe/staymate.pmpframe.com/API/notifications/save_notification.php on line 30 and exactly 4 expected in /home/pmpframe/staymate.pmpframe.com/API/notifications/notify.php:13
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/notifications/save_notification.php(30): sendPushNotification('dh6g3JMORW-luXI...', '\xF0\x9F\xA7\x8D\xE2\x80\x8D\xE2\x99\x82\xEF\xB8\x8F N...', 'A tenant has sh...')
+#1 /home/pmpframe/staymate.pmpframe.com/API/contacts/schedule_visit.php(73): pushAndSaveNotification(Object(mysqli), 76, 'Visits', '\xF0\x9F\xA7\x8D\xE2\x80\x8D\xE2\x99\x82\xEF\xB8\x8F N...', 'A tenant has sh...')
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/notifications/notify.php on line 13
+[04-Nov-2025 11:43:04 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function sendPushNotification(), 3 passed in /home/pmpframe/staymate.pmpframe.com/API/notifications/save_notification.php on line 30 and exactly 4 expected in /home/pmpframe/staymate.pmpframe.com/API/notifications/notify.php:13
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/notifications/save_notification.php(30): sendPushNotification('dh6g3JMORW-luXI...', '\xF0\x9F\xA7\x8D\xE2\x80\x8D\xE2\x99\x82\xEF\xB8\x8F N...', 'A tenant has sh...')
+#1 /home/pmpframe/staymate.pmpframe.com/API/contacts/schedule_visit.php(73): pushAndSaveNotification(Object(mysqli), 76, 'Visits', '\xF0\x9F\xA7\x8D\xE2\x80\x8D\xE2\x99\x82\xEF\xB8\x8F N...', 'A tenant has sh...')
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/notifications/notify.php on line 13

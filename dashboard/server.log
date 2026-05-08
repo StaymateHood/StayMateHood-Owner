@@ -1,0 +1,3 @@
+Content-Type: application/json
+
+{"status":"error","message":"Invalid property_id"}
