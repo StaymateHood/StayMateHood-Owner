@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Owner Community Chat - Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background: #f5f5f5; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .section { background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .form-group { margin: 15px 0; }
+        label { display: block; margin-bottom: 5px; font-weight: bold; }
+        input, textarea, select { width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; }
+        button { background: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer; margin: 5px; }
+        button:hover { background: #0056b3; }
+        .response { margin: 10px 0; padding: 10px; border-radius: 4px; }
+        .success { background: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+        .error { background: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+        .community-item { border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 4px; }
+        .member-item { border: 1px solid #eee; padding: 12px; margin: 8px 0; border-radius: 4px; background: #f9f9f9; }
+        .member-header { display: flex; align-items: center; gap: 10px; }
+        .member-avatar { width: 40px; height: 40px; border-radius: 50%; background: #007bff; color: white; display: flex; align-items: center; justify-content: center; font-weight: bold; }
+        .member-info { flex: 1; }
+        .member-role { display: inline-block; padding: 3px 8px; border-radius: 3px; font-size: 12px; font-weight: bold; }
+        .role-admin { background: #ffc107; color: #000; }
+        .role-member { background: #28a745; color: white; }
+        .message-item { border-bottom: 1px solid #eee; padding: 10px; margin: 5px 0; }
+        .chat-container { height: 400px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; background: #f9f9f9; }
+        .message { margin: 10px 0; padding: 8px; border-radius: 4px; }
+        .my-message { background: #007bff; color: white; margin-left: 20%; }
+        .other-message { background: white; margin-right: 20%; }
+        .flex { display: flex; gap: 10px; align-items: center; }
+        .flex input { flex: 1; }
+        .tabs { display: flex; gap: 10px; margin-bottom: 15px; border-bottom: 2px solid #ddd; }
+        .tab-btn { padding: 10px 20px; background: none; border: none; cursor: pointer; font-weight: bold; border-bottom: 3px solid transparent; }
+        .tab-btn.active { border-bottom-color: #007bff; color: #007bff; }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th, td { padding: 10px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background: #f5f5f5; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏢 Owner Community Chat System - Test</h1>
+        
+        <!-- User Selection -->
+        <div class="section">
+            <h2>👤 Select Owner</h2>
+            <div class="form-group">
+                <label>Owner ID:</label>
+                <input type="number" id="currentOwnerId" value="1" placeholder="Enter Owner ID">
+                <small>Use owner user_id from USERS table</small>
+            </div>
+        </div>
+
+        <!-- Create Community -->
+        <div class="section">
+            <h2>➕ Create Community</h2>
+            <div class="form-group">
+                <label>Community Name:</label>
+                <input type="text" id="communityName" placeholder="Enter community name">
+            </div>
+            <div class="form-group">
+                <label>Description:</label>
+                <textarea id="communityDescription" placeholder="Enter description"></textarea>
+            </div>
+            <div class="form-group">
+                <label>Type:</label>
+                <select id="communityType">
+                    <option value="public">Public</option>
+                    <option value="private">Private</option>
+                </select>
+            </div>
+            <button onclick="createCommunity()">Create Community</button>
+            <div id="createResponse" class="response"></div>
+        </div>
+
+        <!-- All Communities -->
+        <div class="section">
+            <h2>🏘️ All Communities</h2>
+            <button onclick="getAllCommunities()">Load All Communities</button>
+            <div id="communitiesResponse" class="response"></div>
+            <div id="communitiesList"></div>
+        </div>
+
+        <!-- Discover Communities -->
+        <div class="section">
+            <h2>🔍 Discover Communities</h2>
+            <div class="form-group">
+                <label>Search:</label>
+                <input type="text" id="searchQuery" placeholder="Search communities...">
+            </div>
+            <button onclick="discoverCommunities()">Search Communities</button>
+            <div id="discoverResponse" class="response"></div>
+            <div id="discoverList"></div>
+        </div>
+
+        <!-- Chat Section -->
+        <div class="section">
+            <h2>💬 Community Chat & Members</h2>
+            <div class="form-group">
+                <label>Select Community:</label>
+                <select id="selectedCommunity" onchange="onCommunitySelected()">
+                    <option value="">Select a community</option>
+                </select>
+            </div>
+
+            <!-- Tabs for Chat and Members -->
+            <div class="tabs">
+                <button class="tab-btn active" onclick="switchTab('chat')">💬 Chat</button>
+                <button class="tab-btn" onclick="switchTab('members')">👥 Members</button>
+            </div>
+
+            <!-- Chat Tab -->
+            <div id="chat" class="tab-content active">
+                <div id="chatContainer" class="chat-container"></div>
+                <div class="flex">
+                    <input type="text" id="messageInput" placeholder="Type your message..." onkeypress="handleKeyPress(event)">
+                    <button onclick="sendMessage()">Send</button>
+                </div>
+                <div id="chatResponse" class="response"></div>
+            </div>
+
+            <!-- Members Tab -->
+            <div id="members" class="tab-content">
+                <button onclick="loadCommunityMembers()">Load Members</button>
+                <div id="membersResponse" class="response"></div>
+                <div id="membersList"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = '/NEWAPI/owner_community/';
+        let currentCommunityId = null;
+        let messageInterval = null;
+
+        function getCurrentOwnerId() {
+            return document.getElementById('currentOwnerId').value;
+        }
+
+        function showResponse(elementId, message, isSuccess = true) {
+            const element = document.getElementById(elementId);
+            element.innerHTML = message;
+            element.className = `response ${isSuccess ? 'success' : 'error'}`;
+        }
+
+        function switchTab(tabName) {
+            document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            
+            document.getElementById(tabName).classList.add('active');
+            event.target.classList.add('active');
+        }
+
+        async function createCommunity() {
+            const name = document.getElementById('communityName').value;
+            const description = document.getElementById('communityDescription').value;
+            const type = document.getElementById('communityType').value;
+            const ownerId = getCurrentOwnerId();
+
+            if (!name || !ownerId) {
+                showResponse('createResponse', 'Please fill in all required fields', false);
+                return;
+            }
+
+            try {
+                const response = await fetch(API_BASE + 'create_community.php', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        name: name,
+                        description: description,
+                        created_by: parseInt(ownerId),
+                        community_type: type
+                    })
+                });
+
+                const data = await response.json();
+                showResponse('createResponse', data.message, data.success);
+                
+                if (data.success) {
+                    document.getElementById('communityName').value = '';
+                    document.getElementById('communityDescription').value = '';
+                    getAllCommunities();
+                }
+            } catch (error) {
+                showResponse('createResponse', 'Error: ' + error.message, false);
+            }
+        }
+
+        async function getAllCommunities() {
+            try {
+                const response = await fetch(`${API_BASE}get_communities.php`);
+                const data = await response.json();
+
+                showResponse('communitiesResponse', `Found ${data.total} communities`, data.success);
+                
+                if (data.success) {
+                    displayCommunitiesList(data.communities);
+                    updateCommunitySelect(data.communities);
+                }
+            } catch (error) {
+                showResponse('communitiesResponse', 'Error: ' + error.message, false);
+            }
+        }
+
+        async function discoverCommunities() {
+            const search = document.getElementById('searchQuery').value;
+            const ownerId = getCurrentOwnerId();
+
+            if (!ownerId) {
+                showResponse('discoverResponse', 'Please enter Owner ID', false);
+                return;
+            }
+
+            try {
+                const url = `${API_BASE}discover_communities.php?owner_id=${ownerId}&search=${encodeURIComponent(search)}`;
+                const response = await fetch(url);
+                const data = await response.json();
+
+                showResponse('discoverResponse', `Found ${data.total} communities`, data.success);
+                
+                if (data.success) {
+                    displayDiscoverList(data.communities);
+                }
+            } catch (error) {
+                showResponse('discoverResponse', 'Error: ' + error.message, false);
+            }
+        }
+
+        function displayDiscoverList(communities) {
+            const container = document.getElementById('discoverList');
+            if (communities.length === 0) {
+                container.innerHTML = '<p>No communities found</p>';
+                return;
+            }
+
+            container.innerHTML = communities.map(community => `
+                <div class="community-item">
+                    <h4>${community.name}</h4>
+                    <p>${community.description || 'No description'}</p>
+                    <small>Created by: ${community.creator_name} | Members: ${community.member_count} | Type: ${community.community_type}</small>
+                    <br><button onclick="joinCommunity(${community.community_id})">Join Community</button>
+                </div>
+            `).join('');
+        }
+
+        function displayCommunitiesList(communities) {
+            const container = document.getElementById('communitiesList');
+            if (communities.length === 0) {
+                container.innerHTML = '<p>No communities found</p>';
+                return;
+            }
+
+            container.innerHTML = communities.map(community => `
+                <div class="community-item">
+                    <h4>${community.name}</h4>
+                    <p>${community.description || 'No description'}</p>
+                    <small>
+                        Created by: ${community.creator_name} | 
+                        Members: ${community.member_count} | 
+                        Type: ${community.community_type}
+                    </small>
+                    ${community.last_message ? `<br><small>Last: ${community.last_message}</small>` : ''}
+                </div>
+            `).join('');
+        }
+
+        function updateCommunitySelect(communities) {
+            const select = document.getElementById('selectedCommunity');
+            select.innerHTML = '<option value="">Select a community to chat</option>' +
+                communities.map(community => 
+                    `<option value="${community.community_id}">${community.name}</option>`
+                ).join('');
+        }
+
+        async function joinCommunity(communityId) {
+            const ownerId = getCurrentOwnerId();
+
+            try {
+                const response = await fetch(API_BASE + 'join_community.php', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        community_id: communityId,
+                        owner_id: parseInt(ownerId)
+                    })
+                });
+
+                const data = await response.json();
+                showResponse('discoverResponse', data.message, data.success);
+                
+                if (data.success) {
+                    discoverCommunities();
+                    getAllCommunities();
+                }
+            } catch (error) {
+                showResponse('discoverResponse', 'Error: ' + error.message, false);
+            }
+        }
+
+        function onCommunitySelected() {
+            const communityId = document.getElementById('selectedCommunity').value;
+            if (communityId) {
+                currentCommunityId = communityId;
+                loadMessages();
+            }
+        }
+
+        async function loadMessages() {
+            const communityId = document.getElementById('selectedCommunity').value;
+            const ownerId = getCurrentOwnerId();
+
+            if (!communityId || !ownerId) {
+                showResponse('chatResponse', 'Please select a community and enter Owner ID', false);
+                return;
+            }
+
+            try {
+                const response = await fetch(`${API_BASE}get_messages.php?community_id=${communityId}&owner_id=${ownerId}`);
+                const data = await response.json();
+
+                if (data.success) {
+                    displayMessages(data.messages);
+                    startMessagePolling();
+                } else {
+                    showResponse('chatResponse', data.message, false);
+                }
+            } catch (error) {
+                showResponse('chatResponse', 'Error: ' + error.message, false);
+            }
+        }
+
+        function displayMessages(messages) {
+            const container = document.getElementById('chatContainer');
+            const ownerId = getCurrentOwnerId();
+            
+            container.innerHTML = messages.map(message => {
+                const isMyMessage = message.sender_id == ownerId;
+                return `
+                    <div class="message ${isMyMessage ? 'my-message' : 'other-message'}">
+                        <strong>${message.sender_name}:</strong>
+                        <p>${message.message}</p>
+                        <small>${new Date(message.sent_at).toLocaleString()}</small>
+                    </div>
+                `;
+            }).join('');
+            
+            container.scrollTop = container.scrollHeight;
+        }
+
+        async function sendMessage() {
+            const message = document.getElementById('messageInput').value.trim();
+            const ownerId = getCurrentOwnerId();
+
+            if (!message || !currentCommunityId || !ownerId) {
+                showResponse('chatResponse', 'Please enter a message and select a community', false);
+                return;
+            }
+
+            try {
+                const response = await fetch(API_BASE + 'send_message.php', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        community_id: parseInt(currentCommunityId),
+                        sender_id: parseInt(ownerId),
+                        message: message,
+                        message_type: 'text'
+                    })
+                });
+
+                const data = await response.json();
+                
+                if (data.success) {
+                    document.getElementById('messageInput').value = '';
+                    loadMessages();
+                } else {
+                    showResponse('chatResponse', data.message, false);
+                }
+            } catch (error) {
+                showResponse('chatResponse', 'Error: ' + error.message, false);
+            }
+        }
+
+        async function loadCommunityMembers() {
+            const communityId = document.getElementById('selectedCommunity').value;
+
+            if (!communityId) {
+                showResponse('membersResponse', 'Please select a community', false);
+                return;
+            }
+
+            try {
+                const response = await fetch(`${API_BASE}get_community_members.php?community_id=${communityId}`);
+                const data = await response.json();
+
+                if (data.success) {
+                    displayMembers(data);
+                } else {
+                    showResponse('membersResponse', data.message, false);
+                }
+            } catch (error) {
+                showResponse('membersResponse', 'Error: ' + error.message, false);
+            }
+        }
+
+        function displayMembers(data) {
+            const container = document.getElementById('membersList');
+            const members = data.members;
+
+            if (members.length === 0) {
+                container.innerHTML = '<p>No members found</p>';
+                return;
+            }
+
+            let html = `
+                <h3>${data.community.name}</h3>
+                <p>${data.community.description || 'No description'}</p>
+                <p><strong>Total Members: ${data.total_members}</strong></p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Email</th>
+                            <th>Phone</th>
+                            <th>Role</th>
+                            <th>Properties</th>
+                            <th>Joined</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+
+            members.forEach(member => {
+                const roleClass = member.role === 'admin' ? 'role-admin' : 'role-member';
+                const joinedDate = new Date(member.joined_at).toLocaleDateString();
+                html += `
+                    <tr>
+                        <td><strong>${member.name}</strong></td>
+                        <td>${member.email || '-'}</td>
+                        <td>${member.phone || '-'}</td>
+                        <td><span class="member-role ${roleClass}">${member.role.toUpperCase()}</span></td>
+                        <td>${member.total_properties}</td>
+                        <td>${joinedDate}</td>
+                    </tr>
+                `;
+            });
+
+            html += `
+                    </tbody>
+                </table>
+            `;
+
+            container.innerHTML = html;
+            showResponse('membersResponse', `Loaded ${data.total_members} members`, true);
+        }
+
+        function handleKeyPress(event) {
+            if (event.key === 'Enter') {
+                sendMessage();
+            }
+        }
+
+        function startMessagePolling() {
+            if (messageInterval) {
+                clearInterval(messageInterval);
+            }
+            
+            messageInterval = setInterval(() => {
+                if (currentCommunityId) {
+                    loadMessages();
+                }
+            }, 3000);
+        }
+
+        window.onload = function() {
+            getAllCommunities();
+        };
+    </script>
+</body>
+</html>

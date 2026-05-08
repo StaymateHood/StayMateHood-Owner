@@ -1,0 +1,20 @@
+[14-Mar-2026 18:02:38 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.property_status' in 'on clause' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/owner_community/get_community_members.php:46
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/owner_community/get_community_members.php(46): mysqli->prepare('SELECT \n    ocm...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/owner_community/get_community_members.php on line 46
+[14-Mar-2026 19:07:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.property_status' in 'on clause' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/owner_community/get_community_members.php:46
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/owner_community/get_community_members.php(46): mysqli->prepare('SELECT \n    ocm...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/owner_community/get_community_members.php on line 46
+[14-Mar-2026 19:07:54 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.property_status' in 'on clause' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/owner_community/get_community_members.php:46
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/owner_community/get_community_members.php(46): mysqli->prepare('SELECT \n    ocm...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/owner_community/get_community_members.php on line 46
+[14-Mar-2026 19:10:29 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.property_status' in 'on clause' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/owner_community/get_community_members.php:46
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/owner_community/get_community_members.php(46): mysqli->prepare('SELECT \n    ocm...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/owner_community/get_community_members.php on line 46
