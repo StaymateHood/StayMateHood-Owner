@@ -1,0 +1,49 @@
+[18-Sep-2025 05:30:34 UTC] PHP Warning:  Undefined variable $con in /home/pmpframe/staymate.pmpframe.com/API/completelist.php on line 28
+[18-Sep-2025 05:30:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/pmpframe/staymate.pmpframe.com/API/completelist.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/completelist.php on line 28
+[18-Sep-2025 05:31:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleException() in /home/pmpframe/staymate.pmpframe.com/API/completelist.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/completelist.php on line 40
+[18-Sep-2025 05:31:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function handleException() in /home/pmpframe/staymate.pmpframe.com/API/completelist.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/completelist.php on line 22
+[18-Sep-2025 05:33:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::rowCount() in /home/pmpframe/staymate.pmpframe.com/API/completelist.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/completelist.php on line 11
+[18-Sep-2025 05:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::rowCount() in /home/pmpframe/staymate.pmpframe.com/API/completelist.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/completelist.php on line 11
+[18-Sep-2025 10:45:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::bindValue() in /home/pmpframe/staymate.pmpframe.com/API/completelist.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/completelist.php on line 53
+[30-Sep-2025 09:10:17 UTC] PHP Warning:  require(../firebase-notifications/vendor/autoload.php): Failed to open stream: No such file or directory in /home/pmpframe/staymate.pmpframe.com/API/notify.php on line 5
+[30-Sep-2025 09:10:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../firebase-notifications/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/pmpframe/staymate.pmpframe.com/API/notify.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/notify.php on line 5
+[30-Sep-2025 09:11:01 UTC] PHP Warning:  Undefined variable $response in /home/pmpframe/staymate.pmpframe.com/API/notify.php on line 107
+[30-Sep-2025 09:12:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function sendPushNotification(), 3 passed in /home/pmpframe/staymate.pmpframe.com/API/notify.php on line 112 and exactly 4 expected in /home/pmpframe/staymate.pmpframe.com/API/notify.php:61
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/notify.php(112): sendPushNotification('dHO8OWICRnyKWf2...', 'Test Notificati...', 'This is a test ...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/notify.php on line 61
+[30-Sep-2025 09:13:54 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in /home/pmpframe/staymate.pmpframe.com/API/notify.php:63
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/notify.php(63): array_map('strval', 'Hi')
+#1 /home/pmpframe/staymate.pmpframe.com/API/notify.php(112): sendPushNotification('dHO8OWICRnyKWf2...', 'Test Notificati...', 'This is a test ...', 'Hi')
+#2 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/notify.php on line 63
+[06-Mar-2026 10:09:27 UTC] PHP Fatal error:  Uncaught RuntimeException: Failed to listen on "tcp://0.0.0.0:8080": Address already in use (EADDRINUSE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/vendor/react/socket/src/TcpServer.php:188
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/vendor/react/socket/src/Server.php(81): React\Socket\TcpServer->__construct('tcp://0.0.0.0:8...', Object(React\EventLoop\StreamSelectLoop), Array)
+#1 /home/pmpframe/staymate.pmpframe.com/NEWAPI/vendor/cboden/ratchet/src/Ratchet/Server/IoServer.php(59): React\Socket\Server->__construct('0.0.0.0:8080', Object(React\EventLoop\StreamSelectLoop))
+#2 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chatapp/server.php(17): Ratchet\Server\IoServer::factory(Object(Ratchet\Http\HttpServer), 8080)
+#3 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/vendor/react/socket/src/TcpServer.php on line 188
