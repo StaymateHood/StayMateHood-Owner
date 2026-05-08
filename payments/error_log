@@ -1,0 +1,759 @@
+[05-Aug-2025 06:14:52 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 06:16:31 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 06:18:33 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 06:19:29 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 06:19:56 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 06:25:25 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 06:25:46 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 06:33:06 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 06:35:43 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 06:41:19 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 06:42:05 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 06:47:51 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 07:13:10 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 07:35:21 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 07:36:42 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 07:42:57 UTC] Database insert error: Table 'staymate.payments' doesn't exist
+[05-Aug-2025 10:09:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.bookings' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/payments/initiate_payment.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payments/initiate_payment.php(52): mysqli->prepare('SELECT p.*, b.*...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/initiate_payment.php on line 52
+[05-Aug-2025 10:12:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.bookings' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/payments/initiate_payment.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payments/initiate_payment.php(52): mysqli->prepare('SELECT p.*, b.*...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/initiate_payment.php on line 52
+[05-Aug-2025 10:14:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.bookings' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/payments/initiate_payment.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payments/initiate_payment.php(52): mysqli->prepare('SELECT p.*, b.*...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/initiate_payment.php on line 52
+[05-Aug-2025 10:16:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate.bookings' doesn't exist in /home/pmpframe/staymate.pmpframe.com/API/payments/initiate_payment.php:52
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payments/initiate_payment.php(52): mysqli->prepare('SELECT p.*, b.*...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/initiate_payment.php on line 52
+[05-Aug-2025 10:22:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_status' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:167
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php(167): mysqli->prepare('UPDATE BOOKINGS...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 167
+[05-Aug-2025 10:26:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_status' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:167
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php(167): mysqli->prepare('UPDATE BOOKINGS...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 167
+[05-Aug-2025 10:27:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_status' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:167
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php(167): mysqli->prepare('UPDATE BOOKINGS...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 167
+[05-Aug-2025 11:53:50 UTC] Cashfree API Response: {"cart_details":null,"cf_order_id":"2195608725","created_at":"2025-08-05T17:23:20+05:30","customer_details":{"customer_id":"159","customer_name":"Shiro PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":4000,"order_currency":"INR","order_expiry_time":"2025-09-04T17:23:20+05:30","order_id":"order_132_1754394789_2805","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 132","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_2kzPy2DqEmtw2R1JXeSdHmSlz60cp4P0uu9wziLHpONqppCEEy2xeic3wi6SlnHj-qkh03kqq7Udly0rKrshIUy2OE69xgBErVyylj02dRg8KPv3YhEu01AIczd_iQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+[05-Aug-2025 11:53:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_response' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:170
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php(170): mysqli->prepare('UPDATE PAYMENTS...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 170
+[05-Aug-2025 11:56:32 UTC] Cashfree API Response: {"cart_details":null,"cf_order_id":"2195608802","created_at":"2025-08-05T17:26:08+05:30","customer_details":{"customer_id":"159","customer_name":"Shiro PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":4000,"order_currency":"INR","order_expiry_time":"2025-09-04T17:26:08+05:30","order_id":"order_132_1754394967_1852","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 132","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_JwVFLenBAg4zibn-MiM5ehCrVC_iK-aVpNJqKa1KZc01-luVTilbJyyEgdbaIZbdtTktWt9vC3YDxzeagH0eoiBYHC-f-sTvUH4G8Ipd8M1w2c-jJicDipXeDhyQkQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+[05-Aug-2025 11:56:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_response' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:170
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php(170): mysqli->prepare('UPDATE PAYMENTS...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 170
+[05-Aug-2025 12:13:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_response' in 'field list' in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:164
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php(164): mysqli->prepare('UPDATE PAYMENTS...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 164
+[05-Aug-2025 12:56:35 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195612383","created_at":"2025-08-05T18:26:09+05:30","customer_details":{"customer_id":"159","customer_name":"Shiro PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":150.00,"order_currency":"INR","order_expiry_time":"2025-09-04T18:26:09+05:30","order_id":"order_175_1754398559_2993","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 175","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_h7FO0i0uN-VOBcu1kDYEbCr8UYKaTwEvlJGt4TV_eqCcJCSfYC0u4ogdJTaRE0oPK92muPbEbOhxjfYX0MjPhpisrrllEIg1NdtFeZBy1iZVCnGBtf5xoou2GE07Nwpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[05-Aug-2025 12:56:35 UTC] Final payment method to store: NULL
+[06-Aug-2025 05:37:46 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195630781","created_at":"2025-08-06T11:06:53+05:30","customer_details":{"customer_id":"159","customer_name":"Shiro PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":1500.00,"order_currency":"INR","order_expiry_time":"2025-09-05T11:06:53+05:30","order_id":"order_176_1754458613_3377","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 176","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_FdD6y-N4XZbgy_A4PIryzD2vij3dtf0WPROs2Y_wFHCC24BVCqKacuZmsdnjNGpUpuNopvbuV77XjQU0e8PmOy452pHtyg7mDbwndjBkAexcDsR5YEwfO1ZlW7Apbwpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[06-Aug-2025 05:37:46 UTC] Final payment method to store: NULL
+[07-Aug-2025 07:17:06 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195669714","created_at":"2025-08-07T12:46:42+05:30","customer_details":{"customer_id":"159","customer_name":"Krishna PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":2000.00,"order_currency":"INR","order_expiry_time":"2025-09-06T12:46:42+05:30","order_id":"order_178_1754551001_6471","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 178","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_uxbexzB-jsUQ6apo2b9z8hSkkawzNXuAsm9cYZsgwTe0683XjCgBLhz2nteSXMINOEPdiHwIdQDAIt1xMJj-JzK0KQlcjXxSM55UwbOnASkZkG-BZNQ9ZiaWt-R_Egpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[07-Aug-2025 07:17:06 UTC] Final payment method to store: NULL
+[08-Aug-2025 13:26:22 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195710270","created_at":"2025-08-08T18:55:47+05:30","customer_details":{"customer_id":"235","customer_name":"Sandy pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":2200.00,"order_currency":"INR","order_expiry_time":"2025-09-07T18:55:47+05:30","order_id":"order_188_1754659546_5214","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 188","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_GigN4kzItMHkqVrsgmQlvGDkq_-sZCQjkB-ZzxQV5Bk64Iv-B2wrK9Ya711tuzMbhG8ebzkDUszZN6_UOEXMd-MGbbXyMItE0O-SYcsObEM6aiANF-fHT1QIP24tCQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[08-Aug-2025 13:26:22 UTC] Final payment method to store: NULL
+[11-Aug-2025 11:47:42 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195767272","created_at":"2025-08-11T17:17:15+05:30","customer_details":{"customer_id":"247","customer_name":"Goodwill PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":1000.00,"order_currency":"INR","order_expiry_time":"2025-09-10T17:17:15+05:30","order_id":"order_190_1754912829_3394","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 190","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_G0Mk4A9ce-hMjR62ss1R5-Z9qFX9iU2_lswegI3gwiwv86SywoL6hEa3kKBXUoAdI82j-YDkZ2Fcnc2HGaquPOw2LtdciBpzzf_FcPZLywTMhblYfdiOO6W-9kA3twpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[11-Aug-2025 11:47:42 UTC] Final payment method to store: NULL
+[12-Aug-2025 10:43:19 UTC] Database insert error: Cannot add or update a child row: a foreign key constraint fails (`staymate`.`PAYMENTS`, CONSTRAINT `PAYMENTS_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `USERS` (`user_id`))
+[12-Aug-2025 10:44:08 UTC] Database insert error: Cannot add or update a child row: a foreign key constraint fails (`staymate`.`PAYMENTS`, CONSTRAINT `PAYMENTS_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `USERS` (`user_id`))
+[12-Aug-2025 12:55:49 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195805180","created_at":"2025-08-12T18:25:13+05:30","customer_details":{"customer_id":"247","customer_name":"Sandy pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":1200.00,"order_currency":"INR","order_expiry_time":"2025-09-11T18:25:13+05:30","order_id":"order_194_1755003312_6580","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 194","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session__G9Ixgfx5uZ3BNAAG48t_0ZUqDNXr4ykecS8-oR5kfMEDozYPh3H06PyyoeZiD4_XErqpKpAf35vf_Cney0WhM12IaLGEejye0OJNcHnCWvigaYBohVvcFidBcrajQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[12-Aug-2025 12:55:49 UTC] Final payment method to store: NULL
+[18-Aug-2025 08:02:40 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195937297","created_at":"2025-08-18T13:32:15+05:30","customer_details":{"customer_id":"247","customer_name":"Test PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":2000.00,"order_currency":"INR","order_expiry_time":"2025-09-17T13:32:15+05:30","order_id":"order_196_1755504134_7318","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 196","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_KzP3HYhNdLgYGvanixW-a6l_iMk3263HraBYdbHwQ3_V7qV9nx0aK126k_giMRPwZLyTT22Cfvsk1IaHDprtL7NHPnHvq92Ulp5bExLA_05SocPfLThQ46BQ4K_j6gpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[18-Aug-2025 08:02:40 UTC] Final payment method to store: NULL
+[18-Aug-2025 08:36:48 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2195938049","created_at":"2025-08-18T14:06:13+05:30","customer_details":{"customer_id":"251","customer_name":"Test PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":58000.00,"order_currency":"INR","order_expiry_time":"2025-09-17T14:06:13+05:30","order_id":"order_197_1755506173_7724","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 197","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_6YNioJV0crKgsaoqLdYTYQ8ldeCT-q3fGuLQfJMR5Ih38nHrt9XOKvyOAoZnztzB6O_O4uEzJXAwBhScsqbHScDCTgC1zDWyhzRYDxVyK1Mf9VFImRozAN7Yjt4aPwpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[18-Aug-2025 08:36:48 UTC] Final payment method to store: NULL
+[25-Aug-2025 13:16:57 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2196220414","created_at":"2025-08-25T18:46:28+05:30","customer_details":{"customer_id":"6","customer_name":"Sandy s pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":1400.00,"order_currency":"INR","order_expiry_time":"2025-09-24T18:46:28+05:30","order_id":"order_1_1756127787_2429","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 1","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_545czWhEE8s4yLo6jFKr8WUtzHE0tBOU-ysVdkrTjfrRf1CILNT57dE7h1fqw4MwtAI5l8CRQmc_wG6a6EkF2-HcqtY6tXv1QzvSAYoscR75Kj_2qvBBIShz3b0Otgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[25-Aug-2025 13:16:57 UTC] Final payment method to store: NULL
+[25-Aug-2025 14:33:05 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2196222816","created_at":"2025-08-25T20:02:20+05:30","customer_details":{"customer_id":"7","customer_name":"Sandy s pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":1400.00,"order_currency":"INR","order_expiry_time":"2025-09-24T20:02:20+05:30","order_id":"order_5_1756132339_1356","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 5","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_y0ZqXDopxNILIdOOY2d_r4jwVeajT2WYyC1YUAH_mKoOYTnng7PjSjvOW9rJtaKnnB66xj3kjwPLzIMpz8k6ohfot7Vg40pQwooT_jh4ohDpzYdgp_XZcwFh0MTqsQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[25-Aug-2025 14:33:05 UTC] Final payment method to store: NULL
+[25-Aug-2025 14:44:29 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2196222966","created_at":"2025-08-25T20:13:52+05:30","customer_details":{"customer_id":"8","customer_name":"Sandy s pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":2500.00,"order_currency":"INR","order_expiry_time":"2025-09-24T20:13:52+05:30","order_id":"order_6_1756133032_1854","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 6","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_CjymWDSzQ-sMHLszPaM_Haz2RR_1rNp0YABFAPz9KuDsStNbKuak38QXL_DzAikd5TGIiPcd6d8KieFpyieki8-fec9vCrR_yOSaTZsJ9ScDbKYxH5Eq2j3tOmL3UQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[25-Aug-2025 14:44:29 UTC] Final payment method to store: NULL
+[25-Aug-2025 15:32:59 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2196223373","created_at":"2025-08-25T21:02:18+05:30","customer_details":{"customer_id":"10","customer_name":"Sandy s pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":96800.00,"order_currency":"INR","order_expiry_time":"2025-09-24T21:02:18+05:30","order_id":"order_7_1756135937_2936","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 7","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_tXNwMyVtnr9NtvJEvZJXMyfABDohZXohdmNw-CVf2MbN-H9Nv1q0bZT3ivE1rDOsrQKSdT-WvljLI5q-zL2yj38wcacEa_Q2eqtATbxk93scTvHedZmAaoGuyaQA8Qpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[25-Aug-2025 15:32:59 UTC] Final payment method to store: NULL
+[25-Aug-2025 15:33:52 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2196223379","created_at":"2025-08-25T21:03:10+05:30","customer_details":{"customer_id":"10","customer_name":"Sandy s pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":96800.00,"order_currency":"INR","order_expiry_time":"2025-09-24T21:03:10+05:30","order_id":"order_7_1756135989_4669","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 7","order_splits":[],"order_status":"ACTIVE","order_tags":null,"payment_session_id":"session_6OeZRB8MvUQzIDkSV5Di2pDeGrJRO8uJE0JEB4fmdnCCyW2-n_AbrP8yF6iF8xow8MihQH2TTlY0KxH8bfazEKu17KY2_Q3mpGYL2NOKc1WdrXUHIStEq3wwVR0N9gpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[28-Aug-2025 09:18:57 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2196332293","created_at":"2025-08-28T14:48:23+05:30","customer_details":{"customer_id":"3","customer_name":"Subash PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":1000.00,"order_currency":"INR","order_expiry_time":"2025-09-27T14:48:23+05:30","order_id":"order_9_1756372702_9313","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 9","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_Hu3KV69KRBvaInnsQ_6SZAM1gmncP8XUhjvPGgSVOMiy6ULXQno5oc_AQty72MoUMaj5d6PAdv-CqIDPZkt9yoqHnkS5n-8C0mratTuBoLkWRYd1qb3Mhk2zm15Ngwpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[28-Aug-2025 09:18:57 UTC] Final payment method to store: NULL
+[01-Sep-2025 11:34:59 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2196461450","created_at":"2025-09-01T17:04:33+05:30","customer_details":{"customer_id":"6","customer_name":"Sandy s pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":4000.00,"order_currency":"INR","order_expiry_time":"2025-10-01T17:04:33+05:30","order_id":"order_10_1756726473_3878","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 10","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_VpVkzm-vGZI-lJfjKQLhXiSrBT-IMZn1CcLCmY3fx5tP7dVaOBCie6WjBrNFOAD156zZzWXs6khShS0LYukZgTE--nMEJpy4wDTK1IcojpdoToC5Cad47izapSeHawpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[01-Sep-2025 11:34:59 UTC] Final payment method to store: NULL
+[16-Sep-2025 11:01:25 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197220952","created_at":"2025-09-16T16:30:40+05:30","customer_details":{"customer_id":"43","customer_name":"Sandy s pg test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":700.00,"order_currency":"INR","order_expiry_time":"2025-10-16T16:30:40+05:30","order_id":"order_19_1758020439_1469","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 19","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_xBPc8_8O806RYk_k5aLZu5kUuQuD1HozPRwHfSMF71Q8t57eJwLKiVxWaRZA-ikvw18Oh7KF_EvkOItLAa5JVuCIxYQMXc8szwgwa0f-sXNcVVhbT_rx9melvNf3ewpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[16-Sep-2025 11:01:25 UTC] Final payment method to store: NULL
+[18-Sep-2025 07:12:07 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197304367","created_at":"2025-09-18T12:41:41+05:30","customer_details":{"customer_id":"43","customer_name":"Sandy s pg test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":3700.00,"order_currency":"INR","order_expiry_time":"2025-10-18T12:41:41+05:30","order_id":"order_19_1758179501_1090","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 19","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_jhC4_M0gBEb88ZpeI-jAm1r65_GzsU_gUdZ6lIGl9Q8PbIcrftCDK4Xf4tfWLdA_X2W2gl0wyuLBZquQ89SxktW7I8G3D1IZmYPeply6CLmkRURZzy5JfdS9ne1rMQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[18-Sep-2025 07:12:07 UTC] Final payment method to store: NULL
+[20-Sep-2025 12:42:12 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197385005","created_at":"2025-09-20T18:11:35+05:30","customer_details":{"customer_id":"23","customer_name":"Shubh PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":1500.00,"order_currency":"INR","order_expiry_time":"2025-10-20T18:11:35+05:30","order_id":"order_25_1758372095_8363","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 25","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_0iQ7tYJzGoIOLfDQaFQP5BU5Q9ca3wVk668Z6wB0vMoW0PBL0w662xEE5NA-ua_5jfYmNQd9vNkVQhCKNIQKUqg9iI3FWuTHbz3CfED8uxEb-dr_8adKXjxQniJpVQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[20-Sep-2025 12:42:12 UTC] Final payment method to store: NULL
+[20-Sep-2025 14:01:58 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197385811","created_at":"2025-09-20T19:31:34+05:30","customer_details":{"customer_id":"43","customer_name":"Veramasa test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":750.00,"order_currency":"INR","order_expiry_time":"2025-10-20T19:31:34+05:30","order_id":"order_26_1758376893_1167","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 26","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_viZ2DbYk--VRYHVqQ0AFmovfc-IlHf7D7VEvT0NK19k1SPDpfcF5vkRl9rizfrMA3b8yqe2cFuRJzVm28i-6-0_qRWRxlBPUpUGSGzlSJSnfm1jbyT2ws2M05F-d1gpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[20-Sep-2025 14:01:58 UTC] Final payment method to store: NULL
+[23-Sep-2025 09:48:20 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197494709","created_at":"2025-09-23T15:17:55+05:30","customer_details":{"customer_id":"43","customer_name":"Veramasa test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":500.00,"order_currency":"INR","order_expiry_time":"2025-10-23T15:17:55+05:30","order_id":"order_30_1758620869_4028","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 30","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_AFcF4Os34X0_Gb3wp2Ga02fa28MA5aODYntUgj7cuq_bEqw8Ubo4xxc-rZgXdmeWx6GCAo2_IVTLCjwzCAKemtGIhXbto2TDQ_gLFyh41wymtAFw0fkCOktcpF4S8gpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[23-Sep-2025 09:48:20 UTC] Final payment method to store: NULL
+[23-Sep-2025 17:17:49 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197505815","created_at":"2025-09-23T22:47:15+05:30","customer_details":{"customer_id":"6","customer_name":"Sandy s pg test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":800.00,"order_currency":"INR","order_expiry_time":"2025-10-23T22:47:15+05:30","order_id":"order_31_1758647834_5310","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 31","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_xjeQv4FAYlrABizjp-DNLhj0iALnqAgKbN5mp4THJUDuHFCTwottC2UdFzMHj8Zhutj3fjy6lB8Z2-vrYA6Uu0Oa6LwLPGGiNweT0LjMnfWddFY-7NJlQlGdMwHshgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[23-Sep-2025 17:17:49 UTC] Final payment method to store: NULL
+[23-Sep-2025 17:25:46 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197506055","created_at":"2025-09-23T22:55:17+05:30","customer_details":{"customer_id":"6","customer_name":"Sandy s pg test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":1600.00,"order_currency":"INR","order_expiry_time":"2025-10-23T22:55:17+05:30","order_id":"order_32_1758648316_2185","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 32","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_MzOMKOmESZ0K4FYMLhH6FScPMJdBX5NcfR47oJFzLa8Qr3ZALxNu9u6uBwJTUwsNBUmKczX3VMNFYLXuYF99HAiwxxazbDylWm2KNK-sLqEDpWwyRhTmzMcC6npBSwpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[23-Sep-2025 17:25:46 UTC] Final payment method to store: NULL
+[26-Sep-2025 07:09:24 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197627117","created_at":"2025-09-26T12:38:59+05:30","customer_details":{"customer_id":"43","customer_name":"Veramasa test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":500.00,"order_currency":"INR","order_expiry_time":"2025-10-26T12:38:59+05:30","order_id":"order_34_1758870528_5972","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 34","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_7lrF-eCeq8GMsAwwaxIloYxYa-4fssXyt40XDH-_CKu0d6QtoAzdeWpltXL8rYSEFLZgxwx-VdaWTUyhwmFRPjcV1DOlQ0PiPR96ZT8A51fZd0SI6mW3XzlT-Kuu8wpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[26-Sep-2025 07:09:24 UTC] Final payment method to store: NULL
+[27-Sep-2025 05:54:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'u.id' in 'on clause' in /home/pmpframe/staymate.pmpframe.com/API/payments/payment_list.php:62
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payments/payment_list.php(62): mysqli->prepare('SELECT \n       ...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/payment_list.php on line 62
+[27-Sep-2025 11:12:51 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197668147","created_at":"2025-09-27T16:42:04+05:30","customer_details":{"customer_id":"23","customer_name":"Sharma house","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":200.00,"order_currency":"INR","order_expiry_time":"2025-10-27T16:42:04+05:30","order_id":"order_38_1758971513_8461","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 38","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_Hxi6XGf0wwofNz5_KWYnQz2FTGrJpx49NVdWbwmteUvZ-CCgotcJigYGdmpwE7qfVmjLN3zUfhOsmuzb5-oi6AUPMUQ-3FFhvBdvBsAcn9otzWAbBlnXpVBlUnERdwpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[27-Sep-2025 11:12:51 UTC] Final payment method to store: NULL
+[27-Sep-2025 14:12:06 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197669678","created_at":"2025-09-27T19:41:41+05:30","customer_details":{"customer_id":"43","customer_name":"Sandy s pg test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":800.00,"order_currency":"INR","order_expiry_time":"2025-10-27T19:41:41+05:30","order_id":"order_33_1758982301_1309","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 33","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_p13lSS3KInO09qwoEcZBJF40buF9bIE_dlLj8JMdf41FxXySzUDJFLK5kKV45Pno6dUry1yMtuwNLoxw87eQeb8cQqrmjWb_GMoUCCJeRzlfn-RCzPrP64FNh6eDigpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[27-Sep-2025 14:12:06 UTC] Final payment method to store: NULL
+[27-Sep-2025 14:14:58 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197669725","created_at":"2025-09-27T19:44:35+05:30","customer_details":{"customer_id":"43","customer_name":"Veramasa test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":250.00,"order_currency":"INR","order_expiry_time":"2025-10-27T19:44:35+05:30","order_id":"order_44_1758982474_3734","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 44","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_b1mEjcCTAixra9qSppyw6UqDKDk5o9gv5AQYf6Vm-V9wYM8vKkZeEHXDMkz2sPYRPMoy_ZgEk9eJxru0AkuDnLF0xNKH-1rt0A66V_3zq4GlSbYKUSQO9jLML3K_AQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[27-Sep-2025 14:14:58 UTC] Final payment method to store: NULL
+[29-Sep-2025 07:26:49 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197716422","created_at":"2025-09-29T12:56:25+05:30","customer_details":{"customer_id":"55","customer_name":"Cardism","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":450.00,"order_currency":"INR","order_expiry_time":"2025-10-29T12:56:25+05:30","order_id":"order_46_1759130774_7841","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 46","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_1UoGq8IOLvJjDyITjgGqDleYXMVuYLLgYIw2fVmO1LmPAy5qn-eomkonhhuOsjRwoPPE7gWDPhgD0sa3NLwUBDFEB94WvJ0s5K217y4dXkIbySxGzckY01xI2SD2Pgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[29-Sep-2025 07:26:49 UTC] Final payment method to store: NULL
+[30-Sep-2025 11:08:49 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197782346","created_at":"2025-09-30T16:38:18+05:30","customer_details":{"customer_id":"55","customer_name":"Cardism","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":450.00,"order_currency":"INR","order_expiry_time":"2025-10-30T16:38:18+05:30","order_id":"order_47_1759230497_3004","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 47","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_DyNQGNRoCMNbw1LNYqmXjWbuFMYXwT8hrOiZEE3ZDghTjwG0NrFROe1gio_hjAjmniAK4KTJdDL0LlT9xyM54uBg-tHtnmGK5tMSNIp5NvKbdrD_pHfpiGAp_CClFgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[30-Sep-2025 11:08:49 UTC] Final payment method to store: NULL
+[06-Oct-2025 06:52:44 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197973623","created_at":"2025-10-06T12:22:19+05:30","customer_details":{"customer_id":"57","customer_name":"Sandy s pg test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":800.00,"order_currency":"INR","order_expiry_time":"2025-11-05T12:22:19+05:30","order_id":"order_48_1759733538_9338","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 48","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_Ml_iMxC8GDZOHXcZ2G-HKyzdpQoknebAlqiif4IBaHIc9Ojy0wXVfOJ2bgUYY4zJ_4EgBBoSxgDra35CfVva4bbdd5loxKNccRxCgl1sOtYeC3WFP-n5EKNvH1GPdgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[06-Oct-2025 06:52:44 UTC] Final payment method to store: NULL
+[06-Oct-2025 07:34:09 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197974381","created_at":"2025-10-06T13:03:44+05:30","customer_details":{"customer_id":"57","customer_name":"Sandy s pg test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":800.00,"order_currency":"INR","order_expiry_time":"2025-11-05T13:03:44+05:30","order_id":"order_48_1759736024_4746","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 48","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_CRYiY4sz0WisYGwEWqJa1U-JzjPEf6z2mWuui8joJ-gTMFRV-xOPtUoDPSkKl3ngzQFuEDzb-WJQKkmK5U2BBw-EG_Ro3hoO94uH-41NBZMF_fh5V1NMxKv-B0biPgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[06-Oct-2025 07:34:09 UTC] Final payment method to store: NULL
+[06-Oct-2025 07:35:40 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197974453","created_at":"2025-10-06T13:05:16+05:30","customer_details":{"customer_id":"57","customer_name":"Veramasa test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":5000.00,"order_currency":"INR","order_expiry_time":"2025-11-05T13:05:16+05:30","order_id":"order_63_1759736116_1650","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 63","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_W-K3IGNm6S8mmki1Rxyu2wenU_GeXHdkVsTJT2IhjQVpK-ZD_7lfrkBFtmE1B_In9TT4RHytlCBdJg7SkZjsauIi0UcCdi5iRtFBg-mkWO1OvSuwCvU4EWBlpJuYtQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[06-Oct-2025 07:35:40 UTC] Final payment method to store: NULL
+[06-Oct-2025 07:40:04 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2197974637","created_at":"2025-10-06T13:09:35+05:30","customer_details":{"customer_id":"60","customer_name":"Veramasa test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":2500.00,"order_currency":"INR","order_expiry_time":"2025-11-05T13:09:35+05:30","order_id":"order_64_1759736374_8134","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 64","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_2Go788eoBzO_wb8n_YBxh6rZTlq6xQxLdjIE6A6QacqBZDYEjhGH8hiSNVft4CziX9GlmDvC_HsY_IoCbnIb_Xbff68I9luVBrI8Dq5N665n_e5Adld6pit8C4wDagpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[06-Oct-2025 07:40:04 UTC] Final payment method to store: NULL
+[08-Oct-2025 10:52:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':limit OFFSET :offset' at line 17 in /home/pmpframe/staymate.pmpframe.com/API/payments/payment_list.php:33
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payments/payment_list.php(33): mysqli->prepare('SELECT \n       ...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/payment_list.php on line 33
+[08-Oct-2025 10:52:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= ? OFFSET = ?' at line 17 in /home/pmpframe/staymate.pmpframe.com/API/payments/payment_list.php:33
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payments/payment_list.php(33): mysqli->prepare('SELECT \n       ...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/payment_list.php on line 33
+[08-Oct-2025 11:22:28 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198067063","created_at":"2025-10-08T16:51:47+05:30","customer_details":{"customer_id":"45","customer_name":"Hari om PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":3000.00,"order_currency":"INR","order_expiry_time":"2025-11-07T16:51:47+05:30","order_id":"order_74_1759922506_3072","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 74","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_qrOXD3HRsNUAu3fVU1LossWbIbO9vRNwFQJjyc5VZrvb5Uq6bt5mk88mjWRLbD1aGVOkxN3HRNYe13zTlqyXTx6XBLOn9mc5a2XDl2VHy0yhjZ5Z9mfbtsjp2_EzSgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[08-Oct-2025 11:22:28 UTC] Final payment method to store: NULL
+[08-Oct-2025 11:37:33 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198067453","created_at":"2025-10-08T17:07:02+05:30","customer_details":{"customer_id":"45","customer_name":"Hari om PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":4000.00,"order_currency":"INR","order_expiry_time":"2025-11-07T17:07:02+05:30","order_id":"order_75_1759923422_8443","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 75","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_LOjxTtae8AGfsqwnnxc7DABSHrvkhNMl_jqfark8xhBQDp2kdXI0q3oTDLOpqfW96Poac15ipWCQq0_m66fbZG6YCZSRaHfV95iwIP1HiX4XbuXrM6P6OyhwrjXk-Qpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[08-Oct-2025 11:37:33 UTC] Final payment method to store: NULL
+[08-Oct-2025 14:54:34 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198073009","created_at":"2025-10-08T20:24:10+05:30","customer_details":{"customer_id":"57","customer_name":"Veramasa test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":2500.00,"order_currency":"INR","order_expiry_time":"2025-11-07T20:24:10+05:30","order_id":"order_76_1759935249_1975","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 76","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_Q9p6Q9TNPmCnVeKK-1MTfj5vezbLOPWr-fM8wHibB-LOMkVVMXK-xdhUC_V6dyMrw9i1VaQn7dFchmhZ9-SA0kEM3YRgm0gDtD7x128kW9vA1SWHWsO_N0b60Tphowpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[08-Oct-2025 14:54:34 UTC] Final payment method to store: NULL
+[09-Oct-2025 06:09:24 UTC] PHP Warning:  Undefined array key "transaction_id" in /home/pmpframe/staymate.pmpframe.com/API/payments/cash_payment.php on line 12
+[09-Oct-2025 08:26:22 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198103513","created_at":"2025-10-09T13:55:57+05:30","customer_details":{"customer_id":"78","customer_name":"Sandy pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":700.00,"order_currency":"INR","order_expiry_time":"2025-11-08T13:55:57+05:30","order_id":"order_78_1759998357_5964","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 78","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_1rYmuScTx05-G_q3JfIVHCxqw5HXdDKA5WOt4GBJYna_KFVj40q8EmUGvIbg5c-d0Cs7eMbGO6QBPuW1xAMm7PLr9toigsRUCgKEBTcJe_AuDk4-7SnNRb8isdBjjgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[09-Oct-2025 08:26:22 UTC] Final payment method to store: NULL
+[09-Oct-2025 08:44:16 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198103790","created_at":"2025-10-09T14:13:51+05:30","customer_details":{"customer_id":"57","customer_name":"Vermasa","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":800.00,"order_currency":"INR","order_expiry_time":"2025-11-08T14:13:51+05:30","order_id":"order_79_1759999431_7543","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 79","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_1FZTGFovGSY3bimf2YbEnkWKe9en-ek-1mbenIeh5ogdaYnA8vusi-gR3Sebt66ibpYYVbTD_fQl8tyEbZtqU-4rg9jV33UN7iUoaWOcT3aR0cD9jM1pYEcHGLKVogpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[09-Oct-2025 08:44:16 UTC] Final payment method to store: NULL
+[09-Oct-2025 16:54:17 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198111162","created_at":"2025-10-09T22:23:49+05:30","customer_details":{"customer_id":"78","customer_name":"Vermasa","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":9000.00,"order_currency":"INR","order_expiry_time":"2025-11-08T22:23:49+05:30","order_id":"order_80_1760028829_9636","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 80","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_56d1p5LsbqpUWYGKFhOB2J6KYw8480NjGTF988jNAcrpfx-jsevWqAj-VZKXmqsuuiBayVlnWCIXBq6cPtjNSJPnqFuvZ1qSP6zVs_scPMYKYKgaitxyGsKqdrY-xgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[09-Oct-2025 16:54:17 UTC] Final payment method to store: NULL
+[09-Oct-2025 16:55:57 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198111166","created_at":"2025-10-09T22:25:33+05:30","customer_details":{"customer_id":"78","customer_name":"Sandy pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":12000.00,"order_currency":"INR","order_expiry_time":"2025-11-08T22:25:33+05:30","order_id":"order_81_1760028932_8748","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 81","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_gek7GCng71c6lyiQ8YD7LPa4ESM9datRFe__iD9IxOe8QzGNOzXBFa947VmYdpl-xboKb6d_AkkZz5WxzPj75OhQUpGy2wVW1jh3Ucjfk2Htm4ljDhf2_ngAVZLkjgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[09-Oct-2025 16:55:57 UTC] Final payment method to store: NULL
+[15-Oct-2025 16:36:04 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198339053","created_at":"2025-10-15T22:05:21+05:30","customer_details":{"customer_id":"78","customer_name":"Sandy pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":12000.00,"order_currency":"INR","order_expiry_time":"2025-11-14T22:05:21+05:30","order_id":"order_82_1760546120_9133","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 82","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_HbvBFxnDFQ5PypE3ALiD617rFpUBYytBudfZVpB5GU4VtzcfrLHGTrb-B0uDhoCEYZV4s71-gHUk5gmUseX2vyP5Ihv_gY3MSifj9HJSorIY5wB2nk2c3tsXr5VmCgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[15-Oct-2025 16:36:04 UTC] Final payment method to store: NULL
+[23-Oct-2025 11:14:39 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198630681","created_at":"2025-10-23T16:44:05+05:30","customer_details":{"customer_id":"57","customer_name":"Veramasa test","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":1450.00,"order_currency":"INR","order_expiry_time":"2025-11-22T16:44:05+05:30","order_id":"order_84_1761218044_4170","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 84","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_i4CeQmkpI6iWIWS7auZwM3PK5-fX5yOKhwjXubq-ciwlO-RxY2CFoW3X_IJ4CK3Bf21NziBi9MYUw_CS4tIXq2MWpL58C06iEna9e5j_xd97pxlL-TZbfDfNpd2tZwpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[23-Oct-2025 11:14:39 UTC] Final payment method to store: NULL
+[25-Oct-2025 04:17:52 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198700332","created_at":"2025-10-25T09:47:25+05:30","customer_details":{"customer_id":"6","customer_name":"Sandy pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":11000.00,"order_currency":"INR","order_expiry_time":"2025-11-24T09:47:25+05:30","order_id":"order_90_1761365844_3605","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 90","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_SqvzP3q-3QhIICqujgx8gWeJKgBzqBlJQzabSg191TQpYqOYGjU8D0zkg71QswW5OUmRLKUuSGQIoPOk5jCg1NecuIMkj9OYPJX1iiHWJ7nwDx-tf8Q6Rh-rS_LJgwpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[25-Oct-2025 04:17:52 UTC] Final payment method to store: NULL
+[28-Oct-2025 11:26:37 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198826341","created_at":"2025-10-28T16:45:13+05:30","customer_details":{"customer_id":"45","customer_name":"Shubh PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":1200.00,"order_currency":"INR","order_expiry_time":"2025-11-27T16:45:13+05:30","order_id":"order_94_1761650112_8760","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 94","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_5znT0q87YgvwPL7nHu5nEJzxSWEdou2QDqTjNEgKLdfKpBbwWTebcRVvkaOVWcBc4pCYZWp050RCfWiGQE5RAHgF-WoemTu8c6Aq56GMSgohEjPyvchIt8dG31NBwgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[28-Oct-2025 11:26:37 UTC] Final payment method to store: NULL
+[28-Oct-2025 12:28:37 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198829363","created_at":"2025-10-28T17:58:02+05:30","customer_details":{"customer_id":"45","customer_name":"Sharma house","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":3300.00,"order_currency":"INR","order_expiry_time":"2025-11-27T17:58:02+05:30","order_id":"order_95_1761654481_9606","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 95","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_-Ny6HTOsmNoRjDHf4NFYXQWQN-VxPzORIaVWOd-ZMfWMQxi_nsV7ADXjVZFuyIN-vdbS3hYWelyLAa2NZNjnu219ol0iPpJQD8VZunoplHGsyBDK7uDgrv3Xzy8VHgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[28-Oct-2025 12:28:37 UTC] Final payment method to store: NULL
+[28-Oct-2025 12:45:48 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198830017","created_at":"2025-10-28T18:15:32+05:30","customer_details":{"customer_id":"45","customer_name":"Sharma house","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":3300.00,"order_currency":"INR","order_expiry_time":"2025-11-27T18:15:32+05:30","order_id":"order_95_1761655531_4778","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 95","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session__B-vZkJ1q-XAOlKsqXPHnQx2pjRa8ZS-gyVJXsvNXVAOrq11kaET4ic_9PwI3hs8mHzzS32n6HHzLXe1EgE8mGXa8L0f90hsHS179uj-wgGFQmL3QvynAswUKPTI1gpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[28-Oct-2025 12:45:48 UTC] Final payment method to store: NULL
+[29-Oct-2025 06:01:38 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198866202","created_at":"2025-10-29T11:30:16+05:30","customer_details":{"customer_id":"86","customer_name":"Sandy pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":8000.00,"order_currency":"INR","order_expiry_time":"2025-11-28T11:30:16+05:30","order_id":"order_97_1761717616_6796","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 97","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_O71TA_nhuVAM1TEzkm9s0lEdQvBViosnigErsgvgqWqmQ8YYlB4KLivoAewzVW5XHu9UdgIvjAyZWummmAlZ5rl-4-sjYQRvyviSkibozoLLBf5A-DcOFs1K4wT0XApaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[29-Oct-2025 06:01:38 UTC] Final payment method to store: NULL
+[29-Oct-2025 06:53:05 UTC] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198868816","created_at":"2025-10-29T12:22:37+05:30","customer_details":{"customer_id":"86","customer_name":"Sandy pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":8000.00,"order_currency":"INR","order_expiry_time":"2025-11-28T12:22:37+05:30","order_id":"order_97_1761720756_3487","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 97","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_CWJtlUKif7ISLDPVVih-BRUz7amSICVyrjivji6ipZqnMEdVWZjBoRxtHhjEMdkRt22T7Pzj2WKwnxoTCuy0OR3HwLs4Ull6cOJFysiRYEX3tD68eoPJR_k3BnDC8wpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[29-Oct-2025 06:53:05 UTC] Final payment method to store: NULL
+[29-Oct-2025 19:31:07 Asia/Kolkata] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198894297","created_at":"2025-10-29T19:30:42+05:30","customer_details":{"customer_id":"6","customer_name":"Sandy pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":1200.00,"order_currency":"INR","order_expiry_time":"2025-11-28T19:30:42+05:30","order_id":"order_98_1761746442_6568","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 98","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_w1_S-jD9r5ZN4B2GQFY3TzRVWIUNNY-A5stR_okUr97ylen47GUXlOwF8-EFUk6OIkwVuxi--K16ryXG7SnrCphFZVP3iJxZwIqX6Dbz1cEg-MZIz0cHmkk2Tb-e9gpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[29-Oct-2025 19:31:07 Asia/Kolkata] Final payment method to store: NULL
+[30-Oct-2025 14:28:51 Asia/Kolkata] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198943816","created_at":"2025-10-30T14:28:25+05:30","customer_details":{"customer_id":"6","customer_name":"Sandy pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":400.00,"order_currency":"INR","order_expiry_time":"2025-11-29T14:28:25+05:30","order_id":"order_103_1761814705_8134","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 103","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_M-JI3ahcOV2suM5y7jcfLsbvRPDMAGKAh62sUQ4sGkMosQMfrE93K7rHN6tcyAhhhFDMBst3XEgicfpuOIXHFrm1n-6IFHAjbPXzUUgdYww18QBxlv1GstdVubu4Sgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[30-Oct-2025 14:28:51 Asia/Kolkata] Final payment method to store: NULL
+[30-Oct-2025 14:28:52 Asia/Kolkata] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2198943816","created_at":"2025-10-30T14:28:25+05:30","customer_details":{"customer_id":"6","customer_name":"Sandy pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":400.00,"order_currency":"INR","order_expiry_time":"2025-11-29T14:28:25+05:30","order_id":"order_103_1761814705_8134","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 103","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session__MDZn4GF8aVPDgtggu3lm3EILnFgL6iHPgB7keb8bkeV8ZfjiJFnOSdFGDoRCimDlj5R4Eb_otodf8BH33gt_FFDT-yjbvrsdT9m5QG0awCwsMkBI3KUJbBDqYRA3gpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[30-Oct-2025 14:28:52 Asia/Kolkata] Final payment method to store: NULL
+[04-Nov-2025 12:45:22 Asia/Kolkata] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2199151044","created_at":"2025-11-04T12:44:40+05:30","customer_details":{"customer_id":"91","customer_name":"Shree Maya Boys PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":8000.00,"order_currency":"INR","order_expiry_time":"2025-12-04T12:44:40+05:30","order_id":"order_109_1762240480_5768","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 109","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_5tq89MwrFL2AoIkjqW9ZLj4esRalAncuq7ZjJgVVoh-O03O_WEC9pcVqJvuQiQ5ZvDdk97TS-cd9CZck4koc3IGu6vZ9fkf-TIvJGsyAtzypkSgZckC_c0NpgWM9Ygpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[04-Nov-2025 12:45:22 Asia/Kolkata] Final payment method to store: NULL
+[04-Nov-2025 12:45:22 Asia/Kolkata] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2199151044","created_at":"2025-11-04T12:44:40+05:30","customer_details":{"customer_id":"91","customer_name":"Shree Maya Boys PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":8000.00,"order_currency":"INR","order_expiry_time":"2025-12-04T12:44:40+05:30","order_id":"order_109_1762240480_5768","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 109","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_naYh4BsKRg7L7PeFbJN3Oct0Ivchdtfr0c-yyhoKD6l1VTewjvuh29HLG2hwANSyjquLlJiFCgtn1lKe6Mx0N9cx5PWTtE2f5_ywmxmuDI-v0tf5TUX3nETX_Iig9gpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[04-Nov-2025 12:45:22 Asia/Kolkata] Final payment method to store: NULL
+[04-Nov-2025 12:45:22 Asia/Kolkata] PHP Warning:  Undefined variable $getResult in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 12:45:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 12:45:22 Asia/Kolkata] PHP Warning:  Undefined variable $getResult in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 12:45:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 13:18:05 Asia/Kolkata] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2199154474","created_at":"2025-11-04T13:17:00+05:30","customer_details":{"customer_id":"86","customer_name":"Sandy pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":11000.00,"order_currency":"INR","order_expiry_time":"2025-12-04T13:17:00+05:30","order_id":"order_91_1762242419_5218","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 91","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_J0TwMyfyt5tCFxsCeM3L6SV2zQfeJS_8UaUelpiEGFxinXx2Q86N7Yf0XQ_8QMsK8cSPAfnWPYY27H0fJ0vs0lCD018FRtD0BeXy_abIYqoz5tnmp_n3BfRgCN0iVQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[04-Nov-2025 13:18:05 Asia/Kolkata] Final payment method to store: NULL
+[04-Nov-2025 13:18:05 Asia/Kolkata] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2199154474","created_at":"2025-11-04T13:17:00+05:30","customer_details":{"customer_id":"86","customer_name":"Sandy pg","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":11000.00,"order_currency":"INR","order_expiry_time":"2025-12-04T13:17:00+05:30","order_id":"order_91_1762242419_5218","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 91","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_LpJwWEr8cxhcOuNRHaPBZZ2ExbsLCN7aIgPFeGj9WG5GzXk4hdSS0h4YA7-rFtYft_ljAuDxG8KHij-a1s3ScfBK3aucpZZIl7sUgCz8RkeQ3o1HL31mRMNTdi_ICQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[04-Nov-2025 13:18:05 Asia/Kolkata] Final payment method to store: NULL
+[04-Nov-2025 13:18:05 Asia/Kolkata] PHP Warning:  Undefined variable $getResult in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 13:18:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 13:18:05 Asia/Kolkata] PHP Warning:  Undefined variable $getResult in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 13:18:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 16:38:16 Asia/Kolkata] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2199163241","created_at":"2025-11-04T16:37:48+05:30","customer_details":{"customer_id":"91","customer_name":"Vermasa","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":10000.00,"order_currency":"INR","order_expiry_time":"2025-12-04T16:37:48+05:30","order_id":"order_110_1762254468_4160","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 110","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_Auy9FzpYDQhHncT3tLJR3QtNFS_56mI5xg9gkow4F2nbOzYtIQS52sVgB47noOipXdfogO7dzytDRu_igOF44zKC1SiR7uk7ZDwn7hJcEwqc101-NReMcBjzewLDYgpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[04-Nov-2025 16:38:16 Asia/Kolkata] Final payment method to store: NULL
+[04-Nov-2025 16:38:16 Asia/Kolkata] PHP Warning:  Undefined variable $getResult in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 16:38:16 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 18:30:47 Asia/Kolkata] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2199168796","created_at":"2025-11-04T18:30:22+05:30","customer_details":{"customer_id":"91","customer_name":"Shree Maya Boys PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":8000.00,"order_currency":"INR","order_expiry_time":"2025-12-04T18:30:22+05:30","order_id":"order_109_1762261221_1633","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 109","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_baGgA2H9Gm5i4cnHVhb5ut5uxP6NgG9kNfaA_3wT_xHaeYO_uU-SW4SVoC7T_3XOn3Qr-oxMd--Y_zt9Yh_DvIuJupn-UISuZ6mwhO0sFEwebHkzL5OC6qq-4rIKHQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[04-Nov-2025 18:30:47 Asia/Kolkata] Final payment method to store: NULL
+[04-Nov-2025 18:30:47 Asia/Kolkata] PHP Warning:  Undefined variable $getResult in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 18:30:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 18:39:27 Asia/Kolkata] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2199168946","created_at":"2025-11-04T18:39:03+05:30","customer_details":{"customer_id":"91","customer_name":"Shree Maya Boys PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":8000.00,"order_currency":"INR","order_expiry_time":"2025-12-04T18:39:03+05:30","order_id":"order_109_1762261742_7753","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 109","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_2E4-om7Lh-JnuJhIMnp2g3NS1-YRB0cc_7DfxpDKC8CiqYf3UCB2uJXnFU6i348ZyWtgmhOOn2QN4fME1RXNdFR-y0IKJiOZCk3bUQVtvweJ1uK3cxWAeb3YmCrwSwpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[04-Nov-2025 18:39:27 Asia/Kolkata] Final payment method to store: NULL
+[04-Nov-2025 18:39:27 Asia/Kolkata] PHP Warning:  Undefined variable $getResult in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 18:39:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 18:41:25 Asia/Kolkata] CASHFREE_RESPONSE: {"cart_details":null,"cf_order_id":"2199168971","created_at":"2025-11-04T18:41:01+05:30","customer_details":{"customer_id":"91","customer_name":"Shree Maya Boys PG","customer_email":"test@user.com","customer_phone":"1234567890","customer_uid":null},"entity":"order","order_amount":8000.00,"order_currency":"INR","order_expiry_time":"2025-12-04T18:41:01+05:30","order_id":"order_109_1762261860_5563","order_meta":{"notify_url":null,"payment_methods":null,"payment_methods_filters":null,"return_url":null},"order_note":"Payment for booking: 109","order_splits":[],"order_status":"PAID","order_tags":null,"payment_session_id":"session_t9NIlEEDMPCRSpVbSiyrHYCb6HEs6bWS7mvadrIun3GNyhIDussn1kfL3AiIc-SMBjUmgkgTuS3qIvgxDBd1_XaiSna8jjPKwHh5TcHD2twF2Wi7_jUCA2Y0jV9RWQpaymentpayment","products":{"one_click_checkout":{"enabled":false,"conditions":[]},"verify_pay":{"enabled":false,"conditions":[]}},"terminal_data":null}
+
+[04-Nov-2025 18:41:25 Asia/Kolkata] Final payment method to store: NULL
+[04-Nov-2025 18:41:25 Asia/Kolkata] PHP Warning:  Undefined variable $getResult in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[04-Nov-2025 18:41:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/payments/check_payment_status.php on line 165
+[14-Nov-2025 16:55:50 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'paid_date' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/payment_list.php:85
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/payment_list.php(85): mysqli->prepare('\n              ...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/payment_list.php on line 85
+[14-Nov-2025 16:55:58 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'paid_date' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/payment_list.php:85
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/payment_list.php(85): mysqli->prepare('\n              ...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/payment_list.php on line 85
+[14-Nov-2025 16:56:06 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'paid_date' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/payment_list.php:85
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/payment_list.php(85): mysqli->prepare('\n              ...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/payment_list.php on line 85
+[14-Nov-2025 16:56:08 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'paid_date' in 'field list' in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/payment_list.php:85
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/payment_list.php(85): mysqli->prepare('\n              ...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/payment_list.php on line 85
+[15-Nov-2025 10:59:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 11:26:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 11:34:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 12:02:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 12:23:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 12:29:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 13:13:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 13:19:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 13:25:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 13:39:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 14:26:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 14:33:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 14:39:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 14:44:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 15:06:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 15:23:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 15:36:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 15:38:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 15:38:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 15:43:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 15:44:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 15:46:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 16:08:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 16:27:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 16:27:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 16:33:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 18:19:49 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 28
+[15-Nov-2025 18:20:03 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 28
+[15-Nov-2025 18:24:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[15-Nov-2025 18:26:12 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 28
+[15-Nov-2025 18:27:29 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 28
+[15-Nov-2025 18:33:36 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 28
+[15-Nov-2025 18:34:59 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 28
+[15-Nov-2025 18:35:41 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 28
+[15-Nov-2025 18:52:29 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 28
+[15-Nov-2025 18:53:50 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 28
+[15-Nov-2025 18:56:10 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 28
+[15-Nov-2025 18:57:45 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 28
+[15-Nov-2025 19:00:12 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 19:00:26 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 19:01:00 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 22:27:27 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 22:35:16 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:06:11 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:06:15 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:06:24 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:08:38 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:10:31 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:11:55 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:14:03 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:14:06 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:14:19 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:14:55 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:16:13 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:24:38 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:26:01 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:30:32 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:30:35 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:30:41 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:30:49 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:31:27 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:34:24 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:34:29 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:34:54 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:35:15 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:35:27 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:35:33 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:36:03 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:36:06 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:36:16 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:36:18 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:36:18 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:36:20 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[15-Nov-2025 23:36:32 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[17-Nov-2025 10:53:09 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[17-Nov-2025 10:56:49 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[17-Nov-2025 10:59:14 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[17-Nov-2025 11:14:26 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[17-Nov-2025 11:15:14 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[17-Nov-2025 11:36:21 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[17-Nov-2025 11:37:38 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[17-Nov-2025 12:39:54 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, 0.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[17-Nov-2025 12:43:50 Asia/Kolkata] PHP Warning:  Undefined array key "total_amount" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 72
+[17-Nov-2025 12:43:50 Asia/Kolkata] PHP Warning:  Undefined array key "total_amount" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 73
+[17-Nov-2025 12:43:50 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, -2000.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[17-Nov-2025 12:44:17 Asia/Kolkata] PHP Warning:  Undefined array key "total_amount" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 72
+[17-Nov-2025 12:44:17 Asia/Kolkata] PHP Warning:  Undefined array key "total_amount" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 73
+[17-Nov-2025 12:44:17 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, -2000.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[17-Nov-2025 12:47:39 Asia/Kolkata] PHP Warning:  Undefined array key "total_amount" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 72
+[17-Nov-2025 12:47:39 Asia/Kolkata] PHP Warning:  Undefined array key "total_amount" in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 73
+[17-Nov-2025 12:47:39 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php:75
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php(75): mysqli_stmt->bind_param('dsi', 2000.0, -2000.0, 'Paid', 49)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/cash_payment.php on line 75
+[17-Nov-2025 13:02:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[17-Nov-2025 16:52:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(168): pushAndSaveNotification(Object(mysqli), 101, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[17-Nov-2025 17:13:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(178): pushAndSaveNotification(Object(mysqli), 101, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29
+[17-Nov-2025 17:24:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function sendPushNotification() in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php:29
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php(178): pushAndSaveNotification(Object(mysqli), 86, 'Other', '\xE2\x9C\x85 Rent Paymen...', 'You\xE2\x80\x99ve paid \xE2...', Array)
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/payments/checkPaymentWebhook.php on line 29

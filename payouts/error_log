@@ -1,0 +1,5 @@
+[16-Aug-2025 06:43:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "CF10730547D2G2030026KC73BDER2G" in /home/pmpframe/staymate.pmpframe.com/API/env.php:10
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/API/payouts/authenticate.php(3): include()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/API/env.php on line 10
