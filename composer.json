@@ -1,0 +1,18 @@
+{
+    "name": "veramasa/demo",
+    "autoload": {
+        "psr-4": {
+            "Veramasa\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "veramasa-manoj",
+            "email": "ymanoj.k@veramasa.com"
+        }
+    ],
+    "require": {
+        "razorpay/razorpay": "^2.9",
+        "firebase/php-jwt": "^6.11"
+    }
+}
