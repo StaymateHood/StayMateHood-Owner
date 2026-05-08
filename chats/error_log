@@ -1,0 +1,543 @@
+[08-Mar-2026 21:11:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php on line 10
+[08-Mar-2026 21:11:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php on line 10
+[08-Mar-2026 21:11:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php on line 10
+[08-Mar-2026 21:11:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php on line 10
+[08-Mar-2026 21:15:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php on line 10
+[08-Mar-2026 21:23:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php on line 13
+[08-Mar-2026 21:41:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 11
+[08-Mar-2026 21:46:00 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php:27
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php(27): mysqli->prepare('SELECT user_id ...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/start_chat.php on line 27
+[08-Mar-2026 22:16:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 11
+[08-Mar-2026 22:17:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 11
+[08-Mar-2026 22:17:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[08-Mar-2026 22:17:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[08-Mar-2026 22:17:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[09-Mar-2026 11:02:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 11
+[09-Mar-2026 11:02:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 11
+[09-Mar-2026 11:03:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 11
+[09-Mar-2026 11:04:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 11
+[09-Mar-2026 11:05:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 11
+[09-Mar-2026 11:05:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 11
+[09-Mar-2026 11:09:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 11
+[09-Mar-2026 11:12:17 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 11:14:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/mark_as_read.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/mark_as_read.php on line 12
+[09-Mar-2026 11:16:35 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 11:16:39 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 11:32:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[09-Mar-2026 11:37:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[09-Mar-2026 11:38:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[09-Mar-2026 11:39:29 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`community_groups`, CONSTRAINT `community_groups_ibfk_1` FOREIGN KEY (`created_by`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php:22
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php on line 22
+[09-Mar-2026 11:40:40 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`community_groups`, CONSTRAINT `community_groups_ibfk_1` FOREIGN KEY (`created_by`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php:22
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php on line 22
+[09-Mar-2026 11:40:42 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`community_members`, CONSTRAINT `community_members_ibfk_2` FOREIGN KEY (`user_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/join_group.php:33
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/join_group.php(33): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/join_group.php on line 33
+[09-Mar-2026 11:40:42 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_messages.php:22
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_messages.php(22): mysqli->prepare('SELECT cm.id, c...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_messages.php on line 22
+[09-Mar-2026 11:43:03 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`community_groups`, CONSTRAINT `community_groups_ibfk_1` FOREIGN KEY (`created_by`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php:22
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php on line 22
+[09-Mar-2026 11:43:14 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`community_groups`, CONSTRAINT `community_groups_ibfk_1` FOREIGN KEY (`created_by`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php:22
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php on line 22
+[09-Mar-2026 11:44:19 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`community_members`, CONSTRAINT `community_members_ibfk_2` FOREIGN KEY (`user_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/join_group.php:33
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/join_group.php(33): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/join_group.php on line 33
+[09-Mar-2026 11:44:33 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_messages.php:22
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_messages.php(22): mysqli->prepare('SELECT cm.id, c...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_messages.php on line 22
+[09-Mar-2026 11:44:35 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_2` FOREIGN KEY (`sender_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 11:44:58 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_messages.php:22
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_messages.php(22): mysqli->prepare('SELECT cm.id, c...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_messages.php on line 22
+[09-Mar-2026 11:45:10 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_2` FOREIGN KEY (`sender_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 11:47:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[09-Mar-2026 11:58:08 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:6
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(6): mysqli->query('SELECT user_id,...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 6
+[09-Mar-2026 11:58:13 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:6
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(6): mysqli->query('SELECT user_id,...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 6
+[09-Mar-2026 11:58:55 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:6
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(6): mysqli->query('SELECT user_id,...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 6
+[09-Mar-2026 11:59:52 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:6
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(6): mysqli->query('SELECT user_id,...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 6
+[09-Mar-2026 12:00:03 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:6
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(6): mysqli->query('SELECT user_id,...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 6
+[09-Mar-2026 12:00:08 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:6
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(6): mysqli->query('SELECT user_id,...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 6
+[09-Mar-2026 12:00:09 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:6
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(6): mysqli->query('SELECT user_id,...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 6
+[09-Mar-2026 12:00:16 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_groups.php:24
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_groups.php(24): mysqli->query('SELECT \r\n    cg...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_groups.php on line 24
+[09-Mar-2026 12:48:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[09-Mar-2026 14:32:34 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.properties' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:14
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(14): mysqli->prepare('SELECT owner_id...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 14
+[09-Mar-2026 14:35:02 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.properties' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:17
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(17): mysqli->prepare('SELECT owner_id...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 17
+[09-Mar-2026 14:42:47 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:18
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(18): mysqli_stmt->bind_param('i', '178')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 18
+[09-Mar-2026 14:42:49 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:18
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(18): mysqli_stmt->bind_param('i', '178')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 18
+[09-Mar-2026 14:43:20 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:18
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(18): mysqli_stmt->bind_param('i', '178')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 18
+[09-Mar-2026 14:43:22 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:18
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(18): mysqli_stmt->bind_param('i', '178')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 18
+[09-Mar-2026 14:43:23 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:18
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(18): mysqli_stmt->bind_param('i', '178')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 18
+[09-Mar-2026 14:44:40 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 28
+[09-Mar-2026 14:44:40 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.bookings' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:39
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(39): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 39
+[09-Mar-2026 14:44:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 28
+[09-Mar-2026 14:44:41 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.bookings' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:39
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(39): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 39
+[09-Mar-2026 14:47:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 22
+[09-Mar-2026 14:47:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 22
+[09-Mar-2026 09:29:10 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 2
+[09-Mar-2026 09:29:12 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 2
+[09-Mar-2026 15:04:46 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.bookings' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:40
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(40): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 40
+[09-Mar-2026 16:02:16 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 16:02:16 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 16:02:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function getReference() on string in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/mark_as_read.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/mark_as_read.php on line 43
+[09-Mar-2026 16:03:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function getReference() on string in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/mark_as_read.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/mark_as_read.php on line 47
+[09-Mar-2026 17:03:26 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 17:07:00 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 17:08:28 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 18:54:30 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 18:54:47 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 19:01:24 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 19:01:26 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 19:01:32 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[09-Mar-2026 19:03:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[09-Mar-2026 19:03:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[09-Mar-2026 19:03:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[09-Mar-2026 19:03:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[09-Mar-2026 19:04:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[10-Mar-2026 12:35:32 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[10-Mar-2026 12:35:42 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[10-Mar-2026 12:40:23 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[10-Mar-2026 12:40:27 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[10-Mar-2026 12:40:27 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[10-Mar-2026 12:45:22 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[10-Mar-2026 12:45:34 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[10-Mar-2026 12:48:49 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[10-Mar-2026 12:48:57 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[10-Mar-2026 13:16:48 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[10-Mar-2026 15:30:16 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[10-Mar-2026 15:30:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[10-Mar-2026 15:40:42 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`private_chat_messages`, CONSTRAINT `private_chat_messages_ibfk_3` FOREIGN KEY (`receiver_id`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php:30
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php(30): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_message.php on line 30
+[10-Mar-2026 16:18:45 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.users' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_chats.php:42
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_chats.php(42): mysqli->prepare('SELECT \r\n    c....')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_chats.php on line 42
+[11-Mar-2026 16:07:51 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.property' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:14
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(14): mysqli->prepare('SELECT owner_id...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 14
+[11-Mar-2026 16:08:03 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.property' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:14
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(14): mysqli->prepare('SELECT owner_id...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 14
+[11-Mar-2026 16:09:30 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.property' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:14
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(14): mysqli->prepare('SELECT owner_id...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 14
+[11-Mar-2026 16:09:33 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.property' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:14
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(14): mysqli->prepare('SELECT owner_id...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 14
+[11-Mar-2026 16:09:33 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.property' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:14
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(14): mysqli->prepare('SELECT owner_id...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 14
+[11-Mar-2026 16:09:38 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.property' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:14
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(14): mysqli->prepare('SELECT owner_id...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 14
+[11-Mar-2026 16:10:59 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.property' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:18
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(18): mysqli->prepare('SELECT owner_id...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 18
+[11-Mar-2026 16:13:23 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.bookings' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:40
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(40): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 40
+[11-Mar-2026 16:13:25 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.bookings' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:40
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(40): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 40
+[11-Mar-2026 16:13:59 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.bookings' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:40
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(40): mysqli->prepare('SELECT DISTINCT...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 40
+[11-Mar-2026 16:16:11 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'staymate_dev.property' doesn't exist in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:14
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(14): mysqli->prepare('SELECT owner_id...')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 14
+[11-Mar-2026 16:28:57 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php:40
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php(40): mysqli_stmt->bind_param('ii', 189, '102')
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/get_all_users.php on line 40
+[11-Mar-2026 18:49:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[11-Mar-2026 18:50:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[13-Mar-2026 03:58:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[13-Mar-2026 20:09:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[17-Mar-2026 12:36:08 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`community_groups`, CONSTRAINT `community_groups_ibfk_1` FOREIGN KEY (`created_by`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php:22
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php on line 22
+[17-Mar-2026 12:36:09 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`staymate_dev`.`community_groups`, CONSTRAINT `community_groups_ibfk_1` FOREIGN KEY (`created_by`) REFERENCES `USERS` (`user_id`) ON DELETE CASCADE) in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php:22
+Stack trace:
+#0 /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/create_group.php on line 22
+[17-Mar-2026 22:29:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[20-Mar-2026 13:11:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[20-Mar-2026 13:12:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[20-Mar-2026 13:12:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[06-Apr-2026 10:28:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[09-Apr-2026 02:26:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[11-Apr-2026 23:34:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
+[11-Apr-2026 23:35:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "Kreait\Firebase\Factory" not found in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/pmpframe/staymate.pmpframe.com/NEWAPI/chats/send_community_message.php on line 11
